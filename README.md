@@ -60,6 +60,18 @@ Chinese:
 - `sitemap.xml`
 - `robots.txt`
 
+## Official image assets (optional local download)
+
+Homepage uses PlayStation Blog public image URLs as fallback.
+You can download them to local files with:
+
+```bash
+cd /Users/zhaobingkun/dev/7sinsorigin.com/7sinsorigin
+./scripts/download_playstation_images.sh
+```
+
+Downloaded files are saved in `assets/img/official/`.
+
 ## Local preview
 
 You can preview with any static server, for example:
