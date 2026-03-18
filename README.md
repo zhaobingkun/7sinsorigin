@@ -31,6 +31,8 @@ English:
 - `/beginner-guide/`
 - `/news/`
 - `/news/2026/03/march-playlist-update/`
+- `/about/`
+- `/contact/`
 
 Chinese:
 - `/zh/`
@@ -42,6 +44,8 @@ Chinese:
 - `/zh/beginner-guide/`
 - `/zh/news/`
 - `/zh/news/2026/03/march-playlist-update/`
+- `/zh/about/`
+- `/zh/contact/`
 
 ## External links included
 
