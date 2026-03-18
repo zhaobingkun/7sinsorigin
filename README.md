@@ -1,28 +1,75 @@
-# 7sinsorigin
+# 7sinsorigin.com
 
-这是 7sinsorigin 项目的 README。你可以在这里写项目介绍、安装与运行步骤、技术栈等。
+SEO-oriented static site scaffold for **The Seven Deadly Sins: Origin** game information.
 
-## 快速开始
+## Language structure
 
-1. 克隆仓库
-   ```bash
-git clone git@github.com:zhaobingkun/7sinsorigin.git
-cd 7sinsorigin
+- English (default): `/`
+- Chinese: `/zh/`
+
+This structure is intentional for SEO:
+- the root URL targets global/English search traffic
+- Chinese content is grouped under `/zh/`
+- pages include canonical and hreflang annotations
+
+## Main keyword focus
+
+- seven deadly sins origin
+- the seven deadly sins origin
+- the seven deadly sins: origin
+- 7ds origin
+
+## Current pages
+
+English:
+- `/`
+- `/seven-deadly-sins-origin/`
+- `/release-date/`
+- `/pre-register/`
+- `/characters/`
+- `/tier-list/`
+- `/beginner-guide/`
+- `/news/`
+- `/news/2026/03/march-playlist-update/`
+
+Chinese:
+- `/zh/`
+- `/zh/seven-deadly-sins-origin/`
+- `/zh/release-date/`
+- `/zh/pre-register/`
+- `/zh/characters/`
+- `/zh/tier-list/`
+- `/zh/beginner-guide/`
+- `/zh/news/`
+- `/zh/news/2026/03/march-playlist-update/`
+
+## External links included
+
+- Download: `https://7origin.netmarble.com/game`
+- Pre-register: `https://7origin.netmarble.com/preorder`
+- Twitter/X: `https://x.com/netmarbleglobal`
+- Facebook: `https://www.facebook.com/netmarbleglobal`
+- Reddit: `https://www.reddit.com/r/SDSGrandCross/`
+
+## SEO and crawl files
+
+- `sitemap.xml`
+- `robots.txt`
+
+## Local preview
+
+You can preview with any static server, for example:
+
+```bash
+cd /Users/zhaobingkun/dev/7sinsorigin.com/7sinsorigin
+python3 -m http.server 8080
 ```
-2. 安装依赖
-   ```bash
-# 根据项目类型执行相应命令，例如 npm install 或 pip install -r requirements.txt
-```
-3. 运行项目
-   ```bash
-# 根据项目类型执行相应命令，例如 npm start
-```
 
-## 目录结构
+Then open `http://localhost:8080`.
 
-- `README.md` - 项目说明
-- `...` - 其他项目文件
+## Next recommended tasks
 
-## 贡献
-
-欢迎提交 issue 和 PR。
+- connect domain DNS and hosting
+- submit sitemap to Google Search Console and Bing Webmaster Tools
+- add structured data (FAQ/Article/Breadcrumb)
+- publish recurring update posts to build long-tail keyword traffic
