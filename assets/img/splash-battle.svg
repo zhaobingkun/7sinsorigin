@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="100" y1="70" x2="1130" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A144B"/>
+      <stop offset="0.5" stop-color="#5035A3"/>
+      <stop offset="1" stop-color="#8266E6"/>
+    </linearGradient>
+    <radialGradient id="pulse" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(760 330) rotate(135) scale(320)">
+      <stop stop-color="#FFD17D" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#FFD17D" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <rect width="1200" height="700" fill="url(#pulse)"/>
+  <g opacity="0.28" stroke="#F9EEFF" stroke-width="2.2">
+    <path d="M150 550L1060 130"/>
+    <path d="M210 620L1120 200"/>
+    <path d="M60 470L970 50"/>
+  </g>
+  <path d="M120 650L310 450L460 520L650 330L820 410L1040 180L1200 260V700H120V650Z" fill="#241257"/>
+  <path d="M0 700L280 530L430 580L610 420L780 500L960 300L1200 430V700H0Z" fill="#3A1D7D" opacity="0.82"/>
+  <circle cx="260" cy="200" r="64" fill="#86F8FF" opacity="0.75"/>
+</svg>

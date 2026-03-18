@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="80" y1="20" x2="1100" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#192A7D"/>
+      <stop offset="0.58" stop-color="#2E4EC2"/>
+      <stop offset="1" stop-color="#5D8FFF"/>
+    </linearGradient>
+    <linearGradient id="land" x1="640" y1="360" x2="640" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11275F"/>
+      <stop offset="1" stop-color="#0C1D49"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#sky)"/>
+  <path d="M0 480L130 430L220 470L350 390L470 450L620 360L760 430L880 370L1010 430L1120 380L1200 420V700H0V480Z" fill="url(#land)"/>
+  <path d="M0 560L150 520L280 550L430 500L570 540L710 500L850 530L980 500L1200 560V700H0V560Z" fill="#102B63" opacity="0.85"/>
+  <circle cx="920" cy="170" r="74" fill="#F6E9B6"/>
+  <g opacity="0.4" stroke="#E9F0FF" stroke-width="2">
+    <path d="M150 120H460"/>
+    <path d="M220 190H520"/>
+    <path d="M740 120H1060"/>
+  </g>
+  <rect x="540" y="290" width="120" height="210" rx="8" fill="#EAF1FF"/>
+  <rect x="574" y="238" width="52" height="84" fill="#EAF1FF"/>
+  <rect x="594" y="168" width="12" height="75" fill="#EAF1FF"/>
+</svg>

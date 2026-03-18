@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" fill="none">
+  <defs>
+    <linearGradient id="bg2" x1="110" y1="80" x2="1110" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E3141"/>
+      <stop offset="0.55" stop-color="#13617B"/>
+      <stop offset="1" stop-color="#22A6AF"/>
+    </linearGradient>
+    <linearGradient id="plinth" x1="600" y1="260" x2="600" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DDF9FF"/>
+      <stop offset="1" stop-color="#9EDAE4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg2)"/>
+  <circle cx="230" cy="170" r="80" fill="#C7FFEF" opacity="0.55"/>
+  <circle cx="1010" cy="150" r="62" fill="#E4FFD0" opacity="0.45"/>
+  <g opacity="0.24" stroke="#E8FFFF" stroke-width="2">
+    <path d="M90 540H1110"/>
+    <path d="M130 500H1070"/>
+    <path d="M170 460H1030"/>
+  </g>
+  <path d="M140 700L220 470H360L440 700H140Z" fill="url(#plinth)"/>
+  <path d="M470 700L550 390H650L730 700H470Z" fill="url(#plinth)"/>
+  <path d="M760 700L840 430H980L1060 700H760Z" fill="url(#plinth)"/>
+  <circle cx="290" cy="350" r="64" fill="#E3FDFF"/>
+  <circle cx="600" cy="290" r="72" fill="#E3FDFF"/>
+  <circle cx="910" cy="330" r="68" fill="#E3FDFF"/>
+</svg>
