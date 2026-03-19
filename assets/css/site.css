@@ -353,6 +353,36 @@ p {
   padding: 0.26rem 0.62rem;
 }
 
+.hero-news {
+  margin-top: 1rem;
+  border: 1px solid rgba(163, 211, 176, 0.72);
+  border-radius: 12px;
+  background: rgba(248, 255, 249, 0.86);
+  padding: 0.72rem 0.78rem;
+}
+
+.hero-news h3 {
+  margin: 0 0 0.46rem;
+  font-size: 1rem;
+}
+
+.hero-news-list {
+  margin: 0;
+  padding-left: 1.05rem;
+}
+
+.hero-news-list li {
+  margin-bottom: 0.36rem;
+}
+
+.hero-news-list li:last-child {
+  margin-bottom: 0;
+}
+
+.hero-news-list a {
+  font-weight: 700;
+}
+
 .kv {
   margin: 0;
   padding-left: 1.08rem;
