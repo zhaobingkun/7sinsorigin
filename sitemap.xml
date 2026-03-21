@@ -38,9 +38,15 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/beginner-guide/</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/beginner-guide/all-characters-unlock/</loc>
+    <lastmod>2026-03-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/news/</loc>
@@ -129,9 +135,15 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/beginner-guide/</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/beginner-guide/all-characters-unlock/</loc>
+    <lastmod>2026-03-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/news/</loc>
