@@ -49,6 +49,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://7sinsorigin.com/beginner-guide/ssr-weapon-ocr/</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://7sinsorigin.com/news/</loc>
     <lastmod>2026-03-20</lastmod>
     <changefreq>daily</changefreq>
@@ -142,6 +148,12 @@
   <url>
     <loc>https://7sinsorigin.com/zh/beginner-guide/all-characters-unlock/</loc>
     <lastmod>2026-03-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/beginner-guide/ssr-weapon-ocr/</loc>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

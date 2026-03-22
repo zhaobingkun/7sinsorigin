@@ -849,6 +849,77 @@ p {
   line-height: 1.45;
 }
 
+.weapon-note {
+  margin-top: 0.6rem;
+}
+
+.weapon-shot-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-top: 0.9rem;
+}
+
+.weapon-shot {
+  margin: 0;
+  border: 1px solid rgba(162, 210, 177, 0.86);
+  border-radius: 14px;
+  padding: 0.55rem;
+  background: linear-gradient(180deg, rgba(252, 255, 252, 0.98), rgba(236, 251, 240, 0.9));
+  box-shadow: var(--shadow-sm);
+}
+
+.weapon-shot img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.weapon-shot figcaption {
+  margin-top: 0.42rem;
+  font-size: 0.88rem;
+  color: #2a2a2a;
+}
+
+.weapon-ocr-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-top: 0.9rem;
+}
+
+.weapon-ocr-card {
+  border: 1px solid rgba(162, 210, 177, 0.86);
+  border-radius: 14px;
+  padding: 0.65rem;
+  background: linear-gradient(180deg, rgba(252, 255, 252, 0.98), rgba(236, 251, 240, 0.9));
+  box-shadow: var(--shadow-sm);
+  display: grid;
+  grid-template-columns: 112px 1fr;
+  gap: 0.72rem;
+  align-items: center;
+}
+
+.weapon-ocr-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  border: 1px solid rgba(245, 204, 56, 0.8);
+  background: #0f1b32;
+}
+
+.weapon-ocr-card h3 {
+  margin: 0 0 0.25rem;
+  font-size: 1.06rem;
+  color: #111111;
+}
+
+.weapon-ocr-card .small {
+  margin: 0;
+  color: #2d2d2d;
+}
+
 .small {
   font-size: 0.9rem;
   color: var(--muted);
@@ -1052,6 +1123,18 @@ p {
   .hero-figure img,
   .hero-figure-small img {
     height: 160px;
+  }
+
+  .weapon-shot-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .weapon-ocr-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .weapon-ocr-card {
+    grid-template-columns: 1fr;
   }
 
   .article-hero img {
