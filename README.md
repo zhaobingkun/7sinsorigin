@@ -59,6 +59,7 @@ Chinese:
 
 - `sitemap.xml`
 - `robots.txt`
+- `SEO-OPS.md` (weekly SEO operation checklist)
 
 ## Official image assets (optional local download)
 
@@ -75,9 +76,17 @@ Downloaded files are saved in `assets/img/official/`.
 
  open `https://7sinsorigin.com`.
 
-## Next recommended tasks
+## SEO baseline (implemented)
 
-- connect domain DNS and hosting
-- submit sitemap to Google Search Console and Bing Webmaster Tools
-- add structured data (FAQ/Article/Breadcrumb)
-- publish recurring update posts to build long-tail keyword traffic
+- all HTML pages now include:
+  - `robots` with `max-image-preview:large`
+  - `theme-color`
+  - Open Graph tags (`og:*`)
+  - Twitter card tags
+  - JSON-LD (`WebPage` fallback on pages without existing schema)
+- sitemap `lastmod` values refreshed to `2026-03-23`
+
+## Recommended next actions
+
+- submit sitemap in Google Search Console and Bing Webmaster Tools
+- keep weekly publishing cadence (see `SEO-OPS.md`)
