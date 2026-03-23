@@ -73,7 +73,7 @@ cd /Users/zhaobingkun/dev/7sinsorigin.com/7sinsorigin
 Downloaded files are saved in `assets/img/official/`.
 
 
- open `https://7sinsorigin.com/:8080`.
+ open `https://7sinsorigin.com`.
 
 ## Next recommended tasks
 
