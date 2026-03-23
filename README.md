@@ -72,16 +72,8 @@ cd /Users/zhaobingkun/dev/7sinsorigin.com/7sinsorigin
 
 Downloaded files are saved in `assets/img/official/`.
 
-## Local preview
 
-You can preview with any static server, for example:
-
-```bash
-cd /Users/zhaobingkun/dev/7sinsorigin.com/7sinsorigin
-python3 -m http.server 8080
-```
-
-Then open `http://localhost:8080`.
+ open `https://7sinsorigin.com/:8080`.
 
 ## Next recommended tasks
 
