@@ -921,8 +921,13 @@ p {
 }
 
 .armor-list .weapon-ocr-card {
-  grid-template-columns: 1fr;
+  grid-template-columns: 96px 1fr;
   padding: 0.72rem;
+}
+
+.armor-list .weapon-ocr-card img {
+  width: 96px;
+  max-width: 100%;
 }
 
 .small {
