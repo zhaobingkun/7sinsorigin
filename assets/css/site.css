@@ -920,6 +920,11 @@ p {
   color: #2d2d2d;
 }
 
+.armor-list .weapon-ocr-card {
+  grid-template-columns: 1fr;
+  padding: 0.72rem;
+}
+
 .small {
   font-size: 0.9rem;
   color: var(--muted);
