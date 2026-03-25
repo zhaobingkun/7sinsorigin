@@ -61,6 +61,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://7sinsorigin.com/beginner-guide/pets/</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://7sinsorigin.com/news/</loc>
     <lastmod>2026-03-23</lastmod>
     <changefreq>daily</changefreq>
@@ -165,6 +171,12 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/beginner-guide/armor/</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/beginner-guide/pets/</loc>
     <lastmod>2026-03-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
