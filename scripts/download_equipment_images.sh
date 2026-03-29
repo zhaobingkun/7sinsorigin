@@ -13,6 +13,10 @@ if [[ -z "${URLS}" ]]; then
   exit 1
 fi
 
+failed=0
+skipped=0
+downloaded=0
+
 while IFS= read -r url; do
   [[ -z "$url" ]] && continue
   trimmed="${url%/show}"
@@ -23,9 +27,17 @@ while IFS= read -r url; do
 
   if [[ ! -s "$target" ]]; then
     echo "Downloading: $url"
-    curl -fL --retry 3 --retry-delay 1 -A "Mozilla/5.0" "$url" -o "$target"
+    if curl -fL --retry 3 --retry-delay 1 -A "Mozilla/5.0" "$url" -o "$target"; then
+      downloaded=$((downloaded + 1))
+    else
+      echo "Failed: $url"
+      failed=$((failed + 1))
+      rm -f "$target"
+      continue
+    fi
   else
     echo "Skip existing: $local_name"
+    skipped=$((skipped + 1))
   fi
 
   rel_path="/assets/img/equipment/$local_name"
@@ -35,3 +47,4 @@ while IFS= read -r url; do
 done <<< "$URLS"
 
 echo "Done. Local equipment images saved under: $OUT_DIR"
+echo "Downloaded: $downloaded | Existing reused: $skipped | Failed: $failed"
