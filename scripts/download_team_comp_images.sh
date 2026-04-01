@@ -88,7 +88,7 @@ while IFS='|' read -r key url label; do
     fi
   else
     if [[ -s "$png_path" ]]; then
-      before_count="$(grep -o "$svg_ref" "$EN_FILE" "$ZH_FILE" 2>/dev/null | wc -l | tr -d ' ')"
+      before_count="$( (grep -o "$svg_ref" "$EN_FILE" "$ZH_FILE" 2>/dev/null || true) | wc -l | tr -d ' ' )"
       if [[ "${before_count:-0}" -gt 0 ]]; then
         escaped_svg="${svg_ref//\//\\/}"
         escaped_png="${png_ref//\//\\/}"
