@@ -73,6 +73,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://7sinsorigin.com/beginner-guide/best-team-comps/</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/beginner-guide/party-setup-tips/</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://7sinsorigin.com/news/</loc>
     <lastmod>2026-03-23</lastmod>
     <changefreq>daily</changefreq>
@@ -120,7 +132,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-
   <url>
     <loc>https://7sinsorigin.com/zh/</loc>
     <lastmod>2026-03-23</lastmod>
@@ -190,6 +201,18 @@
   <url>
     <loc>https://7sinsorigin.com/zh/beginner-guide/pets/</loc>
     <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/beginner-guide/best-team-comps/</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/beginner-guide/party-setup-tips/</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
