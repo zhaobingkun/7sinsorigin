@@ -1,4 +1,49 @@
 (function () {
+  var GA_ID = 'G-CP46SFNL6W';
+  var analyticsLoaded = false;
+
+  function loadAnalytics() {
+    if (analyticsLoaded || !GA_ID || !document.head) {
+      return;
+    }
+
+    analyticsLoaded = true;
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = window.gtag || function () {
+      window.dataLayer.push(arguments);
+    };
+
+    window.gtag('js', new Date());
+    window.gtag('config', GA_ID);
+
+    var gaScript = document.createElement('script');
+    gaScript.async = true;
+    gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(GA_ID);
+    document.head.appendChild(gaScript);
+
+    removeAnalyticsListeners();
+  }
+
+  var analyticsEvents = ['pointerdown', 'scroll', 'keydown', 'touchstart'];
+
+  function removeAnalyticsListeners() {
+    analyticsEvents.forEach(function (eventName) {
+      window.removeEventListener(eventName, loadAnalytics, listenerOptions);
+    });
+  }
+
+  var listenerOptions = { passive: true };
+
+  analyticsEvents.forEach(function (eventName) {
+    window.addEventListener(eventName, loadAnalytics, listenerOptions);
+  });
+
+  if ('requestIdleCallback' in window) {
+    window.requestIdleCallback(loadAnalytics, { timeout: 3500 });
+  } else {
+    window.setTimeout(loadAnalytics, 3500);
+  }
+
   var yearEl = document.querySelector('[data-year]');
   if (yearEl) {
     yearEl.textContent = String(new Date().getFullYear());
