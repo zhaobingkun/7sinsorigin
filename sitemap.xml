@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://7sinsorigin.com/</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/seven-deadly-sins-origin/</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/beginner-guide/</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -93,6 +93,36 @@
   <url>
     <loc>https://7sinsorigin.com/beginner-guide/fishing/</loc>
     <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/beginner-guide/leveling-fast/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/beginner-guide/material-farming/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/beginner-guide/weapon-upgrade/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/beginner-guide/story-progression/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/beginner-guide/free-rewards/</loc>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -200,13 +230,13 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/seven-deadly-sins-origin/</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -236,7 +266,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/beginner-guide/</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -291,6 +321,36 @@
   <url>
     <loc>https://7sinsorigin.com/zh/beginner-guide/fishing/</loc>
     <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/beginner-guide/leveling-fast/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/beginner-guide/material-farming/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/beginner-guide/weapon-upgrade/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/beginner-guide/story-progression/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/beginner-guide/free-rewards/</loc>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -449,6 +509,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/systems/</loc>
+    <lastmod>2026-04-16</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/systems/gacha-pity/</loc>
@@ -466,6 +527,26 @@
     <loc>https://7sinsorigin.com/systems/knighthood/</loc>
   </url>
   <url>
+    <loc>https://7sinsorigin.com/systems/open-world-exploration/</loc>
+    <lastmod>2026-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/systems/co-op-and-party-play/</loc>
+    <lastmod>2026-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/systems/mounts-and-fast-travel/</loc>
+    <lastmod>2026-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/systems/day-night-and-weather/</loc>
+    <lastmod>2026-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/systems/progression-and-upgrades/</loc>
+    <lastmod>2026-04-16</lastmod>
+  </url>
+  <url>
     <loc>https://7sinsorigin.com/zh/banners/</loc>
   </url>
   <url>
@@ -476,7 +557,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/systems/</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-04-16</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/systems/gacha-pity/</loc>
@@ -492,6 +573,26 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/systems/knighthood/</loc>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/systems/open-world-exploration/</loc>
+    <lastmod>2026-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/systems/co-op-and-party-play/</loc>
+    <lastmod>2026-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/systems/mounts-and-fast-travel/</loc>
+    <lastmod>2026-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/systems/day-night-and-weather/</loc>
+    <lastmod>2026-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/systems/progression-and-upgrades/</loc>
+    <lastmod>2026-04-16</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/bugs-errors/</loc>
