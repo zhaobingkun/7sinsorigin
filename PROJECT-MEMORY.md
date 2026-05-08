@@ -171,3 +171,6 @@
   - troubleshooting pages
   - systems pages tied to real query intent
 - Preserve the current bilingual hub-and-child architecture; it is one of the strongest parts of this project
+
+
+Post-launch expansion added on 2026-05-08: current tier list, current banner decision, diamond farming, beginner team, F2P team, post-launch mistakes, and three troubleshooting pages with zh mirrors.

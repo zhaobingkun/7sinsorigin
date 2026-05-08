@@ -90,3 +90,6 @@ Downloaded files are saved in `assets/img/official/`.
 
 - submit sitemap in Google Search Console and Bing Webmaster Tools
 - keep weekly publishing cadence (see `SEO-OPS.md`)
+
+
+Post-launch expansion added on 2026-05-08: current tier list, current banner decision, diamond farming, beginner team, F2P team, post-launch mistakes, and three troubleshooting pages with zh mirrors.
