@@ -1,0 +1,6 @@
+.DS_Store
+scripts/__pycache__/
+scripts/web.json
+scripts/zhaobingkunny5-*.json
+scripts/service-account*.json
+scripts/*service-account*.json

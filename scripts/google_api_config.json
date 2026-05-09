@@ -1,0 +1,11 @@
+{
+  "GOOGLE_APPLICATION_CREDENTIALS": "zhaobingkunny5-c74da1ba9a43.json",
+  "GSC_SITE_URL": "https://7sinsorigin.com/",
+  "GA4_PROPERTY_ID": "378657081",
+  "SEO_AUDIT_DAYS": 30,
+  "RUN_GSC": true,
+  "RUN_GA4": false,
+  "GSC_ROW_LIMIT": 5000,
+  "HTTP_TIMEOUT_SECS": 12000,
+  "RUN_GA4_ADMIN": false
+}
