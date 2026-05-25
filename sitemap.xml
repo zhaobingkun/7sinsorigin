@@ -128,9 +128,21 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/news/</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/news/2026/05/version-1-3-part-2-update-details/</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/news/2026/05/version-1-3-part-1-update-details/</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/news/2026/04/patchnotes-1-1-here/</loc>
@@ -356,8 +368,20 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/news/</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/news/2026/05/version-1-3-part-2-update-details/</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/news/2026/05/version-1-3-part-1-update-details/</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -458,33 +482,43 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/characters/diane/</loc>
+    <lastmod>2026-05-24</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/characters/king/</loc>
+    <lastmod>2026-05-24</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/characters/tristan/</loc>
+    <lastmod>2026-05-24</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/characters/tioreh/</loc>
+    <lastmod>2026-05-24</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/characters/clotho/</loc>
+    <lastmod>2026-05-24</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/characters/diane/</loc>
+    <lastmod>2026-05-24</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/characters/king/</loc>
+    <lastmod>2026-05-24</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/characters/tristan/</loc>
+    <lastmod>2026-05-24</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/characters/tioreh/</loc>
+    <lastmod>2026-05-24</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/characters/clotho/</loc>
+    <lastmod>2026-05-24</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/characters/elaine/</loc>
@@ -599,6 +633,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/best-banner-to-pull/</loc>
+    <lastmod>2026-05-24</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/server-reset-times/</loc>
@@ -611,6 +646,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/best-banner-to-pull/</loc>
+    <lastmod>2026-05-24</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/server-reset-times/</loc>
@@ -723,10 +759,10 @@
   <url><loc>https://7sinsorigin.com/zh/best-f2p-team-may-2026/</loc><lastmod>2026-05-08</lastmod></url>
   <url><loc>https://7sinsorigin.com/how-to-farm-diamonds-fast/</loc><lastmod>2026-05-08</lastmod></url>
   <url><loc>https://7sinsorigin.com/zh/how-to-farm-diamonds-fast/</loc><lastmod>2026-05-08</lastmod></url>
-  <url><loc>https://7sinsorigin.com/current-banner-worth-it/</loc><lastmod>2026-05-08</lastmod></url>
-  <url><loc>https://7sinsorigin.com/zh/current-banner-worth-it/</loc><lastmod>2026-05-08</lastmod></url>
-  <url><loc>https://7sinsorigin.com/next-banner-should-you-save/</loc><lastmod>2026-05-08</lastmod></url>
-  <url><loc>https://7sinsorigin.com/zh/next-banner-should-you-save/</loc><lastmod>2026-05-08</lastmod></url>
+  <url><loc>https://7sinsorigin.com/current-banner-worth-it/</loc><lastmod>2026-05-24</lastmod></url>
+  <url><loc>https://7sinsorigin.com/zh/current-banner-worth-it/</loc><lastmod>2026-05-24</lastmod></url>
+  <url><loc>https://7sinsorigin.com/next-banner-should-you-save/</loc><lastmod>2026-05-24</lastmod></url>
+  <url><loc>https://7sinsorigin.com/zh/next-banner-should-you-save/</loc><lastmod>2026-05-24</lastmod></url>
   <url><loc>https://7sinsorigin.com/top-10-beginner-mistakes-after-launch/</loc><lastmod>2026-05-08</lastmod></url>
   <url><loc>https://7sinsorigin.com/zh/top-10-beginner-mistakes-after-launch/</loc><lastmod>2026-05-08</lastmod></url>
   <url><loc>https://7sinsorigin.com/crash-on-launch-fix/</loc><lastmod>2026-05-08</lastmod></url>
