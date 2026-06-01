@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://7sinsorigin.com/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-05-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -26,19 +26,19 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/characters/</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/tier-list/</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/beginner-guide/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -128,9 +128,15 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/news/</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/news/2026/05/developer-notes-13-version-1-5/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/news/2026/05/version-1-3-part-2-update-details/</loc>
@@ -242,7 +248,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-05-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -266,19 +272,19 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/characters/</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/tier-list/</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/beginner-guide/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -368,7 +374,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/news/</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -757,10 +763,20 @@
   <url><loc>https://7sinsorigin.com/zh/best-team-for-beginners-may-2026/</loc><lastmod>2026-05-08</lastmod></url>
   <url><loc>https://7sinsorigin.com/best-f2p-team-may-2026/</loc><lastmod>2026-05-08</lastmod></url>
   <url><loc>https://7sinsorigin.com/zh/best-f2p-team-may-2026/</loc><lastmod>2026-05-08</lastmod></url>
+  <url><loc>https://7sinsorigin.com/current-tier-list-june-2026/</loc><lastmod>2026-05-31</lastmod></url>
+  <url><loc>https://7sinsorigin.com/zh/current-tier-list-june-2026/</loc><lastmod>2026-05-31</lastmod></url>
+  <url><loc>https://7sinsorigin.com/best-team-for-beginners-june-2026/</loc><lastmod>2026-05-31</lastmod></url>
+  <url><loc>https://7sinsorigin.com/zh/best-team-for-beginners-june-2026/</loc><lastmod>2026-05-31</lastmod></url>
+  <url><loc>https://7sinsorigin.com/best-f2p-team-june-2026/</loc><lastmod>2026-05-31</lastmod></url>
+  <url><loc>https://7sinsorigin.com/zh/best-f2p-team-june-2026/</loc><lastmod>2026-05-31</lastmod></url>
   <url><loc>https://7sinsorigin.com/how-to-farm-diamonds-fast/</loc><lastmod>2026-05-08</lastmod></url>
   <url><loc>https://7sinsorigin.com/zh/how-to-farm-diamonds-fast/</loc><lastmod>2026-05-08</lastmod></url>
-  <url><loc>https://7sinsorigin.com/current-banner-worth-it/</loc><lastmod>2026-05-24</lastmod></url>
-  <url><loc>https://7sinsorigin.com/zh/current-banner-worth-it/</loc><lastmod>2026-05-24</lastmod></url>
+  <url><loc>https://7sinsorigin.com/current-banner-worth-it/</loc><lastmod>2026-05-31</lastmod></url>
+  <url><loc>https://7sinsorigin.com/zh/current-banner-worth-it/</loc><lastmod>2026-05-31</lastmod></url>
+  <url><loc>https://7sinsorigin.com/daisy-banner-worth-it/</loc><lastmod>2026-05-31</lastmod></url>
+  <url><loc>https://7sinsorigin.com/zh/daisy-banner-worth-it/</loc><lastmod>2026-05-31</lastmod></url>
+  <url><loc>https://7sinsorigin.com/escanor-banner-worth-it/</loc><lastmod>2026-05-31</lastmod></url>
+  <url><loc>https://7sinsorigin.com/zh/escanor-banner-worth-it/</loc><lastmod>2026-05-31</lastmod></url>
   <url><loc>https://7sinsorigin.com/next-banner-should-you-save/</loc><lastmod>2026-05-24</lastmod></url>
   <url><loc>https://7sinsorigin.com/zh/next-banner-should-you-save/</loc><lastmod>2026-05-24</lastmod></url>
   <url><loc>https://7sinsorigin.com/top-10-beginner-mistakes-after-launch/</loc><lastmod>2026-05-08</lastmod></url>
@@ -771,4 +787,178 @@
   <url><loc>https://7sinsorigin.com/zh/mobile-performance-settings/</loc><lastmod>2026-05-08</lastmod></url>
   <url><loc>https://7sinsorigin.com/steam-controller-not-working/</loc><lastmod>2026-05-08</lastmod></url>
   <url><loc>https://7sinsorigin.com/zh/steam-controller-not-working/</loc><lastmod>2026-05-08</lastmod></url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/news/2026/05/developer-notes-13-version-1-5/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/characters/daisy/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/characters/escanor/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/characters/daisy/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/characters/escanor/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/systems/raid/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/systems/raid/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/systems/time-attack-ranking/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/systems/time-attack-ranking/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/systems/armor-rework-and-equipment-sets/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/systems/armor-rework-and-equipment-sets/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/systems/star-trace-crystalloid/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/systems/star-trace-crystalloid/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/systems/growth-system-revamp/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/systems/growth-system-revamp/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/systems/potential-points-guide/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/systems/potential-points-guide/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/systems/equipment-balance-revamp/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/systems/equipment-balance-revamp/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/systems/raid-rewards-and-weekly-prep/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/systems/raid-rewards-and-weekly-prep/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/best-raid-team-june-2026/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/best-raid-team-june-2026/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/how-to-farm-star-fragments/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/how-to-farm-star-fragments/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/daisy-potential-effects/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/daisy-potential-effects/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/escanor-team-comp/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/escanor-team-comp/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
