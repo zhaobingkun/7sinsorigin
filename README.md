@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `198`
+Current `index.html` count: `250`
 
 English:
 - `/`

@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `198`
+- Current `index.html` count: `250`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
