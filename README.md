@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `250`
+Current `index.html` count: `256`
 
 English:
 - `/`
@@ -98,3 +98,5 @@ Downloaded files are saved in `assets/img/official/`.
 Post-launch expansion added on 2026-05-08: current tier list, current banner decision, diamond farming, beginner team, F2P team, post-launch mistakes, and three troubleshooting pages with zh mirrors.
 
 May 2026 refresh added on 2026-05-24: Version 1.3 Part 1 and Part 2 news coverage, deeper pull-intent pages, and missing EN/ZH character language-entry fixes.
+
+June 20 refresh added Developer Notes #14 / Version 1.6, the 100-day giveaway and livestream, and June 19 server-patch coverage with Chinese mirrors.

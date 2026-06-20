@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://7sinsorigin.com/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -128,7 +128,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/news/</loc>
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -236,7 +236,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/events-schedule/</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -254,7 +254,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -380,7 +380,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/news/</loc>
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -482,7 +482,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/events-schedule/</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -558,6 +558,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/banners/upcoming/</loc>
+    <lastmod>2026-06-20</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/systems/</loc>
@@ -606,6 +607,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/banners/upcoming/</loc>
+    <lastmod>2026-06-20</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/systems/</loc>
@@ -789,8 +791,8 @@
   <url><loc>https://7sinsorigin.com/zh/current-banner-worth-it/</loc><lastmod>2026-06-17</lastmod></url>
   <url><loc>https://7sinsorigin.com/daisy-banner-worth-it/</loc><lastmod>2026-06-17</lastmod></url>
   <url><loc>https://7sinsorigin.com/zh/daisy-banner-worth-it/</loc><lastmod>2026-06-17</lastmod></url>
-  <url><loc>https://7sinsorigin.com/escanor-banner-worth-it/</loc><lastmod>2026-06-17</lastmod></url>
-  <url><loc>https://7sinsorigin.com/zh/escanor-banner-worth-it/</loc><lastmod>2026-06-17</lastmod></url>
+  <url><loc>https://7sinsorigin.com/escanor-banner-worth-it/</loc><lastmod>2026-06-20</lastmod></url>
+  <url><loc>https://7sinsorigin.com/zh/escanor-banner-worth-it/</loc><lastmod>2026-06-20</lastmod></url>
   <url><loc>https://7sinsorigin.com/next-banner-should-you-save/</loc><lastmod>2026-05-24</lastmod></url>
   <url><loc>https://7sinsorigin.com/zh/next-banner-should-you-save/</loc><lastmod>2026-05-24</lastmod></url>
   <url><loc>https://7sinsorigin.com/top-10-beginner-mistakes-after-launch/</loc><lastmod>2026-06-11</lastmod></url>
@@ -821,7 +823,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/characters/escanor/</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -839,7 +841,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/characters/escanor/</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1032,6 +1034,42 @@
   <url>
     <loc>https://7sinsorigin.com/zh/news/2026/06/june-5-server-patch-known-issues/</loc>
     <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/news/2026/06/june-19-server-patch/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/news/2026/06/developer-notes-14-version-1-6/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/news/2026/06/100-day-anniversary-giveaway-livestream/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/news/2026/06/june-19-server-patch/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/news/2026/06/developer-notes-14-version-1-6/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/news/2026/06/100-day-anniversary-giveaway-livestream/</loc>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
