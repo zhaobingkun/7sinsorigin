@@ -32,3 +32,9 @@
 - Check sitemap URL uniqueness and all local links after adding bilingual pages.
 - Verify new pages include official source links and existing local assets.
 - A local HTTP 200 response confirms resources are available, but visual browser QA is still useful for layout-sensitive changes.
+
+## Daily Check Log
+
+- 2026-06-21: attempted to check the official Netmarble news API, official pages, search, and the in-app browser. The official domain could not be reached from the available network paths, so no current-content claim was treated as verified and no site content was changed.
+- 2026-06-22: repeated the official API, official-site search, direct network, public-DNS, YouTube, and X checks, including a later retry. External DNS resolution remained unavailable, so today's official update status could not be verified and no site content was changed.
+- 2026-06-23: official Netmarble API returned a new `Version 1.6 Maintenance Schedule` notice. Added EN/ZH news pages, updated homepage/news hubs, refreshed current/upcoming banner wording for the June 24 maintenance boundary, updated sitemap, and raised the page count to `258`.
