@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `258`
+Current `index.html` count: `264`
 
 English:
 - `/`
@@ -102,3 +102,7 @@ May 2026 refresh added on 2026-05-24: Version 1.3 Part 1 and Part 2 news coverag
 June 20 refresh added Developer Notes #14 / Version 1.6, the 100-day giveaway and livestream, and June 19 server-patch coverage with Chinese mirrors.
 
 June 23 refresh added Version 1.6 maintenance-schedule coverage with Chinese mirror, updated current/upcoming banner routing, and refreshed homepage/news entries.
+
+June 24 refresh added Version 1.6 update-details coverage, Elizabeth character pages, Elizabeth banner decision pages, corrected the maintenance change to June 25, and refreshed current/upcoming banner routing with Chinese mirrors.
+
+June 25 refresh marked Version 1.6 maintenance as completed, moved Elizabeth from upcoming to current banner routing, and refreshed best-banner/current-banner decision pages without changing the page count.
