@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://7sinsorigin.com/</loc>
-    <lastmod>2026-06-25</lastmod>
+    <lastmod>2026-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -128,7 +128,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/news/</loc>
-    <lastmod>2026-06-25</lastmod>
+    <lastmod>2026-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -380,7 +380,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/news/</loc>
-    <lastmod>2026-06-25</lastmod>
+    <lastmod>2026-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -654,7 +654,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/bugs-errors/</loc>
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-06-26</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/best-banner-to-pull/</loc>
@@ -668,7 +668,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/bugs-errors/</loc>
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-06-26</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/best-banner-to-pull/</loc>
@@ -1121,6 +1121,54 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/elizabeth-banner-worth-it/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/news/2026/06/developer-notes-15/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/news/2026/06/developer-notes-15/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/news/2026/06/version-1-6-known-issues/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/news/2026/06/version-1-6-known-issues/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/news/2026/06/missing-potential-points-compensation/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/news/2026/06/missing-potential-points-compensation/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/news/2026/06/100-day-anniversary-survey/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/news/2026/06/100-day-anniversary-survey/</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
