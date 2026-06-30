@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `272`
+- Current `index.html` count: `274`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -187,3 +187,5 @@ June 24 refresh added official Version 1.6 update-details coverage, Elizabeth EN
 June 25 refresh marked official Version 1.6 maintenance as completed, moved Elizabeth/Radiant Summer Memories from upcoming to current banner routing, refreshed best-banner/current-banner decision pages, and kept the page count at 264.
 
 June 26 refresh added official Developer Notes #15, Version 1.6 Known Issues, Missing Potential Points compensation, and 100-Day Anniversary Survey coverage with EN/ZH mirrors; refreshed homepage/news/bugs-errors discovery paths and raised the page count to 272.
+
+June 30 refresh added official Midsummer Day Surprise Giveaway coverage with EN/ZH mirrors, refreshed homepage/news/event-schedule discovery paths, and raised the page count to 274.
