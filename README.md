@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `278`
+Current `index.html` count: `282`
 
 English:
 - `/`
@@ -112,3 +112,5 @@ June 26 refresh added Developer Notes #15, Version 1.6 Known Issues, Missing Pot
 June 30 refresh added Midsummer Day Surprise Giveaway coverage with Chinese mirror, refreshed homepage/news/event-schedule discovery paths, and raised the page count to 274.
 
 July 1 refresh added Exciting Cube Unboxing and Leaderboard Regular Season 1 issue coverage with Chinese mirrors, updated the June 30 Version 1.6 Known Issues content, refreshed homepage/news/event-schedule/bugs-errors discovery paths, and raised the page count to 278.
+
+July 2 refresh added Magic Pop and July 2 temporary-maintenance completed coverage with Chinese mirrors, updated Version 1.6 Known Issues and Version 1.6 Update Details to the July 2 official state, refreshed homepage/news/event-schedule/bugs-errors discovery paths, and raised the page count to 282.

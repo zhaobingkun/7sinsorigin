@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `278`
+- Current `index.html` count: `282`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -191,3 +191,5 @@ June 26 refresh added official Developer Notes #15, Version 1.6 Known Issues, Mi
 June 30 refresh added official Midsummer Day Surprise Giveaway coverage with EN/ZH mirrors, refreshed homepage/news/event-schedule discovery paths, and raised the page count to 274.
 
 July 1 refresh added official Exciting Cube Unboxing and Leaderboard Regular Season 1 issue coverage with EN/ZH mirrors, updated Version 1.6 Known Issues to the June 30 official state, refreshed homepage/news/event-schedule/bugs-errors discovery paths, and raised the page count to 278.
+
+July 2 refresh added official Magic Pop and July 2 temporary-maintenance completed coverage with EN/ZH mirrors, updated Version 1.6 Known Issues and Version 1.6 Update Details to the July 2 official state, refreshed homepage/news/event-schedule/bugs-errors discovery paths, and raised the page count to 282.
