@@ -114,3 +114,5 @@ June 30 refresh added Midsummer Day Surprise Giveaway coverage with Chinese mirr
 July 1 refresh added Exciting Cube Unboxing and Leaderboard Regular Season 1 issue coverage with Chinese mirrors, updated the June 30 Version 1.6 Known Issues content, refreshed homepage/news/event-schedule/bugs-errors discovery paths, and raised the page count to 278.
 
 July 2 refresh added Magic Pop and July 2 temporary-maintenance completed coverage with Chinese mirrors, updated Version 1.6 Known Issues and Version 1.6 Update Details to the July 2 official state, refreshed homepage/news/event-schedule/bugs-errors discovery paths, and raised the page count to 282.
+
+July 6 refresh updated Version 1.6 Known Issues to the July 6 official state with Magic Pop party-entry, pet capture input-lock, and PS5 leaderboard reward mailbox entries; refreshed homepage/news/bugs-errors/leaderboard discovery paths and kept the page count at 282.
