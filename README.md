@@ -118,3 +118,5 @@ July 2 refresh added Magic Pop and July 2 temporary-maintenance completed covera
 July 6 refresh updated Version 1.6 Known Issues to the July 6 official state with Magic Pop party-entry, pet capture input-lock, and PS5 leaderboard reward mailbox entries; refreshed homepage/news/bugs-errors/leaderboard discovery paths and kept the page count at 282.
 
 July 8 refresh updated Magic Pop - The Day of Mischief Begins to the July 8 official state with the mission-progress note that leaving before the game ends does not count knock-out or defeat objectives; refreshed homepage/news/event-schedule discovery paths and kept the page count at 282.
+
+July 10 refresh added the official Version 1.7 Special Livestream Schedule coverage from the July 9 Netmarble notice, updated Version 1.6 Known Issues to the July 9 official state with Magic Pop room-state and Raid Pledge reward issues, refreshed homepage/news discovery paths, and raised the page count to 284.
