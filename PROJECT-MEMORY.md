@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `284`
+- Current `index.html` count: `288`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -199,3 +199,5 @@ July 6 refresh updated official Version 1.6 Known Issues to the July 6 state wit
 July 8 refresh updated official Magic Pop - The Day of Mischief Begins to the July 8 state with the mission-progress note that leaving before the game ends does not count knock-out or defeat objectives; refreshed homepage/news/event-schedule discovery paths and kept the page count at 282.
 
 July 10 refresh added official Version 1.7 Special Livestream Schedule coverage from the July 9 notice with EN/ZH mirrors, updated Version 1.6 Known Issues to the July 9 state with Magic Pop room-state and Raid Pledge reward entries, refreshed homepage/news discovery paths, and raised the page count to 284.
+
+July 13 refresh added official Developer Notes #16 and Twitch Drops Event coverage with EN/ZH mirrors, updated Twitch Drops and event-schedule hubs, refreshed homepage/news discovery paths and sitemap, and raised the page count to 288.
