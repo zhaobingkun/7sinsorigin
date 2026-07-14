@@ -122,3 +122,5 @@ July 8 refresh updated Magic Pop - The Day of Mischief Begins to the July 8 offi
 July 10 refresh added the official Version 1.7 Special Livestream Schedule coverage from the July 9 Netmarble notice, updated Version 1.6 Known Issues to the July 9 official state with Magic Pop room-state and Raid Pledge reward issues, refreshed homepage/news discovery paths, and raised the page count to 284.
 
 July 13 refresh added official Developer Notes #16 and Twitch Drops Event coverage with Chinese mirrors, updated the Twitch Drops guide and event schedule, refreshed homepage/news discovery paths and sitemap, and raised the page count to 288.
+
+July 14 refresh added official Version 1.7 Update Details, Gowther Pick Up and Exclusive Skin, and Version 1.7 Maintenance Schedule coverage with Chinese mirrors; refreshed homepage/news/event-schedule/current-banner/upcoming-banner discovery paths and sitemap, and raised the page count to 294.
