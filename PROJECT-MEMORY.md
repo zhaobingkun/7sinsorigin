@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `288`
+- Current `index.html` count: `296`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -203,3 +203,5 @@ July 10 refresh added official Version 1.7 Special Livestream Schedule coverage 
 July 13 refresh added official Developer Notes #16 and Twitch Drops Event coverage with EN/ZH mirrors, updated Twitch Drops and event-schedule hubs, refreshed homepage/news discovery paths and sitemap, and raised the page count to 288.
 
 July 14 refresh added official Version 1.7 Update Details, Gowther Pick Up and Exclusive Skin, and Version 1.7 Maintenance Schedule coverage with EN/ZH mirrors; refreshed homepage/news/event-schedule/current-banner/upcoming-banner discovery paths and sitemap, and raised the page count to 294.
+
+July 15 refresh added official Version 1.7 Known Issues coverage with EN/ZH mirrors, marked Version 1.7 maintenance as completed, moved current banner and pull-decision routing to Gowther, refreshed homepage/news/event-schedule/bugs-errors discovery paths and sitemap, and raised the page count to 296.

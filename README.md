@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `288`
+Current `index.html` count: `296`
 
 English:
 - `/`
@@ -124,3 +124,5 @@ July 10 refresh added the official Version 1.7 Special Livestream Schedule cover
 July 13 refresh added official Developer Notes #16 and Twitch Drops Event coverage with Chinese mirrors, updated the Twitch Drops guide and event schedule, refreshed homepage/news discovery paths and sitemap, and raised the page count to 288.
 
 July 14 refresh added official Version 1.7 Update Details, Gowther Pick Up and Exclusive Skin, and Version 1.7 Maintenance Schedule coverage with Chinese mirrors; refreshed homepage/news/event-schedule/current-banner/upcoming-banner discovery paths and sitemap, and raised the page count to 294.
+
+July 15 refresh added official Version 1.7 Known Issues coverage with Chinese mirror, marked Version 1.7 maintenance as completed, moved current banner and pull-decision routing to Gowther, refreshed homepage/news/event-schedule/bugs-errors discovery paths and sitemap, and raised the page count to 296.
