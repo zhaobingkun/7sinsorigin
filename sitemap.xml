@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://7sinsorigin.com/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -128,7 +128,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/news/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -224,7 +224,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/twitch-drops/</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -236,7 +236,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/events-schedule/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -254,7 +254,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -380,7 +380,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/news/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -470,7 +470,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/twitch-drops/</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -482,7 +482,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/events-schedule/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -654,7 +654,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/bugs-errors/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-16</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/best-banner-to-pull/</loc>
@@ -668,7 +668,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/bugs-errors/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-16</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/best-banner-to-pull/</loc>
@@ -1247,13 +1247,13 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/news/2026/07/twitch-drops-event/</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/news/2026/07/twitch-drops-event/</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1295,13 +1295,25 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/news/2026/07/version-1-7-known-issues/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/news/2026/07/version-1-7-known-issues/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/news/2026/07/europe-server-connection-instability-resolved/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/news/2026/07/europe-server-connection-instability-resolved/</loc>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
