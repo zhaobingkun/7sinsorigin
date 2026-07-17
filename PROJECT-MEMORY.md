@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `298`
+- Current `index.html` count: `300`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -207,3 +207,5 @@ July 14 refresh added official Version 1.7 Update Details, Gowther Pick Up and E
 July 15 refresh added official Version 1.7 Known Issues coverage with EN/ZH mirrors, marked Version 1.7 maintenance as completed, moved current banner and pull-decision routing to Gowther, refreshed homepage/news/event-schedule/bugs-errors discovery paths and sitemap, and raised the page count to 296.
 
 July 16 refresh added official Europe Server Connection Instability [Resolved] coverage with EN/ZH mirrors, updated Version 1.7 Known Issues for the Armor Set display issue, updated Twitch Drops pages for the Small Cube Key Bundle distribution issue, refreshed homepage/news/event-schedule/bugs-errors/Twitch discovery paths and sitemap, and raised the page count to 298.
+
+July 17 refresh added official July 16 Data Patch [Completed] coverage with EN/ZH mirrors, updated Version 1.7 Known Issues for the Durak Abyss Leaderboard clear-record issue, refreshed homepage/news/event-schedule/bugs-errors discovery paths and sitemap, and raised the page count to 300.
