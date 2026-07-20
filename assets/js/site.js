@@ -102,4 +102,53 @@
       frame.dataset.loaded = '1';
     });
   });
+
+  var homePlanner = document.querySelector('[data-home-planner]');
+  if (homePlanner) {
+    var plannerData = {
+      banner: {
+        title: 'Current Banner Worth It?',
+        copy: 'Start with the current banner page if your main Seven Deadly Sins Origin question is whether Gowther is worth spending on before the next maintenance window.',
+        href: '/banners/current/',
+        label: 'Open Current Banner Guide'
+      },
+      build: {
+        title: 'Current Tier List and Build Priorities',
+        copy: 'Open the tier list route when you need to decide which Seven Deadly Sins Origin characters, beginner teams, and raid teams deserve scarce materials first.',
+        href: '/tier-list/',
+        label: 'Open Tier List Hub'
+      },
+      growth: {
+        title: 'Daily Growth and Diamond Farming',
+        copy: 'Use the growth route when your 7DS Origin account needs a better daily checklist, weekly reset plan, diamond path, or shop-spending order.',
+        href: '/daily-checklist/',
+        label: 'Open Daily Checklist'
+      },
+      fix: {
+        title: 'Bugs, Errors, and Performance Fixes',
+        copy: 'Start with troubleshooting when login, install, update, crash, controller, or mobile performance problems block normal play.',
+        href: '/bugs-errors/',
+        label: 'Open Bugs and Errors Hub'
+      }
+    };
+    var plannerTitle = homePlanner.querySelector('[data-planner-title]');
+    var plannerCopy = homePlanner.querySelector('[data-planner-copy]');
+    var plannerLink = homePlanner.querySelector('[data-planner-link]');
+    var plannerChoices = homePlanner.querySelectorAll('input[name="home-planner"]');
+
+    function updatePlanner(value) {
+      var next = plannerData[value];
+      if (!next || !plannerTitle || !plannerCopy || !plannerLink) return;
+      plannerTitle.textContent = next.title;
+      plannerCopy.textContent = next.copy;
+      plannerLink.href = next.href;
+      plannerLink.textContent = next.label;
+    }
+
+    plannerChoices.forEach(function (choice) {
+      choice.addEventListener('change', function () {
+        updatePlanner(choice.value);
+      });
+    });
+  }
 })();

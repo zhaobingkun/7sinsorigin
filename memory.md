@@ -32,6 +32,7 @@
 - Check sitemap URL uniqueness and all local links after adding bilingual pages.
 - Verify new pages include official source links and existing local assets.
 - A local HTTP 200 response confirms resources are available, but visual browser QA is still useful for layout-sensitive changes.
+- 2026-07-20 homepage SEO hardening shortened the root Title and H1 around `seven deadly sins origin`, added exact-keyword H2 coverage, added a static route planner so the homepage is more than a link directory, and added the missing nav-logo width/height.
 
 ## Daily Check Log
 
