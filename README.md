@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `300`
+Current `index.html` count: `302`
 
 English:
 - `/`
@@ -130,3 +130,5 @@ July 15 refresh added official Version 1.7 Known Issues coverage with Chinese mi
 July 16 refresh added official Europe Server Connection Instability [Resolved] coverage with Chinese mirror, updated Version 1.7 Known Issues for the Armor Set display entry, updated Twitch Drops pages for the Small Cube Key Bundle distribution issue, refreshed homepage/news/event-schedule/bugs-errors/Twitch discovery paths and sitemap, and raised the page count to 298.
 
 July 17 refresh added official July 16 Data Patch [Completed] coverage with Chinese mirror, updated Version 1.7 Known Issues for the Durak Abyss Leaderboard clear-record entry, refreshed homepage/news/event-schedule/bugs-errors discovery paths and sitemap, and raised the page count to 300.
+
+July 21 refresh added official July 22 Temporary Maintenance coverage with Chinese mirror, updated homepage/news/event-schedule/bugs-errors discovery paths and sitemap, and raised the page count to 302.
