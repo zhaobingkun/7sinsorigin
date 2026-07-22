@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `302`
+Current `index.html` count: `304`
 
 English:
 - `/`
@@ -132,3 +132,5 @@ July 16 refresh added official Europe Server Connection Instability [Resolved] c
 July 17 refresh added official July 16 Data Patch [Completed] coverage with Chinese mirror, updated Version 1.7 Known Issues for the Durak Abyss Leaderboard clear-record entry, refreshed homepage/news/event-schedule/bugs-errors discovery paths and sitemap, and raised the page count to 300.
 
 July 21 refresh added official July 22 Temporary Maintenance coverage with Chinese mirror, updated homepage/news/event-schedule/bugs-errors discovery paths and sitemap, and raised the page count to 302.
+
+July 22 refresh added official Confirmed! Twigo coverage with Chinese mirror, marked July 22 Temporary Maintenance as completed, updated Version 1.7 Known Issues and Update Details to the July 22 official state, refreshed Knighthood/home/news/event-schedule/bugs-errors discovery paths and sitemap, and raised the page count to 304.
