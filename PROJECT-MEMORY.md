@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `304`
+- Current `index.html` count: `306`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -213,3 +213,5 @@ July 17 refresh added official July 16 Data Patch [Completed] coverage with EN/Z
 July 21 refresh added official July 22 Temporary Maintenance coverage with EN/ZH mirrors, covering Knighthood Boss Battle, Knighthood rankings/shop, Timespace Junction Sector 9, Confirmed! Twigo, Durak Abyss ranking reset, and bug fixes; refreshed homepage/news/event-schedule/bugs-errors discovery paths and sitemap, and raised the page count to 302.
 
 July 22 refresh added official Confirmed! Twigo event coverage with EN/ZH mirrors, marked July 22 Temporary Maintenance as completed, updated Version 1.7 Known Issues and Version 1.7 Update Details to the July 22 official state, refreshed Knighthood/home/news/event-schedule/bugs-errors discovery paths plus sitemap/README/project memory, and raised the page count to 304.
+
+July 24 refresh added official PlayStation 5 Connection Instability coverage with EN/ZH mirrors, updated Version 1.7 Known Issues to the July 24 state with the Potential wording resolved item, refreshed homepage/news/bugs-errors discovery paths plus sitemap/README/project memory, and raised the page count to 306.
