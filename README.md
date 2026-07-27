@@ -138,3 +138,5 @@ July 22 refresh added official Confirmed! Twigo coverage with Chinese mirror, ma
 July 24 refresh added official PlayStation 5 Connection Instability coverage with Chinese mirror, updated Version 1.7 Known Issues to the July 24 official state, refreshed homepage/news/bugs-errors discovery paths and sitemap, and raised the page count to 306.
 
 July 25 refresh marked the official PlayStation 5 Connection Instability notice as resolved at 02:20 UTC, refreshed homepage/news/bugs-errors discovery paths and sitemap, and kept the page count at 306.
+
+July 27 refresh updated the EN/ZH Version 1.7 Known Issues coverage with the new jump-action Invincibility timing and Confirmed Twigo daily-reset issues, noted the official Gowther detail-page refresh without inferring an undocumented skill change, refreshed homepage/news/current-banner discovery paths and sitemap, and kept the page count at 306.
