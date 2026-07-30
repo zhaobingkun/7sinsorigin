@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `306`
+Current `index.html` count: `308`
 
 English:
 - `/`
@@ -140,3 +140,7 @@ July 24 refresh added official PlayStation 5 Connection Instability coverage wit
 July 25 refresh marked the official PlayStation 5 Connection Instability notice as resolved at 02:20 UTC, refreshed homepage/news/bugs-errors discovery paths and sitemap, and kept the page count at 306.
 
 July 27 refresh updated the EN/ZH Version 1.7 Known Issues coverage with the new jump-action Invincibility timing and Confirmed Twigo daily-reset issues, noted the official Gowther detail-page refresh without inferring an undocumented skill change, refreshed homepage/news/current-banner discovery paths and sitemap, and kept the page count at 306.
+
+July 29 refresh added EN/ZH coverage of the official July 28 server patch that fixed Confirmed Twigo daily resets, moved the issue to resolved in Version 1.7 Known Issues, refreshed the Twigo event/home/news/event-schedule/bugs-errors paths, corrected the upcoming-banner page to show no confirmed successor to Gowther, updated the sitemap, and raised the page count to 308.
+
+July 30 refresh found no new July 30 article, but captured the July 29 09:33 UTC update to the official server-patch notice: affected players received 10 Confirmed Twigo Event Tickets per impacted day at 09:00 UTC. Updated the EN/ZH patch and event pages, homepage/news/event-schedule discovery paths, and sitemap; page count remains 308.

@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `306`
+- Current `index.html` count: `308`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -219,3 +219,7 @@ July 24 refresh added official PlayStation 5 Connection Instability coverage wit
 July 25 refresh marked the official PlayStation 5 Connection Instability notice as resolved at 02:20 UTC, refreshed EN/ZH PS5 status pages plus homepage/news/bugs-errors discovery paths, updated sitemap/README/project memory, and kept the page count at 306.
 
 July 27 refresh updated official Version 1.7 Known Issues to the July 27 state with a jump-action Invincibility window issue in several boss/dungeon battles and intermittent Confirmed Twigo daily-reset failures; noted that official Gowther details were modified at 04:49 UTC without a published change summary; refreshed EN/ZH known-issues, homepage/news/current-banner discovery paths and sitemap; page count remains 306.
+
+July 29 refresh added official July 28 Server Patch coverage with EN/ZH mirrors after the notice appeared following the previous daily check. The patch completed at 05:32 UTC without maintenance and fixed intermittent Confirmed Twigo daily-reset failures; players must fully exit and reconnect. Version 1.7 Known Issues moved the Twigo item to resolved while the jump-action Invincibility issue remains active. Refreshed Twigo/home/news/event-schedule/bugs-errors paths, corrected upcoming-banner routing to no confirmed post-Gowther pickup, updated sitemap/README/project memory, and raised the page count to 308.
+
+July 30 refresh found no new July 30 article, but the official July 28 Server Patch notice had been modified on July 29 at 09:33 UTC. Netmarble distributed 10 Confirmed Twigo Event Tickets per affected day at 09:00 UTC to players whose reward rearrange count did not reset. Updated EN/ZH patch and Twigo event pages, homepage/news/event-schedule discovery paths, sitemap/README/project memory, and kept the page count at 308.
