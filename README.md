@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `308`
+Current `index.html` count: `312`
 
 English:
 - `/`
@@ -144,3 +144,5 @@ July 27 refresh updated the EN/ZH Version 1.7 Known Issues coverage with the new
 July 29 refresh added EN/ZH coverage of the official July 28 server patch that fixed Confirmed Twigo daily resets, moved the issue to resolved in Version 1.7 Known Issues, refreshed the Twigo event/home/news/event-schedule/bugs-errors paths, corrected the upcoming-banner page to show no confirmed successor to Gowther, updated the sitemap, and raised the page count to 308.
 
 July 30 refresh found no new July 30 article, but captured the July 29 09:33 UTC update to the official server-patch notice: affected players received 10 Confirmed Twigo Event Tickets per impacted day at 09:00 UTC. Updated the EN/ZH patch and event pages, homepage/news/event-schedule discovery paths, and sitemap; page count remains 308.
+
+July 31 refresh added EN/ZH coverage of Developer Notes #17 and the official YouTube copyright-claims/content-creation notice. The 1.8 preview confirms a 15-player Hunting Event, Memory of Dimensions, QoL and mission renewals, five weekly Regular Hero Draw Ticket x10 deliveries, appreciation rewards, and the Timespace Season I finale, while confirming no next pickup. Refreshed homepage/news/event-schedule/upcoming-banner paths and sitemap, and raised the page count to 312.

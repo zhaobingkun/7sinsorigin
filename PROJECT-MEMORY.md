@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `308`
+- Current `index.html` count: `312`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -223,3 +223,5 @@ July 27 refresh updated official Version 1.7 Known Issues to the July 27 state w
 July 29 refresh added official July 28 Server Patch coverage with EN/ZH mirrors after the notice appeared following the previous daily check. The patch completed at 05:32 UTC without maintenance and fixed intermittent Confirmed Twigo daily-reset failures; players must fully exit and reconnect. Version 1.7 Known Issues moved the Twigo item to resolved while the jump-action Invincibility issue remains active. Refreshed Twigo/home/news/event-schedule/bugs-errors paths, corrected upcoming-banner routing to no confirmed post-Gowther pickup, updated sitemap/README/project memory, and raised the page count to 308.
 
 July 30 refresh found no new July 30 article, but the official July 28 Server Patch notice had been modified on July 29 at 09:33 UTC. Netmarble distributed 10 Confirmed Twigo Event Tickets per affected day at 09:00 UTC to players whose reward rearrange count did not reset. Updated EN/ZH patch and Twigo event pages, homepage/news/event-schedule discovery paths, sitemap/README/project memory, and kept the page count at 308.
+
+July 31 refresh added official Developer Notes #17 and YouTube copyright-claims/content-creation coverage with EN/ZH mirrors. Version 1.8 is framed as groundwork for Half-Anniversary Version 2.0 and confirms a limited-time 15-player Hunting Event, Memory of Dimensions, information/retry QoL, renewed Path of the Hero and Challenge Missions, five weekly Regular Hero Draw Ticket x10 deliveries, appreciation rewards claimable after the update through August 26 14:59 UTC, Timespace Season I Sector 12/finale timing, tutorial skip, World Level 3 rewards, and Tag Skill targeting changes. The notes do not reveal the next pickup. Refreshed homepage/news/event-schedule/upcoming-banner paths, sitemap/README/project memory, and raised the page count to 312.
