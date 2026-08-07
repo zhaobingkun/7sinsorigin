@@ -108,7 +108,7 @@
     var plannerData = {
       banner: {
         title: 'Current Banner Worth It?',
-        copy: 'Start with the current banner page if your main Seven Deadly Sins Origin question is whether Gowther is worth spending on before the next maintenance window.',
+        copy: 'Start with the current banner page to confirm whether a Hero Pick Up is active. After the August 5 maintenance, save until Netmarble publishes the next official banner notice.',
         href: '/banners/current/',
         label: 'Open Current Banner Guide'
       },
