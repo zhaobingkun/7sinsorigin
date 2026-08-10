@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `312`
+- Current `index.html` count: `326`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -231,3 +231,5 @@ August 1 daily check found no new official article ID and no new August 1 post. 
 August 2 daily check found no new official article ID, no new August 2 post, and no August 2 `modDate` on the tracked current notices. Confirmed detail timestamps: Developer Notes #17 (`id 266`) mod `2026-07-31 08:45 UTC`, creator notice (`id 269`) mod `2026-07-30 10:00 UTC`, July 28 server patch (`id 268`) mod `2026-07-29 09:34 UTC`, Version 1.7 Known Issues (`id 249`) mod `2026-07-28 05:36 UTC`, and Gowther details (`id 244`) mod `2026-07-27 04:50 UTC`. Official `/en/update` still presents Version 1.7/Gowther and does not show Version 1.8 as the update landing page. No public content page or sitemap entry changed. Page count remains 312.
 
 August 7 maintenance check found no verifiable new official article or post after the August 5 banner boundary. Direct Netmarble API requests were blocked by local DNS and an escalated retry was unavailable; official web fetch still showed Version 1.7/Gowther on `/en/update` and an empty `/en/news` shell. Refreshed EN/ZH current and upcoming banner routes, pull-decision pages, event schedules, homepage planner copy, and sitemap so Gowther Pick Up and Confirmed! Twigo are historical/completed and no successor is presented as confirmed. Page count remains `312`.
+
+August 10 refresh found official Version 1.8 records after the August 7 boundary: Version 1.8 Update Details (`id 267`, updated August 5 08:50 UTC), Derieri hero details (`id 259`), Derieri Pick Up and Exclusive Skin (`id 260`, updated August 4 11:36 UTC), Version 1.8 Known Issues (`id 265`, updated August 5 09:58 UTC), August 5 and August 7 completed server patches (`ids 270` and `271`), Hawk Pass Season IV, and Leaderboard Regular Season 3 Issues (`id 275`). Added six EN/ZH official-source news pages plus a bilingual Leaderboard Guide, moved current banner routing to confirmed Derieri Pick Up, refreshed homepage/news/events/bugs/banner decision pages, updated sitemap and project records, and raised the page count to `326`.
