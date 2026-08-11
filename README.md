@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `326`
+Current `index.html` count: `328`
 
 English:
 - `/`
@@ -154,3 +154,5 @@ August 2 daily check found no new official article ID, no new August 2 post, and
 August 7 maintenance check found no verifiable new official article ID or post after the August 5 banner boundary. Direct Netmarble API requests were blocked by local DNS and the escalation retry was unavailable; official web fetch still showed Version 1.7/Gowther on `/en/update` and an empty `/en/news` shell. Updated EN/ZH current and upcoming banner routes, pull-decision pages, event schedules, homepage planner copy, and sitemap so Gowther Pick Up and Confirmed! Twigo are historical/completed and no successor is presented as confirmed. Page count remains 312.
 
 August 10 refresh found official Version 1.8 records after the August 7 boundary: Version 1.8 Update Details (`id 267`, updated August 5 08:50 UTC), Derieri hero details (`id 259`), Derieri Pick Up and Exclusive Skin (`id 260`, updated August 4 11:36 UTC), Version 1.8 Known Issues (`id 265`, updated August 5 09:58 UTC), August 5 and August 7 completed server patches (`ids 270` and `271`), Hawk Pass Season IV, and Leaderboard Regular Season 3 Issues (`id 275`). Added six EN/ZH official-source news pages plus a bilingual Leaderboard Guide, moved current banner routing to confirmed Derieri Pick Up, refreshed homepage/news/events/bugs/banner decision pages, updated sitemap and project records, and raised the page count to `326`.
+
+August 11 refresh added EN/ZH coverage of the official Partner Creator Program Season 2 announcement (`id 272`, published August 10 09:30 UTC). The pages record the 1,000-follower/subscriber threshold, monthly video or livestream options, program benefits, application form, and policy caveats; refreshed homepage/news discovery and sitemap, and raised the page count to `328`.
