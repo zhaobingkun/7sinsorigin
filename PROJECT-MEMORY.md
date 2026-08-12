@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `328`
+- Current `index.html` count: `334`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -235,3 +235,5 @@ August 7 maintenance check found no verifiable new official article or post afte
 August 10 refresh found official Version 1.8 records after the August 7 boundary: Version 1.8 Update Details (`id 267`, updated August 5 08:50 UTC), Derieri hero details (`id 259`), Derieri Pick Up and Exclusive Skin (`id 260`, updated August 4 11:36 UTC), Version 1.8 Known Issues (`id 265`, updated August 5 09:58 UTC), August 5 and August 7 completed server patches (`ids 270` and `271`), Hawk Pass Season IV, and Leaderboard Regular Season 3 Issues (`id 275`). Added six EN/ZH official-source news pages plus a bilingual Leaderboard Guide, moved current banner routing to confirmed Derieri Pick Up, refreshed homepage/news/events/bugs/banner decision pages, updated sitemap and project records, and raised the page count to `326`.
 
 August 11 refresh added EN/ZH coverage of the official Partner Creator Program Season 2 announcement (`id 272`, published August 10 09:30 UTC). The notice confirms recruitment until further notice, the 1,000-follower/subscriber eligibility threshold, three alternative monthly activity requirements, listed creator benefits, and the official application form. Refreshed homepage/news discovery and sitemap; no banner or gameplay claims were inferred; page count is `328`.
+
+August 12 refresh added EN/ZH coverage of official Half Anniversary Eve Check-In (`id 273`), Chaos That Devours the Desert Hunting Event (`id 274`), and completed August 12 Temporary Maintenance (`id 276`). The new event pages record the August 12 to August 26 window, 14-day check-in rewards, Kalbash Hunting Event requirements/rewards, Timespace Sector 11 opening, maintenance compensation and fixes. Updated Version 1.8 Update Details (`id 267`) to August 12 07:14 UTC and Version 1.8 Known Issues (`id 265`) to August 12 07:43 UTC, including the new event-dungeon display issue and four resolved issues. Refreshed homepage/news/events/bugs discovery, sitemap, and page count to `334`.

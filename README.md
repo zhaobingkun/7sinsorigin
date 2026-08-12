@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `328`
+Current `index.html` count: `334`
 
 English:
 - `/`
@@ -156,3 +156,5 @@ August 7 maintenance check found no verifiable new official article ID or post a
 August 10 refresh found official Version 1.8 records after the August 7 boundary: Version 1.8 Update Details (`id 267`, updated August 5 08:50 UTC), Derieri hero details (`id 259`), Derieri Pick Up and Exclusive Skin (`id 260`, updated August 4 11:36 UTC), Version 1.8 Known Issues (`id 265`, updated August 5 09:58 UTC), August 5 and August 7 completed server patches (`ids 270` and `271`), Hawk Pass Season IV, and Leaderboard Regular Season 3 Issues (`id 275`). Added six EN/ZH official-source news pages plus a bilingual Leaderboard Guide, moved current banner routing to confirmed Derieri Pick Up, refreshed homepage/news/events/bugs/banner decision pages, updated sitemap and project records, and raised the page count to `326`.
 
 August 11 refresh added EN/ZH coverage of the official Partner Creator Program Season 2 announcement (`id 272`, published August 10 09:30 UTC). The pages record the 1,000-follower/subscriber threshold, monthly video or livestream options, program benefits, application form, and policy caveats; refreshed homepage/news discovery and sitemap, and raised the page count to `328`.
+
+August 12 refresh added EN/ZH coverage of the official Half Anniversary Eve check-in (`id 273`), Chaos That Devours the Desert Hunting Event (`id 274`), and completed August 12 maintenance (`id 276`). Updated Version 1.8 Update Details (`id 267`) and Known Issues (`id 265`) to their August 12 timestamps and current issue/resolution state, refreshed homepage/news/events/bugs discovery, updated sitemap, and raised the page count to `334`.
