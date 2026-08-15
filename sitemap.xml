@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://7sinsorigin.com/</loc>
-    <lastmod>2026-08-10</lastmod>
+    <lastmod>2026-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -128,7 +128,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/news/</loc>
-    <lastmod>2026-08-10</lastmod>
+    <lastmod>2026-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -236,7 +236,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/events-schedule/</loc>
-    <lastmod>2026-08-10</lastmod>
+    <lastmod>2026-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -380,7 +380,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/news/</loc>
-    <lastmod>2026-08-10</lastmod>
+    <lastmod>2026-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -482,7 +482,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/events-schedule/</loc>
-    <lastmod>2026-08-10</lastmod>
+    <lastmod>2026-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -656,7 +656,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/bugs-errors/</loc>
-    <lastmod>2026-08-10</lastmod>
+    <lastmod>2026-08-16</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/best-banner-to-pull/</loc>
@@ -670,7 +670,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/bugs-errors/</loc>
-    <lastmod>2026-08-10</lastmod>
+    <lastmod>2026-08-16</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/best-banner-to-pull/</loc>
@@ -1431,10 +1431,12 @@
   <url><loc>https://7sinsorigin.com/zh/systems/leaderboards/</loc><lastmod>2026-08-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/08/partner-creator-program-season-2/</loc><lastmod>2026-08-11</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://7sinsorigin.com/zh/news/2026/08/partner-creator-program-season-2/</loc><lastmod>2026-08-11</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://7sinsorigin.com/news/2026/08/august-12-temporary-maintenance-completed/</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://7sinsorigin.com/zh/news/2026/08/august-12-temporary-maintenance-completed/</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://7sinsorigin.com/news/2026/08/august-12-temporary-maintenance-completed/</loc><lastmod>2026-08-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/zh/news/2026/08/august-12-temporary-maintenance-completed/</loc><lastmod>2026-08-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/08/chaos-that-devours-desert/</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://7sinsorigin.com/zh/news/2026/08/chaos-that-devours-desert/</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/08/half-anniversary-eve-check-in/</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://7sinsorigin.com/zh/news/2026/08/half-anniversary-eve-check-in/</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://7sinsorigin.com/news/2026/08/rewinding-fate-memory-of-dimensions/</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/zh/news/2026/08/rewinding-fate-memory-of-dimensions/</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
