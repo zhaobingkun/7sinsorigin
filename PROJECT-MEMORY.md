@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `334`
+- Current `index.html` count: `340`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -241,3 +241,5 @@ August 12 refresh added EN/ZH coverage of official Half Anniversary Eve Check-In
 August 14 maintenance refresh captured the later official `id 265` Version 1.8 Known Issues modification, titled `Updated on August 12 11:35 UTC` with API `modDate` at 11:37 UTC. Added the resolved intermittent server-connection issue to the EN/ZH coverage, synchronized exact visible and JSON-LD timestamps plus sitemap lastmods, and kept the page count at `334`; no new article ID or banner change was confirmed.
 
 August 16 refresh found official `id 265` Version 1.8 Known Issues updated on August 14 at 10:00 UTC with a new Swiftest Showdown Day 4 retry-registration issue, and `id 276` August 12 maintenance updated on August 14 at 09:37 UTC with the same unresolved issue note. Article `id 263` Rewinding Fate - Into the Memory of Dimensions was present in the official feed but had no local page; added EN/ZH coverage with its Holy Knight Marmas requirement, Book of Stars entry path, single-player rules, saved progress, and no fixed end date. Refreshed EN/ZH known-issues and maintenance pages, homepage/news/events/bugs discovery paths, sitemap, and raised the page count to `336`.
+
+August 18 refresh added EN/ZH coverage for official `id 277` Half-Anniversary Festival Special Livestream Schedule & Details and `id 279` Developer Notes #18. The livestream is scheduled for August 21 at 11:00 UTC and previews Version 2.0, Ban skills/gameplay, a new main quest, and new content. Developer Notes #18 outlines Version 2.0/2.1 systems including Raid [Hard], Transcendence Refinement, Maze, Boss Challenge [Transcendence], a six-hero rerun vote, planned Meliodas distribution, and Half-Anniversary rewards. Refreshed homepage/news/events/upcoming-banner discovery paths and sitemap; page count is `340`. No Ban or successor banner was treated as confirmed.

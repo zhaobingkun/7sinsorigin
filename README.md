@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `336`
+Current `index.html` count: `340`
 
 English:
 - `/`
@@ -162,3 +162,5 @@ August 12 refresh added EN/ZH coverage of the official Half Anniversary Eve chec
 August 14 maintenance refresh captured the official `id 265` Version 1.8 Known Issues modification titled `Updated on August 12 11:35 UTC`, added the resolved intermittent server-connection issue to the EN/ZH pages, synchronized exact update timestamps and sitemap lastmods, and kept the page count at `334`. No newer official article ID or banner change was found.
 
 August 16 refresh found official `id 265` Version 1.8 Known Issues updated on August 14 at 10:00 UTC with a new Swiftest Showdown Day 4 retry-registration issue, and `id 276` August 12 maintenance updated on August 14 at 09:37 UTC with the same unresolved issue note. Added EN/ZH coverage for the previously uncovered official `id 263` Rewinding Fate - Into the Memory of Dimensions article, refreshed the known-issues and maintenance pages, homepage/news/events/bugs discovery paths, sitemap, and project records, and raised the page count to `336`.
+
+August 18 refresh added EN/ZH coverage of official `id 277` Half-Anniversary Festival Special Livestream Schedule & Details and `id 279` Developer Notes #18. The pages cover the August 21 11:00 UTC livestream, Version 2.0/2.1 roadmap, Raid [Hard], Transcendence Refinement, Maze, the six-hero rerun vote, planned Meliodas distribution, and Half-Anniversary rewards while keeping Ban and later banners unconfirmed. Refreshed homepage/news/events/upcoming-banner discovery paths and sitemap; page count is `340`.
