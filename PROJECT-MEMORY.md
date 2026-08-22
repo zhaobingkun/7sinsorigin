@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `340`
+- Current `index.html` count: `342`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -245,3 +245,5 @@ August 16 refresh found official `id 265` Version 1.8 Known Issues updated on Au
 August 18 refresh added EN/ZH coverage for official `id 277` Half-Anniversary Festival Special Livestream Schedule & Details and `id 279` Developer Notes #18. The livestream is scheduled for August 21 at 11:00 UTC and previews Version 2.0, Ban skills/gameplay, a new main quest, and new content. Developer Notes #18 outlines Version 2.0/2.1 systems including Raid [Hard], Transcendence Refinement, Maze, Boss Challenge [Transcendence], a six-hero rerun vote, planned Meliodas distribution, and Half-Anniversary rewards. Refreshed homepage/news/events/upcoming-banner discovery paths and sitemap; page count is `340`. No Ban or successor banner was treated as confirmed.
 
 August 19 maintenance refresh found no new official article IDs after `id 279`. The official API shows `id 276` was refreshed on August 18 at 06:20 UTC; its current body is already covered, but the EN/ZH maintenance pages were corrected so they no longer state an 08:00 completion after the notice's current 03:00-07:40 UTC window. Updated article timestamps, JSON-LD, sitemap lastmods, and project records; page count remains `340`. No banner change or successor was confirmed.
+
+August 22 refresh added EN/ZH coverage of official `id 280` Official Discord AMA Season 3. The pages record the August 21 11:00 UTC to September 2 06:59 UTC question window, official Discord channel, five question categories, sequential-answer caveat, and channel moderation notes. Official `id 278` Half Anniversary Festival Livestream was a material follow-up to `id 277`; the existing EN/ZH livestream pages now describe the August 21 replay state and cite both official notices. Refreshed homepage/news/events discovery paths and sitemap; page count is `342`. No new banner, rate, pity, or release-date claim was inferred.
