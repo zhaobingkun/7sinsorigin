@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `342`
+Current `index.html` count: `344`
 
 English:
 - `/`
@@ -168,3 +168,5 @@ August 18 refresh added EN/ZH coverage of official `id 277` Half-Anniversary Fes
 August 19 maintenance refresh found no new official article IDs after `id 279`. The official API shows `id 276` was refreshed on August 18 at 06:20 UTC; its current body is already covered, but the maintenance page was corrected so it no longer states an 08:00 completion after the notice's current 03:00-07:40 UTC window. Updated EN/ZH article timestamps, JSON-LD, sitemap lastmods, and project records; page count remains `340`. No banner change or successor was confirmed.
 
 August 22 refresh added EN/ZH coverage of official `id 280` Official Discord AMA Season 3, including the August 21 11:00 UTC to September 2 06:59 UTC question window, Discord channel, topic categories, and participation caveats. The official `id 278` Half Anniversary Festival Livestream notice was also incorporated into the existing livestream page as the August 21 replay state. Refreshed homepage/news/events discovery paths and sitemap; page count is `342`. No new banner, rate, pity, or release-date claim was inferred.
+
+August 25 refresh added EN/ZH coverage of official article `id 289`, 「The Traitor's Street」 Version 2.0 Maintenance Schedule, for August 26 UTC. The notice confirms Ban, the Ravens region, Indura Monspeet, Transcendence Engravement/Refinement, Raid [Nightmare], Ranking Season 4, ending Version 1.8 content, and Star Fragment x300 compensation through September 9 14:59 UTC. Kept Derieri current until maintenance completion and moved Ban into confirmed-upcoming routing without inventing banner rates, pity, or maintenance hours. Refreshed homepage/news/events/bugs/banner decision paths and sitemap; page count is `344`.

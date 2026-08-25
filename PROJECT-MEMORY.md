@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `342`
+- Current `index.html` count: `344`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -247,3 +247,5 @@ August 18 refresh added EN/ZH coverage for official `id 277` Half-Anniversary Fe
 August 19 maintenance refresh found no new official article IDs after `id 279`. The official API shows `id 276` was refreshed on August 18 at 06:20 UTC; its current body is already covered, but the EN/ZH maintenance pages were corrected so they no longer state an 08:00 completion after the notice's current 03:00-07:40 UTC window. Updated article timestamps, JSON-LD, sitemap lastmods, and project records; page count remains `340`. No banner change or successor was confirmed.
 
 August 22 refresh added EN/ZH coverage of official `id 280` Official Discord AMA Season 3. The pages record the August 21 11:00 UTC to September 2 06:59 UTC question window, official Discord channel, five question categories, sequential-answer caveat, and channel moderation notes. Official `id 278` Half Anniversary Festival Livestream was a material follow-up to `id 277`; the existing EN/ZH livestream pages now describe the August 21 replay state and cite both official notices. Refreshed homepage/news/events discovery paths and sitemap; page count is `342`. No new banner, rate, pity, or release-date claim was inferred.
+
+August 25 refresh added EN/ZH coverage of official `id 289`, 「The Traitor's Street」 Version 2.0 Maintenance Schedule, for August 26 UTC. The notice confirms Ban, Ravens, Indura Monspeet, Transcendence Engravement/Refinement, Raid [Nightmare], Ranking Season 4, ending Version 1.8 content, and Star Fragment x300 compensation through September 9 14:59 UTC. Kept Derieri current until maintenance completion and moved Ban into confirmed-upcoming routing without inventing banner rates, pity, or maintenance hours. Refreshed homepage/news/events/bugs/banner decision paths and sitemap; page count is `344`.
