@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `344`
+Current `index.html` count: `352`
 
 English:
 - `/`
@@ -170,3 +170,5 @@ August 19 maintenance refresh found no new official article IDs after `id 279`. 
 August 22 refresh added EN/ZH coverage of official `id 280` Official Discord AMA Season 3, including the August 21 11:00 UTC to September 2 06:59 UTC question window, Discord channel, topic categories, and participation caveats. The official `id 278` Half Anniversary Festival Livestream notice was also incorporated into the existing livestream page as the August 21 replay state. Refreshed homepage/news/events discovery paths and sitemap; page count is `342`. No new banner, rate, pity, or release-date claim was inferred.
 
 August 25 refresh added EN/ZH coverage of official article `id 289`, 「The Traitor's Street」 Version 2.0 Maintenance Schedule, for August 26 UTC. The notice confirms Ban, the Ravens region, Indura Monspeet, Transcendence Engravement/Refinement, Raid [Nightmare], Ranking Season 4, ending Version 1.8 content, and Star Fragment x300 compensation through September 9 14:59 UTC. Kept Derieri current until maintenance completion and moved Ban into confirmed-upcoming routing without inventing banner rates, pity, or maintenance hours. Refreshed homepage/news/events/bugs/banner decision paths and sitemap; page count is `344`.
+
+August 26 refresh added EN/ZH coverage of official Version 2.0 Update Details (`id 290`), Hero Ban Details (`id 288`), Ban Pick Up & Exclusive Skin (`id 282`), and Poll Draw Survey (`id 286`). The notices confirm the post-maintenance Ban pickup window, Hero Pick Up Draw Tickets, six rerun candidates, Ravens, Labyrinth, Raid Nightmare, Transcendence systems, and new events. Updated the maintenance page with the confirmed 02:00-09:00 UTC window, refreshed homepage/news/events/bugs/banner routing, sitemap, and project records, and raised the page count to `352`. Kept Derieri current until official maintenance completion is verified; no numeric Ban rate, pity carryover, or rerun banner was inferred.
