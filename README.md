@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `352`
+Current `index.html` count: `358`
 
 English:
 - `/`
@@ -174,3 +174,5 @@ August 25 refresh added EN/ZH coverage of official article `id 289`, 「The Trai
 August 26 refresh added EN/ZH coverage of official Version 2.0 Update Details (`id 290`), Hero Ban Details (`id 288`), Ban Pick Up & Exclusive Skin (`id 282`), and Poll Draw Survey (`id 286`). The notices confirm the post-maintenance Ban pickup window, Hero Pick Up Draw Tickets, six rerun candidates, Ravens, Labyrinth, Raid Nightmare, Transcendence systems, and new events. Updated the maintenance page with the confirmed 02:00-09:00 UTC window, refreshed homepage/news/events/bugs/banner routing, sitemap, and project records, and raised the page count to `352`. Kept Derieri current until official maintenance completion is verified; no numeric Ban rate, pity carryover, or rerun banner was inferred.
 
 August 27 refresh verified official articles `id 292` Twitch Drops Event and `id 291` Version 2.0 Known Issues, plus material updates to `id 289` maintenance, `id 290` Version 2.0 details, `id 288` Ban details, `id 282` Ban Pick Up, `id 265` Version 1.8 Known Issues, and `id 267`/`id 258` event-extension details. Added EN/ZH Twitch Drops and Version 2.0 Known Issues pages, marked maintenance completed with the final 02:00-10:00 UTC window and two Star Fragment x300 compensations, moved current banner routing to Ban, extended Chaos That Devours the Desert to the September 2 maintenance, and refreshed homepage/news/events/bugs/sitemap routes. Page count is `356`; no successor banner or unconfirmed meta/rate claim was added.
+
+August 28 refresh added EN/ZH coverage of official `id 112`, August 27 Server Patch [Completed]. The patch ran from 10:20 to 10:32 UTC and fixed higher-grade equipment consumption during Engraved Equipment Refinement, missing Transcendence Essence drops in the Indura Monspeet Boss Challenge, and balance/HP handling in two Act 16 quests. Refreshed homepage/news/events/bugs discovery paths and sitemap; page count is `358`.
