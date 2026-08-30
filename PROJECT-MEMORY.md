@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `352`
+- Current `index.html` count: `358`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -255,3 +255,5 @@ August 26 refresh added EN/ZH coverage of official Version 2.0 Update Details (`
 August 27 refresh verified official `id 292` Twitch Drops Event and `id 291` Version 2.0 Known Issues, plus material modifications to `id 289` maintenance, `id 290` Version 2.0 details, `id 288` Ban details, `id 282` Ban Pick Up, `id 265` Version 1.8 Known Issues, and `id 267`/`id 258` event-extension details. Added EN/ZH Twitch Drops and Version 2.0 Known Issues pages, marked the August 26 maintenance completed with the final 02:00-10:00 UTC window and two Star Fragment x300 compensations, moved current banner routing to Ban, extended Chaos That Devours the Desert through the September 2 maintenance, refreshed homepage/news/events/bugs/sitemap routes, and raised the page count to `356`. No successor banner or unsupported rate, pity, leak, or meta claim was inferred.
 
 August 28 refresh added EN/ZH coverage of official `id 112`, August 27 Server Patch [Completed]. The patch ran from 10:20 to 10:32 UTC and fixed higher-grade equipment consumption during Engraved Equipment Refinement, missing Transcendence Essence drops in the Indura Monspeet Boss Challenge, and balance/HP handling in two Act 16 quests. Refreshed homepage/news/events/bugs discovery paths and sitemap; page count is `358`.
+
+August 30 daily check found no new official Netmarble article IDs and no article modifications after the August 27 changes already covered on the site. Official `/en/update` now visibly confirms Ban has arrived, matching the existing Ban current-banner routes. Corrected the English homepage planner's stale Derieri default copy and kept the project page count synchronized at `358`; no new news page was created.

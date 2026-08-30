@@ -1,5 +1,7 @@
 # Project Experience
 
+- 2026-08-30: Official Netmarble API returned no article IDs newer than `292` and no `modDate` later than the August 27 changes already covered. The official update landing page now visibly confirms Ban is live, consistent with the existing current-banner routes. Corrected the English homepage planner's stale Derieri default copy, synchronized `PROJECT-MEMORY.md` to the actual `358` page count, and updated the English homepage sitemap lastmod; no new article was published.
+
 ## Stable Architecture
 
 - The site is a static bilingual topic-authority site with English at `/` and Chinese at `/zh/`.
