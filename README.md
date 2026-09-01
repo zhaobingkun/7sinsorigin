@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `358`
+Current `index.html` count: `360`
 
 English:
 - `/`
@@ -176,3 +176,5 @@ August 26 refresh added EN/ZH coverage of official Version 2.0 Update Details (`
 August 27 refresh verified official articles `id 292` Twitch Drops Event and `id 291` Version 2.0 Known Issues, plus material updates to `id 289` maintenance, `id 290` Version 2.0 details, `id 288` Ban details, `id 282` Ban Pick Up, `id 265` Version 1.8 Known Issues, and `id 267`/`id 258` event-extension details. Added EN/ZH Twitch Drops and Version 2.0 Known Issues pages, marked maintenance completed with the final 02:00-10:00 UTC window and two Star Fragment x300 compensations, moved current banner routing to Ban, extended Chaos That Devours the Desert to the September 2 maintenance, and refreshed homepage/news/events/bugs/sitemap routes. Page count is `356`; no successor banner or unconfirmed meta/rate claim was added.
 
 August 28 refresh added EN/ZH coverage of official `id 112`, August 27 Server Patch [Completed]. The patch ran from 10:20 to 10:32 UTC and fixed higher-grade equipment consumption during Engraved Equipment Refinement, missing Transcendence Essence drops in the Indura Monspeet Boss Challenge, and balance/HP handling in two Act 16 quests. Refreshed homepage/news/events/bugs discovery paths and sitemap; page count is `358`.
+
+September 1 refresh verified official `id 164`, August 31 Recommended Update, and a material August 31 update to `id 291`, Version 2.0 Known Issues. The recommended update required no maintenance and fixed intermittent Physical-attribute damage-number display plus incorrect download-screen logo language. The known-issues notice added the Ban-owned Protein Bug Skewer region-quest issue and marked those two display issues resolved. Added EN/ZH recommended-update pages, refreshed EN/ZH known-issues coverage, homepage/news/events/bugs discovery paths, sitemap, and project records. Page count is `360`.
