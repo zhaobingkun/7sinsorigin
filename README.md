@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `360`
+Current `index.html` count: `362`
 
 English:
 - `/`
@@ -178,3 +178,5 @@ August 27 refresh verified official articles `id 292` Twitch Drops Event and `id
 August 28 refresh added EN/ZH coverage of official `id 112`, August 27 Server Patch [Completed]. The patch ran from 10:20 to 10:32 UTC and fixed higher-grade equipment consumption during Engraved Equipment Refinement, missing Transcendence Essence drops in the Indura Monspeet Boss Challenge, and balance/HP handling in two Act 16 quests. Refreshed homepage/news/events/bugs discovery paths and sitemap; page count is `358`.
 
 September 1 refresh verified official `id 164`, August 31 Recommended Update, and a material August 31 update to `id 291`, Version 2.0 Known Issues. The recommended update required no maintenance and fixed intermittent Physical-attribute damage-number display plus incorrect download-screen logo language. The known-issues notice added the Ban-owned Protein Bug Skewer region-quest issue and marked those two display issues resolved. Added EN/ZH recommended-update pages, refreshed EN/ZH known-issues coverage, homepage/news/events/bugs discovery paths, corrected the stale Chinese current-banner route to live Ban, updated the sitemap, and refreshed project records. Page count is `360`.
+
+September 4 refresh verified official `id 293`, September 3 Temporary Maintenance [Completed], and the September 3 update to `id 291`, Version 2.0 Known Issues. The maintenance completed at 09:20 UTC, opened Event Boss - Her Return, Holy Knights and Thieves, and Timespace Junction Season 2 Sector 1, and excluded Labyrinth pending further review. Added EN/ZH maintenance pages, updated Known Issues with five resolved items and six remaining issues, refreshed homepage/news/events/bugs discovery and sitemap, and raised the page count to `362`.

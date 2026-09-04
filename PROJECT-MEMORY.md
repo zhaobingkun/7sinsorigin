@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `358`
+- Current `index.html` count: `362`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -259,3 +259,5 @@ August 28 refresh added EN/ZH coverage of official `id 112`, August 27 Server Pa
 August 30 daily check found no new official Netmarble article IDs and no article modifications after the August 27 changes already covered on the site. Official `/en/update` now visibly confirms Ban has arrived, matching the existing Ban current-banner routes. Corrected the English homepage planner's stale Derieri default copy and kept the project page count synchronized at `358`; no new news page was created.
 
 September 1 refresh verified official `id 164`, August 31 Recommended Update, and a material August 31 update to `id 291`, Version 2.0 Known Issues. The recommended update was applied without maintenance at 02:00 UTC and fixed intermittent Physical-attribute damage-number display plus incorrect download-screen logo language. The known-issues notice added the Ban-owned Protein Bug Skewer region-quest issue and marked those two display issues resolved. Added EN/ZH recommended-update pages, refreshed EN/ZH known-issues coverage, homepage/news/events/bugs discovery paths, corrected the stale Chinese current-banner route to live Ban, updated the sitemap, and refreshed project records; page count is `360`. No banner, rate, pity, leak, or unsupported meta claim was inferred.
+
+September 4 refresh verified official `id 293`, September 3 Temporary Maintenance [Completed], and the September 3 update to `id 291`, Version 2.0 Known Issues. The final maintenance window was 03:00–09:20 UTC; it opened Event Boss - Her Return, Holy Knights and Thieves, and Timespace Junction Season 2 Sector 1, while Labyrinth was excluded pending further review. Added EN/ZH maintenance coverage, updated Known Issues to list five September 3 resolutions and six remaining issues, refreshed homepage/news/events/bugs discovery and sitemap, and raised the page count to `362`. Ban remains the confirmed current pickup; no successor, rate, pity, leak, or unsupported meta claim was inferred.
