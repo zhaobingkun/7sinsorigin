@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `362`
+Current `index.html` count: `368`
 
 English:
 - `/`
@@ -179,4 +179,6 @@ August 28 refresh added EN/ZH coverage of official `id 112`, August 27 Server Pa
 
 September 1 refresh verified official `id 164`, August 31 Recommended Update, and a material August 31 update to `id 291`, Version 2.0 Known Issues. The recommended update required no maintenance and fixed intermittent Physical-attribute damage-number display plus incorrect download-screen logo language. The known-issues notice added the Ban-owned Protein Bug Skewer region-quest issue and marked those two display issues resolved. Added EN/ZH recommended-update pages, refreshed EN/ZH known-issues coverage, homepage/news/events/bugs discovery paths, corrected the stale Chinese current-banner route to live Ban, updated the sitemap, and refreshed project records. Page count is `360`.
 
-September 4 refresh verified official `id 293`, September 3 Temporary Maintenance [Completed], and the September 3 update to `id 291`, Version 2.0 Known Issues. The maintenance completed at 09:20 UTC, opened Event Boss - Her Return, Holy Knights and Thieves, and Timespace Junction Season 2 Sector 1, and excluded Labyrinth pending further review. Added EN/ZH maintenance pages, updated Known Issues with five resolved items and six remaining issues, refreshed homepage/news/events/bugs discovery and sitemap, and raised the page count to `362`.
+September 4 refresh verified official `id 293`, September 3 Temporary Maintenance [Completed], and the September 3 update to `id 291`, Version 2.0 Known Issues. The maintenance completed at 08:20 UTC, opened Event Boss - Her Return, Holy Knights and Thieves, and Timespace Junction Season 2 Sector 1, and excluded Labyrinth pending further review. Added EN/ZH maintenance pages, updated Known Issues with five resolved items and six remaining issues, refreshed homepage/news/events/bugs discovery and sitemap, and raised the page count to `362`.
+
+September 5 refresh captured official event notices `ids 294`, `295`, and `296` for Her Return, Holy Knights and Thieves, and Timespace Junction Season 2. Added EN/ZH event pages, refreshed homepage/news/events discovery and sitemap, and corrected the official September 3 maintenance window to 03:00–08:20 UTC plus the September 4 09:02 UTC update. The page count is `368`; Ban remains the confirmed current pickup.

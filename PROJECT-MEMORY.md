@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `362`
+- Current `index.html` count: `368`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -260,4 +260,6 @@ August 30 daily check found no new official Netmarble article IDs and no article
 
 September 1 refresh verified official `id 164`, August 31 Recommended Update, and a material August 31 update to `id 291`, Version 2.0 Known Issues. The recommended update was applied without maintenance at 02:00 UTC and fixed intermittent Physical-attribute damage-number display plus incorrect download-screen logo language. The known-issues notice added the Ban-owned Protein Bug Skewer region-quest issue and marked those two display issues resolved. Added EN/ZH recommended-update pages, refreshed EN/ZH known-issues coverage, homepage/news/events/bugs discovery paths, corrected the stale Chinese current-banner route to live Ban, updated the sitemap, and refreshed project records; page count is `360`. No banner, rate, pity, leak, or unsupported meta claim was inferred.
 
-September 4 refresh verified official `id 293`, September 3 Temporary Maintenance [Completed], and the September 3 update to `id 291`, Version 2.0 Known Issues. The final maintenance window was 03:00–09:20 UTC; it opened Event Boss - Her Return, Holy Knights and Thieves, and Timespace Junction Season 2 Sector 1, while Labyrinth was excluded pending further review. Added EN/ZH maintenance coverage, updated Known Issues to list five September 3 resolutions and six remaining issues, refreshed homepage/news/events/bugs discovery and sitemap, and raised the page count to `362`. Ban remains the confirmed current pickup; no successor, rate, pity, leak, or unsupported meta claim was inferred.
+September 4 refresh verified official `id 293`, September 3 Temporary Maintenance [Completed], and the September 3 update to `id 291`, Version 2.0 Known Issues. The final maintenance window was 03:00–08:20 UTC; it opened Event Boss - Her Return, Holy Knights and Thieves, and Timespace Season 2 Sector 1, while Labyrinth was excluded pending further review. Added EN/ZH maintenance coverage, updated Known Issues to list five September 3 resolutions and six remaining issues, refreshed homepage/news/events/bugs discovery and sitemap, and raised the page count to `362`. Ban remains the confirmed current pickup; no successor, rate, pity, leak, or unsupported meta claim was inferred.
+
+September 5 refresh captured official event notices `ids 294`, `295`, and `296` for Her Return, Holy Knights and Thieves, and Timespace Junction Season 2. Added EN/ZH event pages, refreshed homepage/news/events discovery and sitemap, corrected the maintenance record to the official 03:00–08:20 UTC window and September 4 09:02 UTC update, and raised the page count to `368`. Ban remains the confirmed current pickup; no successor, rate, pity, leak, or unsupported meta claim was inferred.
