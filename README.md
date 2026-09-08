@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `368`
+Current `index.html` count: `370`
 
 English:
 - `/`
@@ -184,3 +184,5 @@ September 4 refresh verified official `id 293`, September 3 Temporary Maintenanc
 September 5 refresh captured official event notices `ids 294`, `295`, and `296` for Her Return, Holy Knights and Thieves, and Timespace Junction Season 2. Added EN/ZH event pages, refreshed homepage/news/events discovery and sitemap, and corrected the official September 3 maintenance window to 03:00–08:20 UTC plus the September 4 09:02 UTC update. The page count is `368`; Ban remains the confirmed current pickup.
 
 September 7 refresh added official `id 297`, September 7 Server Patch [Completed]. The patch completed at 06:08 UTC and fixed intermittent access to the Holy Knights and Thieves minigame. Added EN/ZH patch pages, refreshed news discovery and sitemap, and raised the page count to `370`. No banner, reward, rate, or Labyrinth release claim was inferred.
+
+September 8 refresh captured material updates to official `id 293` and `id 291`, both titled as updated at 03:04 UTC (API modification timestamps 03:04:25 and 03:06:16 UTC). The maintenance notice now says the Oasis Village NPC minimap-icon issue needs a later fix, and the Version 2.0 Known Issues page lists it as current instead of resolved; refreshed EN/ZH pages, bugs/errors discovery, homepage/news labels, sitemap lastmods, and project records. Page count remains `370`.

@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `368`
+- Current `index.html` count: `370`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -263,5 +263,7 @@ September 1 refresh verified official `id 164`, August 31 Recommended Update, an
 September 4 refresh verified official `id 293`, September 3 Temporary Maintenance [Completed], and the September 3 update to `id 291`, Version 2.0 Known Issues. The final maintenance window was 03:00–08:20 UTC; it opened Event Boss - Her Return, Holy Knights and Thieves, and Timespace Season 2 Sector 1, while Labyrinth was excluded pending further review. Added EN/ZH maintenance coverage, updated Known Issues to list five September 3 resolutions and six remaining issues, refreshed homepage/news/events/bugs discovery and sitemap, and raised the page count to `362`. Ban remains the confirmed current pickup; no successor, rate, pity, leak, or unsupported meta claim was inferred.
 
 September 7 refresh verified official `id 297`, September 7 Server Patch [Completed]. The patch completed at 06:08 UTC and fixed intermittent inability to play the Holy Knights and Thieves minigame under certain conditions. Added EN/ZH patch coverage and sitemap entries; page count is `370`. No banner, reward, rate, or Labyrinth release claim was inferred.
+
+September 8 refresh verified material updates to official `id 293` and `id 291`, both titled as updated at 03:04 UTC (API modification timestamps 03:04:25 and 03:06:16 UTC). The maintenance notice moved the Oasis Village NPC minimap-icon issue out of the September 3 resolved fixes and into a later-fix state; the Version 2.0 Known Issues EN/ZH pages now list it as current, with four September 3 resolutions. Refreshed maintenance/known-issues pages, bugs/errors and homepage/news discovery, sitemap lastmods, and project records; page count remains `370`.
 
 September 5 refresh captured official event notices `ids 294`, `295`, and `296` for Her Return, Holy Knights and Thieves, and Timespace Junction Season 2. Added EN/ZH event pages, refreshed homepage/news/events discovery and sitemap, corrected the maintenance record to the official 03:00–08:20 UTC window and September 4 09:02 UTC update, and raised the page count to `368`. Ban remains the confirmed current pickup; no successor, rate, pity, leak, or unsupported meta claim was inferred.
