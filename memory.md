@@ -1,5 +1,7 @@
 # Project Experience
 
+- 2026-09-10: Official Netmarble API and official pages showed no new article after `id 297` (September 7 Server Patch) and no material modification after the September 8 updates already covered. Corrected sitemap `lastmod` for the EN/ZH homepage, news hub, and bugs/errors hub to `2026-09-08`, matching the pages changed in the previous run; no content pages or banner routing changed.
+
 - 2026-09-08: Official Netmarble API found no new article ID, but `id 293` and `id 291` were materially updated; both titles say September 8 03:04 UTC (API `modDate` values are 03:04:25 and 03:06:16 UTC). The September 3 maintenance notice now says the Oasis Village NPC minimap-icon issue will be fixed later; `id 291` lists it as a current issue and therefore has four, not five, September 3 resolutions. Updated EN/ZH maintenance and Known Issues pages, bugs/errors and homepage/news discovery, sitemap lastmods, README, and PROJECT-MEMORY; page count remains `370`. No banner, reward, rate, or Labyrinth claim was inferred.
 
 - 2026-09-07: Official Netmarble API returned new `id 297`, September 7 Server Patch [Completed], completed at 06:08 UTC. It fixes intermittent inability to play the Holy Knights and Thieves minigame under certain conditions and asks players to reconnect after the sequential patch. Added EN/ZH patch pages, refreshed news discovery and sitemap, and raised the page count to `370`; no banner, reward, rate, or Labyrinth release claim was inferred.
