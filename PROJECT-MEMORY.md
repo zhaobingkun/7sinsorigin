@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `370`
+- Current `index.html` count: `372`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -265,5 +265,7 @@ September 4 refresh verified official `id 293`, September 3 Temporary Maintenanc
 September 7 refresh verified official `id 297`, September 7 Server Patch [Completed]. The patch completed at 06:08 UTC and fixed intermittent inability to play the Holy Knights and Thieves minigame under certain conditions. Added EN/ZH patch coverage and sitemap entries; page count is `370`. No banner, reward, rate, or Labyrinth release claim was inferred.
 
 September 8 refresh verified material updates to official `id 293` and `id 291`, both titled as updated at 03:04 UTC (API modification timestamps 03:04:25 and 03:06:16 UTC). The maintenance notice moved the Oasis Village NPC minimap-icon issue out of the September 3 resolved fixes and into a later-fix state; the Version 2.0 Known Issues EN/ZH pages now list it as current, with four September 3 resolutions. Refreshed maintenance/known-issues pages, bugs/errors and homepage/news discovery, sitemap lastmods, and project records; page count remains `370`.
+
+September 10 refresh added EN/ZH coverage of official `id 298`, September 10 Server Patch & Regarding Leaderboard Regular Season 4 [Completed]. The patch completed at 02:31 UTC, fixed Boss Challenge restart/party-record bugs and Field Boss reward issues, closed the Indura Monspeet and Her Return Transcendence leaderboards, and set clear-based apology compensation plus equal rewards for future Transcendence time attacks until system improvements are complete. Refreshed homepage/news/events/bugs/leaderboard discovery paths and sitemap; page count is `372`. Ban remains the confirmed current pickup and no successor banner was inferred.
 
 September 5 refresh captured official event notices `ids 294`, `295`, and `296` for Her Return, Holy Knights and Thieves, and Timespace Junction Season 2. Added EN/ZH event pages, refreshed homepage/news/events discovery and sitemap, corrected the maintenance record to the official 03:00–08:20 UTC window and September 4 09:02 UTC update, and raised the page count to `368`. Ban remains the confirmed current pickup; no successor, rate, pity, leak, or unsupported meta claim was inferred.
