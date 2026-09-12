@@ -15,7 +15,7 @@
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `372`
+- Current `index.html` count: `374`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
@@ -273,3 +273,5 @@ September 10 SEO opportunity refresh used the supplied traffic report as a prior
 September 11 daily refresh found no new official article ID or banner change. Official `id 293` and `id 297` had September 10 API modification timestamps, but their current maintenance and patch facts were already covered. Refreshed EN/ZH visible recheck timestamps, JSON-LD `dateModified`, homepage/news discovery parity, and sitemap lastmods; page count remains `372`. Ban remains the confirmed current pickup.
 
 September 5 refresh captured official event notices `ids 294`, `295`, and `296` for Her Return, Holy Knights and Thieves, and Timespace Junction Season 2. Added EN/ZH event pages, refreshed homepage/news/events discovery and sitemap, corrected the maintenance record to the official 03:00–08:20 UTC window and September 4 09:02 UTC update, and raised the page count to `368`. Ban remains the confirmed current pickup; no successor, rate, pity, leak, or unsupported meta claim was inferred.
+
+September 12 refresh verified official article `id 299`, Developer Notes #19 - Discord AMA Season 3 Answers, published and modified September 11 at 11:00 UTC. Added EN/ZH coverage of the Labyrinth removal explanation, Version 2.1 plans, Ferzen Mines, Knighthood Headquarters, Poll Draw rerun format, future content, Daily Mission revamp, and AMA answers; refreshed homepage/news/events/upcoming-banner discovery and sitemap. Page count is `374`. No 2.1 date, Poll Draw hero names, new banner rate, or Labyrinth return date was inferred.

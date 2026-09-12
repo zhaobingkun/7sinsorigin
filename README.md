@@ -22,7 +22,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `372`
+Current `index.html` count: `374`
 
 English:
 - `/`
@@ -190,3 +190,5 @@ September 8 refresh captured material updates to official `id 293` and `id 291`,
 September 10 refresh added EN/ZH coverage of official article `id 298`, the completed server patch that fixed Boss Challenge restart/party-record bugs and Field Boss reward issues, closed the two affected Transcendence leaderboards, and replaced ranking rewards with clear-based apology compensation. Refreshed homepage/news/events/bugs/leaderboard discovery paths and sitemap; Ban remains the confirmed current pickup and the page count is `372`.
 
 September 11 daily refresh found no new official article ID or banner change. Official `id 293` and `id 297` showed September 10 API modification timestamps, but their current content was already fully covered; refreshed EN/ZH visible recheck timestamps, JSON-LD `dateModified`, homepage/news discovery parity, sitemap lastmods, and project records. Page count remains `372`.
+
+September 12 refresh verified official article `id 299`, Developer Notes #19 - Discord AMA Season 3 Answers, published and modified September 11 at 11:00 UTC. Added EN/ZH coverage of the Labyrinth removal explanation, Version 2.1 plans, Ferzen Mines, Knighthood Headquarters, Poll Draw rerun format, future content, Daily Mission revamp, and AMA answers; refreshed homepage/news/events/upcoming-banner discovery and sitemap. Page count is `374`. No 2.1 date, Poll Draw hero names, new banner rate, or Labyrinth return date was inferred.
