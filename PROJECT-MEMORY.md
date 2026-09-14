@@ -1,5 +1,7 @@
 # Project Memory
 
+September 14 maintenance refresh verified official `id 291`, Version 2.0 Known Issues, modified at 09:04 UTC. The current notice says the Ban-owned Protein Bug Skewer Region Quest issue is scheduled for resolution during the September 16 maintenance. Updated EN/ZH Known Issues pages, homepage, events schedule, bugs/errors hub, and sitemap; corrected the current record from a generic later fix to the official scheduled date. No new article ID, banner successor, maintenance window, or unsupported gameplay claim was added; page count remains `374`.
+
 ## Project Identity
 - Path: `/Users/zhaobingkun/dev/7sinsorigin.com/7sinsorigin`
 - Live domain: `https://7sinsorigin.com`

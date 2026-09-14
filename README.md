@@ -2,6 +2,8 @@
 
 SEO-oriented static site scaffold for **The Seven Deadly Sins: Origin** game information.
 
+September 14 maintenance refresh: official `id 291` Version 2.0 Known Issues was modified at 09:04 UTC. Updated the EN/ZH issue pages and current homepage, events, and troubleshooting discovery so the Ban-owned Protein Bug Skewer quest fix is recorded as scheduled for the September 16 maintenance. No new official article ID or banner successor was confirmed; page count remains `374`.
+
 ## Language structure
 
 - English (default): `/`
