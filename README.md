@@ -2,7 +2,7 @@
 
 SEO-oriented static site scaffold for **The Seven Deadly Sins: Origin** game information.
 
-September 14 maintenance refresh: official `id 291` Version 2.0 Known Issues was modified at 09:04 UTC. Updated the EN/ZH issue pages and current homepage, events, and troubleshooting discovery so the Ban-owned Protein Bug Skewer quest fix is recorded as scheduled for the September 16 maintenance. No new official article ID or banner successor was confirmed; page count remains `374`.
+September 16 daily refresh: official API articles `id 300`–`309` confirmed Version 2.1 maintenance, Khala, Selective Pick Up, Vanya, Conqueror's Path, Hawk Pass V, Lucky Snatch II, and the Version 2.1 update details. Updated bilingual news coverage, current/upcoming banner routes, event and issue hubs, related decision pages, and sitemap. The Protein Bug Skewer fix is scheduled for the September 17 maintenance; Her Return is extended through September 23 06:59:59 UTC. Page count is `392`.
 
 ## Language structure
 
@@ -24,7 +24,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `374`
+Current `index.html` count: `392`
 
 English:
 - `/`
