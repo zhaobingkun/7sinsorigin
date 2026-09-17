@@ -206,15 +206,27 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/about/</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/contact/</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/privacy/</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/terms/</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/codes/</loc>
@@ -452,15 +464,27 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/about/</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/contact/</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/privacy/</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://7sinsorigin.com/zh/terms/</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/codes/</loc>

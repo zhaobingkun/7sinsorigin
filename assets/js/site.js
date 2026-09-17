@@ -1,6 +1,19 @@
 (function () {
   var GA_ID = 'G-CP46SFNL6W';
+  var privacyStorageKey = '7so_privacy_choice_v1';
   var analyticsLoaded = false;
+
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function () {
+    window.dataLayer.push(arguments);
+  };
+  window.gtag('consent', 'default', {
+    ad_storage: 'denied',
+    ad_user_data: 'denied',
+    ad_personalization: 'denied',
+    analytics_storage: 'denied',
+    wait_for_update: 500
+  });
 
   function loadAnalytics() {
     if (analyticsLoaded || !GA_ID || !document.head) {
@@ -8,40 +21,102 @@
     }
 
     analyticsLoaded = true;
-    window.dataLayer = window.dataLayer || [];
-    window.gtag = window.gtag || function () {
-      window.dataLayer.push(arguments);
-    };
-
     window.gtag('js', new Date());
-    window.gtag('config', GA_ID);
+    window.gtag('config', GA_ID, { anonymize_ip: true });
 
     var gaScript = document.createElement('script');
     gaScript.async = true;
     gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(GA_ID);
     document.head.appendChild(gaScript);
 
-    removeAnalyticsListeners();
   }
 
-  var analyticsEvents = ['pointerdown', 'scroll', 'keydown', 'touchstart'];
+  function readPrivacyChoice() {
+    try {
+      return window.localStorage.getItem(privacyStorageKey);
+    } catch (error) {
+      return null;
+    }
+  }
 
-  function removeAnalyticsListeners() {
-    analyticsEvents.forEach(function (eventName) {
-      window.removeEventListener(eventName, loadAnalytics, listenerOptions);
+  function savePrivacyChoice(choice) {
+    try {
+      window.localStorage.setItem(privacyStorageKey, choice);
+    } catch (error) {
+      // Consent still applies for the current page when storage is unavailable.
+    }
+  }
+
+  function applyPrivacyChoice(choice) {
+    var granted = choice === 'accepted';
+    window.gtag('consent', 'update', {
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
+      analytics_storage: granted ? 'granted' : 'denied'
     });
+    if (granted) loadAnalytics();
   }
 
-  var listenerOptions = { passive: true };
+  var isChinese = (document.documentElement.lang || '').toLowerCase().indexOf('zh') === 0;
+  var privacyCopy = isChinese ? {
+    title: '隐私选择',
+    body: '本站只在你允许后加载 Google Analytics。必要存储仅用于记住这个选择。未来启用广告时，会继续按照适用地区要求征求同意。',
+    accept: '允许分析 Cookie',
+    reject: '拒绝可选项',
+    policy: '查看隐私政策'
+  } : {
+    title: 'Privacy choices',
+    body: 'Google Analytics loads only after you allow it. Essential storage is used only to remember this choice. Advertising consent will remain subject to applicable regional requirements.',
+    accept: 'Allow analytics',
+    reject: 'Reject optional',
+    policy: 'Read privacy policy'
+  };
 
-  analyticsEvents.forEach(function (eventName) {
-    window.addEventListener(eventName, loadAnalytics, listenerOptions);
+  var privacyPanel = document.createElement('section');
+  privacyPanel.className = 'privacy-panel';
+  privacyPanel.hidden = true;
+  privacyPanel.setAttribute('role', 'dialog');
+  privacyPanel.setAttribute('aria-modal', 'true');
+  privacyPanel.setAttribute('aria-labelledby', 'privacy-panel-title');
+  privacyPanel.innerHTML = '<div class="privacy-panel-inner">' +
+    '<div><h2 id="privacy-panel-title">' + privacyCopy.title + '</h2><p>' + privacyCopy.body + '</p></div>' +
+    '<div class="privacy-panel-actions"><button class="btn" type="button" data-privacy-accept>' + privacyCopy.accept + '</button>' +
+    '<button class="btn btn-secondary" type="button" data-privacy-reject>' + privacyCopy.reject + '</button>' +
+    '<a href="' + (isChinese ? '/zh/privacy/' : '/privacy/') + '">' + privacyCopy.policy + '</a></div></div>';
+  document.body.appendChild(privacyPanel);
+
+  function openPrivacyPanel() {
+    privacyPanel.hidden = false;
+    var firstButton = privacyPanel.querySelector('[data-privacy-accept]');
+    if (firstButton) firstButton.focus();
+  }
+
+  function closePrivacyPanel() {
+    privacyPanel.hidden = true;
+  }
+
+  privacyPanel.querySelector('[data-privacy-accept]').addEventListener('click', function () {
+    savePrivacyChoice('accepted');
+    applyPrivacyChoice('accepted');
+    closePrivacyPanel();
   });
 
-  if ('requestIdleCallback' in window) {
-    window.requestIdleCallback(loadAnalytics, { timeout: 3500 });
+  privacyPanel.querySelector('[data-privacy-reject]').addEventListener('click', function () {
+    savePrivacyChoice('rejected');
+    applyPrivacyChoice('rejected');
+    closePrivacyPanel();
+  });
+
+  document.querySelectorAll('[data-privacy-settings]').forEach(function (button) {
+    button.addEventListener('click', openPrivacyPanel);
+  });
+
+  var savedPrivacyChoice = readPrivacyChoice();
+  if (savedPrivacyChoice === 'accepted' || savedPrivacyChoice === 'rejected') {
+    applyPrivacyChoice(savedPrivacyChoice);
   } else {
-    window.setTimeout(loadAnalytics, 3500);
+    openPrivacyPanel();
   }
 
   var yearEl = document.querySelector('[data-year]');
