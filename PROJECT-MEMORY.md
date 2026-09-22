@@ -1,6 +1,6 @@
 # Project Memory
 
-September 17 AdSense-readiness maintenance added bilingual Privacy and Terms/Disclaimer pages, expanded About and Contact transparency, added consent-based analytics controls and privacy settings links across the site, and updated the sitemap. Page count is `396`. September 16 official content remains the latest verified game-data baseline; no game claim was changed during this compliance pass.
+September 22 official-source maintenance added bilingual coverage for Developer Notes #19.5, the resolved Google Play payment issue, Version 2.1 Known Issues, and the September 17 PS5 fix. It moved current-banner and decision routes from Ban to Khala and Selective Pick Up, refreshed event/bug/news discovery, and updated the Version 2.0 issue page as an archive. Page count is `404`.
 
 ## Project Identity
 - Path: `/Users/zhaobingkun/dev/7sinsorigin.com/7sinsorigin`

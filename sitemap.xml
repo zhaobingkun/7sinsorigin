@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://7sinsorigin.com/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -248,7 +248,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/events-schedule/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -580,11 +580,11 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/banners/current/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/banners/upcoming/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/systems/</loc>
@@ -680,11 +680,11 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/bugs-errors/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/best-banner-to-pull/</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/server-reset-times/</loc>
@@ -694,11 +694,11 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/bugs-errors/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/best-banner-to-pull/</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/server-reset-times/</loc>
@@ -819,8 +819,8 @@
   <url><loc>https://7sinsorigin.com/zh/best-f2p-team-june-2026/</loc><lastmod>2026-06-17</lastmod></url>
   <url><loc>https://7sinsorigin.com/how-to-farm-diamonds-fast/</loc><lastmod>2026-05-08</lastmod></url>
   <url><loc>https://7sinsorigin.com/zh/how-to-farm-diamonds-fast/</loc><lastmod>2026-05-08</lastmod></url>
-  <url><loc>https://7sinsorigin.com/current-banner-worth-it/</loc><lastmod>2026-09-15</lastmod></url>
-  <url><loc>https://7sinsorigin.com/zh/current-banner-worth-it/</loc><lastmod>2026-09-15</lastmod></url>
+  <url><loc>https://7sinsorigin.com/current-banner-worth-it/</loc><lastmod>2026-09-22</lastmod></url>
+  <url><loc>https://7sinsorigin.com/zh/current-banner-worth-it/</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://7sinsorigin.com/daisy-banner-worth-it/</loc><lastmod>2026-06-17</lastmod></url>
   <url><loc>https://7sinsorigin.com/zh/daisy-banner-worth-it/</loc><lastmod>2026-06-17</lastmod></url>
   <url><loc>https://7sinsorigin.com/escanor-banner-worth-it/</loc><lastmod>2026-06-20</lastmod></url>
@@ -1483,8 +1483,8 @@
   <url><loc>https://7sinsorigin.com/zh/news/2026/08/event-survey-poll-draw/</loc><lastmod>2026-08-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/08/twitch-drops-event-version-2-0/</loc><lastmod>2026-08-27</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://7sinsorigin.com/zh/news/2026/08/twitch-drops-event-version-2-0/</loc><lastmod>2026-08-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://7sinsorigin.com/news/2026/08/version-2-0-known-issues/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://7sinsorigin.com/zh/news/2026/08/version-2-0-known-issues/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/news/2026/08/version-2-0-known-issues/</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://7sinsorigin.com/zh/news/2026/08/version-2-0-known-issues/</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/08/august-27-server-patch-completed/</loc><lastmod>2026-08-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://7sinsorigin.com/zh/news/2026/08/august-27-server-patch-completed/</loc><lastmod>2026-08-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/08/august-31-recommended-update/</loc><lastmod>2026-09-01</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
@@ -1503,8 +1503,8 @@
   <url><loc>https://7sinsorigin.com/zh/news/2026/09/timespace-junction-season-2/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/09/developer-notes-19-discord-ama-season-3-answers/</loc><lastmod>2026-09-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://7sinsorigin.com/zh/news/2026/09/developer-notes-19-discord-ama-season-3-answers/</loc><lastmod>2026-09-12</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://7sinsorigin.com/news/2026/09/version-2-1-maintenance-schedule/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://7sinsorigin.com/zh/news/2026/09/version-2-1-maintenance-schedule/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/news/2026/09/version-2-1-maintenance-schedule/</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://7sinsorigin.com/zh/news/2026/09/version-2-1-maintenance-schedule/</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/09/khala-pick-up-exclusive-skin/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://7sinsorigin.com/zh/news/2026/09/khala-pick-up-exclusive-skin/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/09/selective-pick-up-stargazer-invitation/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
@@ -1515,10 +1515,18 @@
   <url><loc>https://7sinsorigin.com/zh/news/2026/09/raid-missions-conquerors-path/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/09/hawk-pass-season-5/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://7sinsorigin.com/zh/news/2026/09/hawk-pass-season-5/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://7sinsorigin.com/news/2026/09/version-2-1-update-details/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://7sinsorigin.com/zh/news/2026/09/version-2-1-update-details/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/news/2026/09/version-2-1-update-details/</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://7sinsorigin.com/zh/news/2026/09/version-2-1-update-details/</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/09/khala-details/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://7sinsorigin.com/zh/news/2026/09/khala-details/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://7sinsorigin.com/news/2026/09/lucky-snatch-2-spin-orb-of-greed-2/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://7sinsorigin.com/zh/news/2026/09/lucky-snatch-2-spin-orb-of-greed-2/</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/news/2026/09/lucky-snatch-2-spin-orb-of-greed-2/</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://7sinsorigin.com/zh/news/2026/09/lucky-snatch-2-spin-orb-of-greed-2/</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/news/2026/09/developer-notes-19-5/</loc><lastmod>2026-09-16</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://7sinsorigin.com/zh/news/2026/09/developer-notes-19-5/</loc><lastmod>2026-09-16</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/news/2026/09/google-play-payment-issue-resolved/</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/zh/news/2026/09/google-play-payment-issue-resolved/</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://7sinsorigin.com/news/2026/09/version-2-1-known-issues/</loc><lastmod>2026-09-21</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://7sinsorigin.com/zh/news/2026/09/version-2-1-known-issues/</loc><lastmod>2026-09-21</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/news/2026/09/september-17-playstation-5-update/</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/zh/news/2026/09/september-17-playstation-5-update/</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
