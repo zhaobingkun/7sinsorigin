@@ -1,5 +1,7 @@
 # Project Experience
 
+- 2026-09-23: Official Netmarble API returned new article `id 314`, September 22 Server Patch & Update [Completed], and materially updated `id 312` Version 2.1 Known Issues to September 22 11:37 UTC. Added bilingual patch coverage, marked the confirmed Vanya Day 4, Indura Monspeet, Timespace, Hero Pick Up, Windflower, and three PS5 fixes, and kept the remaining issue groups explicit. Page count is `406`; no banner or speculative gameplay claim was inferred.
+
 - 2026-09-22: Official Netmarble API returned new articles `id 310` Developer Notes #19.5, `id 311` Google Play payment issue resolved, `id 312` Version 2.1 Known Issues updated September 21, and `id 313` September 17 PlayStation 5 Update. Added EN/ZH pages, refreshed homepage/news/events/bugs discovery, moved current and decision routes to Khala plus Selective Pick Up through the October 8 maintenance, and updated Version 2.0 Known Issues as a historical archive. Daisy's Daily Mission path is planned for Version 2.2; Enchantment/Engraving reroll improvements target Version 2.3. Do not present roadmap dates or unannounced successors as confirmed.
 
 - 2026-09-17: Added the AdSense loader for publisher `ca-pub-6428701926694635` to the `<head>` of all 396 HTML pages, with exactly one loader per page. Keep this publisher ID synchronized with the root `ads.txt` entry and preserve single-load coverage when generating new pages.

@@ -1,6 +1,6 @@
 # Project Memory
 
-September 22 official-source maintenance added bilingual coverage for Developer Notes #19.5, the resolved Google Play payment issue, Version 2.1 Known Issues, and the September 17 PS5 fix. It moved current-banner and decision routes from Ban to Khala and Selective Pick Up, refreshed event/bug/news discovery, and updated the Version 2.0 issue page as an archive. Page count is `404`.
+September 23 official-source maintenance added bilingual coverage of official article `id 314`, the completed September 22 server patch, and refreshed `id 312` Version 2.1 Known Issues to its September 22 state. The patch fixed Vanya Day 4 progression, Indura Monspeet Hell Transcendence Essence drops, Timespace UI, Hero Pick Up navigation, Windflower crashes, mobile Ferzen Mines visuals, and several PS5 issues. Page count is `406`.
 
 ## Project Identity
 - Path: `/Users/zhaobingkun/dev/7sinsorigin.com/7sinsorigin`
@@ -17,7 +17,7 @@ September 22 official-source maintenance added bilingual coverage for Developer 
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `396`
+- Current `index.html` count: `406`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus

@@ -2,7 +2,7 @@
 
 SEO-oriented static site scaffold for **The Seven Deadly Sins: Origin** game information.
 
-September 22 official-source maintenance added bilingual coverage for Developer Notes #19.5, the resolved Google Play payment issue, Version 2.1 Known Issues, and the September 17 PS5 fix. It moved current-banner and decision routes from Ban to Khala and Selective Pick Up, refreshed event/bug/news discovery, and updated the Version 2.0 issue page as an archive. Page count is `404`.
+September 23 official-source maintenance added bilingual coverage of the completed September 22 server patch, refreshed Version 2.1 Known Issues to the September 22 state, and updated homepage/news/events/bugs discovery plus sitemap records. The patch fixed Vanya Day 4 progression, Indura Monspeet Hell drops, Timespace UI, mobile and PS5 issues, and other confirmed bugs. Page count is `406`.
 
 ## Language structure
 
@@ -24,7 +24,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `396`
+Current `index.html` count: `406`
 
 English:
 - `/`
