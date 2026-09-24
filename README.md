@@ -2,7 +2,7 @@
 
 SEO-oriented static site scaffold for **The Seven Deadly Sins: Origin** game information.
 
-September 23 official-source maintenance added bilingual coverage of the completed September 22 server patch, refreshed Version 2.1 Known Issues to the September 22 state, and updated homepage/news/events/bugs discovery plus sitemap records. The patch fixed Vanya Day 4 progression, Indura Monspeet Hell drops, Timespace UI, mobile and PS5 issues, and other confirmed bugs. Page count is `406`.
+September 24 official-source maintenance added bilingual coverage of Developer Notes #20 and three September 23 events: Koo and the Two Fools, Update Eve Check-In, and Swiftest Showdown. The pages record official rewards, requirements, dates through the October 8 maintenance, and roadmap caveats. Page count is `414`.
 
 ## Language structure
 
@@ -24,7 +24,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `406`
+Current `index.html` count: `414`
 
 English:
 - `/`

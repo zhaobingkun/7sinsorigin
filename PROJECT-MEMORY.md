@@ -1,6 +1,6 @@
 # Project Memory
 
-September 23 official-source maintenance added bilingual coverage of official article `id 314`, the completed September 22 server patch, and refreshed `id 312` Version 2.1 Known Issues to its September 22 state. The patch fixed Vanya Day 4 progression, Indura Monspeet Hell Transcendence Essence drops, Timespace UI, Hero Pick Up navigation, Windflower crashes, mobile Ferzen Mines visuals, and several PS5 issues. Page count is `406`.
+September 24 official-source maintenance added bilingual coverage of official articles `id 319`, `315`, `316`, and `317`: Developer Notes #20, Update Eve Check-In, Koo and the Two Fools, and Swiftest Showdown. The new pages cover confirmed September 23–October 8 event windows, requirements, rewards, and roadmap plans while keeping Version 2.2–2.5 timing and future features explicitly unconfirmed. Page count is `414`.
 
 ## Project Identity
 - Path: `/Users/zhaobingkun/dev/7sinsorigin.com/7sinsorigin`
@@ -17,7 +17,7 @@ September 23 official-source maintenance added bilingual coverage of official ar
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `406`
+- Current `index.html` count: `414`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
