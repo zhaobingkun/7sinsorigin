@@ -6,6 +6,8 @@ September 26 AdSense content-quality pass added bilingual editorial-policy pages
 
 September 24 official-source maintenance added bilingual coverage of Developer Notes #20 and three September 23 events: Koo and the Two Fools, Update Eve Check-In, and Swiftest Showdown. The pages record official rewards, requirements, dates through the October 8 maintenance, and roadmap caveats. Page count was `414` before the editorial-policy pair was added.
 
+September 26 official-source maintenance rechecked article `id 310`, Developer Notes #19.5, after its API `modDate` moved to September 23 11:29 UTC. The existing EN/ZH coverage already contained the material roadmap, Daisy, Bag, Seal Merchant, Cube Key, and thank-you-gift facts; refreshed the exact Raid Pledge and weekly Raid Shop details, visible update timestamps, JSON-LD, news indexes, and sitemap. No new article ID or banner change was confirmed.
+
 ## Language structure
 
 - English (default): `/`

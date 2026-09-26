@@ -4,6 +4,8 @@ September 26 AdSense content-quality pass added bilingual `/editorial-policy/` p
 
 September 24 official-source maintenance added bilingual coverage of official articles `id 319`, `315`, `316`, and `317`: Developer Notes #20, Update Eve Check-In, Koo and the Two Fools, and Swiftest Showdown. The new pages cover confirmed September 23–October 8 event windows, requirements, rewards, and roadmap plans while keeping Version 2.2–2.5 timing and future features explicitly unconfirmed. Page count was `414` before the editorial-policy pair was added.
 
+September 26 official-source maintenance found no article after `id 319`, but `id 310` Developer Notes #19.5 had a material API modification at September 23 11:29 UTC. Refreshed its EN/ZH pages with the exact Raid Pledge same-Attribute/five-player easing and weekly Raid Shop quantities, updated visible timestamps and `NewsArticle.dateModified`, marked both news index cards as updated September 23, and advanced sitemap lastmods. The rest of the roadmap remains explicitly planned rather than confirmed; no banner change was inferred.
+
 ## Project Identity
 - Path: `/Users/zhaobingkun/dev/7sinsorigin.com/7sinsorigin`
 - Live domain: `https://7sinsorigin.com`
