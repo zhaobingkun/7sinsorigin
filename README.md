@@ -2,7 +2,9 @@
 
 SEO-oriented static site scaffold for **The Seven Deadly Sins: Origin** game information.
 
-September 26 AdSense content-quality pass added bilingual editorial-policy pages, removed stale homepage video placeholders, expanded the source and editorial disclosures, and excluded 21 thin/utility EN/ZH page pairs from search and advertising while keeping them accessible. The sitemap now contains `374` indexable URLs; the total `index.html` count is `416`.
+September 29 official-source maintenance added bilingual coverage of Netmarble article `id 320`, the September 28 AOS Recommended Update. The notice confirms a no-maintenance Android fix for intermittent repeat shader compilation after reconnecting; no banner or roadmap change was inferred. The sitemap now contains `376` indexable URLs; the total `index.html` count is `418`.
+
+September 26 AdSense content-quality pass added bilingual editorial-policy pages, removed stale homepage video placeholders, expanded the source and editorial disclosures, and excluded 21 thin/utility EN/ZH page pairs from search and advertising while keeping them accessible. The sitemap now contains `374` indexable URLs; the total `index.html` count was `416` before this update.
 
 September 24 official-source maintenance added bilingual coverage of Developer Notes #20 and three September 23 events: Koo and the Two Fools, Update Eve Check-In, and Swiftest Showdown. The pages record official rewards, requirements, dates through the October 8 maintenance, and roadmap caveats. Page count was `414` before the editorial-policy pair was added.
 
@@ -28,7 +30,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `416`
+Current `index.html` count: `418`
 
 English:
 - `/`

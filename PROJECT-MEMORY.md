@@ -1,5 +1,7 @@
 # Project Memory
 
+September 29 official-source maintenance added bilingual coverage of article `id 320`, September 28 AOS Recommended Update. The notice confirms a no-maintenance Android update scheduled for 09:46 UTC that fixes intermittent repeat shader compilation when reconnecting. Updated homepage/news/bugs discovery, sitemap, README, and project records; page count is `418` and the sitemap has `376` indexable URLs. No banner, reward, rate, pity, or roadmap change was inferred.
+
 September 26 AdSense content-quality pass added bilingual `/editorial-policy/` pages, expanded About/news/homepage source disclosures, removed generic homepage video placeholders, and marked 21 thin/utility EN/ZH page pairs `noindex,follow` while removing them from the sitemap and AdSense inventory. The pages remain accessible for users. The total `index.html` count is `416`; the sitemap has `374` indexable URLs. Keep the 1,100-visible-character gate as a conservative quality check, not as a Google-required word count, and enrich a page before returning it to the index.
 
 September 24 official-source maintenance added bilingual coverage of official articles `id 319`, `315`, `316`, and `317`: Developer Notes #20, Update Eve Check-In, Koo and the Two Fools, and Swiftest Showdown. The new pages cover confirmed September 23–October 8 event windows, requirements, rewards, and roadmap plans while keeping Version 2.2–2.5 timing and future features explicitly unconfirmed. Page count was `414` before the editorial-policy pair was added.
@@ -21,7 +23,7 @@ September 26 official-source maintenance found no article after `id 319`, but `i
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `416`
+- Current `index.html` count: `418`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
