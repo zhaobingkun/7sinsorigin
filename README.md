@@ -2,6 +2,8 @@
 
 SEO-oriented static site scaffold for **The Seven Deadly Sins: Origin** game information.
 
+September 30 official-source maintenance verified Netmarble article `id 312`, Version 2.1 Known Issues, modified at `2026-09-29T05:37:05Z` and titled as updated at `05:36 UTC`. The notice adds the Khala Dual Swords `Mirror Arsenal` / `Normal Attack: Shaper - Mirage Blade` trigger issue. Refreshed the bilingual issue pages, homepage/news/bugs/events discovery, sitemap, and project records; page count remains `418` and the sitemap has `376` indexable URLs. No banner, reward, rate, pity, or roadmap change was inferred.
+
 September 29 official-source maintenance added bilingual coverage of Netmarble article `id 320`, the September 28 AOS Recommended Update. The notice confirms a no-maintenance Android fix for intermittent repeat shader compilation after reconnecting; no banner or roadmap change was inferred. The sitemap now contains `376` indexable URLs; the total `index.html` count is `418`.
 
 September 26 AdSense content-quality pass added bilingual editorial-policy pages, removed stale homepage video placeholders, expanded the source and editorial disclosures, and excluded 21 thin/utility EN/ZH page pairs from search and advertising while keeping them accessible. The sitemap now contains `374` indexable URLs; the total `index.html` count was `416` before this update.
