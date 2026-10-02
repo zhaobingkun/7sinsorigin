@@ -1,5 +1,7 @@
 # 7sinsorigin.com
 
+October 2 official-source maintenance added bilingual coverage of Netmarble article `id 321`, Version 2.2 Special Livestream Schedule & Details. The official notice confirms the October 7, 11:00 UTC livestream, Lancelot skills/gameplay, a new main story, and new content; it does not confirm a Lancelot banner, release date, rates, pity, or Version 2.2 maintenance window. Page count is now `420` and the sitemap has `378` indexable URLs.
+
 SEO-oriented static site scaffold for **The Seven Deadly Sins: Origin** game information.
 
 September 30 official-source maintenance verified Netmarble article `id 312`, Version 2.1 Known Issues, modified at `2026-09-29T05:37:05Z` and titled as updated at `05:36 UTC`. The notice adds the Khala Dual Swords `Mirror Arsenal` / `Normal Attack: Shaper - Mirage Blade` trigger issue. Refreshed the bilingual issue pages, homepage/news/bugs/events discovery, sitemap, and project records; page count remains `418` and the sitemap has `376` indexable URLs. No banner, reward, rate, pity, or roadmap change was inferred.
