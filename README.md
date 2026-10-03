@@ -1,5 +1,7 @@
 # 7sinsorigin.com
 
+October 2 official-source maintenance added bilingual coverage of Netmarble article `id 324`, Regarding Leaderboard Regular Season 5 Issues. The notice confirms that unintended hero use may affect Timespace Junction records, so Season 5 final-ranking rewards will not be distributed; it lists Star Fragment x1,000 and Sector 3/4 participation compensation, with mailbox claims after the October 8 maintenance through October 28 at 14:59 UTC. Regular Season 6 will give equal rewards without ranking-based Titles or reward differences. Page count is now `422` and the sitemap has `380` indexable URLs. No specific hero, exploit, banner, or speculative gameplay claim was added.
+
 October 2 official-source maintenance added bilingual coverage of Netmarble article `id 321`, Version 2.2 Special Livestream Schedule & Details. The official notice confirms the October 7, 11:00 UTC livestream, Lancelot skills/gameplay, a new main story, and new content; it does not confirm a Lancelot banner, release date, rates, pity, or Version 2.2 maintenance window. Page count is now `420` and the sitemap has `378` indexable URLs.
 
 SEO-oriented static site scaffold for **The Seven Deadly Sins: Origin** game information.
