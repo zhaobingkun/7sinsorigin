@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://7sinsorigin.com/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -128,7 +128,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/news/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -224,7 +224,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/events-schedule/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -242,7 +242,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -368,7 +368,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/news/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -458,7 +458,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/events-schedule/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -532,11 +532,11 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/banners/current/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-10-07</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/banners/upcoming/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-10-07</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/systems/</loc>
@@ -581,11 +581,11 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/banners/current/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/banners/upcoming/</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-10-07</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/systems/</loc>
@@ -713,8 +713,8 @@
   <url><loc>https://7sinsorigin.com/zh/best-f2p-team-june-2026/</loc><lastmod>2026-06-17</lastmod></url>
   <url><loc>https://7sinsorigin.com/how-to-farm-diamonds-fast/</loc><lastmod>2026-05-08</lastmod></url>
   <url><loc>https://7sinsorigin.com/zh/how-to-farm-diamonds-fast/</loc><lastmod>2026-05-08</lastmod></url>
-  <url><loc>https://7sinsorigin.com/current-banner-worth-it/</loc><lastmod>2026-09-22</lastmod></url>
-  <url><loc>https://7sinsorigin.com/zh/current-banner-worth-it/</loc><lastmod>2026-09-22</lastmod></url>
+  <url><loc>https://7sinsorigin.com/current-banner-worth-it/</loc><lastmod>2026-10-07</lastmod></url>
+  <url><loc>https://7sinsorigin.com/zh/current-banner-worth-it/</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://7sinsorigin.com/daisy-banner-worth-it/</loc><lastmod>2026-06-17</lastmod></url>
   <url><loc>https://7sinsorigin.com/zh/daisy-banner-worth-it/</loc><lastmod>2026-06-17</lastmod></url>
   <url><loc>https://7sinsorigin.com/escanor-banner-worth-it/</loc><lastmod>2026-06-20</lastmod></url>
@@ -857,13 +857,13 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/systems/raid-rewards-and-weekly-prep/</loc>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/systems/raid-rewards-and-weekly-prep/</loc>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1423,8 +1423,12 @@
   <url><loc>https://7sinsorigin.com/zh/news/2026/09/swiftest-showdown-time-attack-challenge/</loc><lastmod>2026-09-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/09/september-28-aos-recommended-update/</loc><lastmod>2026-09-29</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://7sinsorigin.com/zh/news/2026/09/september-28-aos-recommended-update/</loc><lastmod>2026-09-29</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://7sinsorigin.com/news/2026/10/version-2-2-special-livestream/</loc><lastmod>2026-10-01</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://7sinsorigin.com/zh/news/2026/10/version-2-2-special-livestream/</loc><lastmod>2026-10-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/news/2026/10/version-2-2-special-livestream/</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://7sinsorigin.com/zh/news/2026/10/version-2-2-special-livestream/</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/10/leaderboard-regular-season-5-issues/</loc><lastmod>2026-10-02</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://7sinsorigin.com/zh/news/2026/10/leaderboard-regular-season-5-issues/</loc><lastmod>2026-10-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/news/2026/10/version-2-2-maintenance-schedule/</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://7sinsorigin.com/zh/news/2026/10/version-2-2-maintenance-schedule/</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/news/2026/10/raid-entry-currency-changes/</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://7sinsorigin.com/zh/news/2026/10/raid-entry-currency-changes/</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>

@@ -1,5 +1,11 @@
 # Project Memory
 
+October 7 official-source maintenance verified new Netmarble article `id 323`, the Version 2.2 Maintenance Schedule, with API timestamp `2026-10-07T02:00:00Z`. It confirms the October 8 02:00–09:00 UTC maintenance, Lancelot, Guardian's Resolve, Main Quest Act 17, Cordin Village, Elaine Pick Up, Draco King Drake difficulties, Ranking Season 6, Timespace Extra Sectors 1–12, new events, and compensation. Added EN/ZH article pages, refreshed homepage/news/events/banner discovery, sitemap, README, and project records; page count is `426` with `384` indexable sitemap URLs. Keep Elaine's detailed rates, pity rules, and duration unconfirmed.
+
+October 6 official-source maintenance verified new Netmarble article `id 332`, Regarding Changes to Raid Entry Currency, with API timestamp `2026-10-06T10:14:54Z`. It confirms Chaos Keys for Raid [Nightmare] and [Hell], two Weekly Reward claims per week across Chaos Keys and Mystic Keys, up to 1,000 Weekly Reward Star Fragments, a temporary 500-Star-Fragment Abyss reward through Version 2.3, and the recommendation to use existing Mystic Keys before Version 2.2. Added EN/ZH coverage and refreshed Raid rewards, events, homepage, and banner planning routes.
+
+October 6 official-source maintenance verified material modification of article `id 321`, Version 2.2 Special Livestream Schedule & Details, with API `modDate` `2026-10-06T08:26:52Z`. Updated the existing EN/ZH pages' visible timestamp, JSON-LD `dateModified`, and Global guest note; no Lancelot banner, release date, rates, pity, or unrelated gameplay claim was inferred.
+
 October 2 official-source maintenance verified new Netmarble article `id 324`, Regarding Leaderboard Regular Season 5 Issues, with API timestamp `2026-10-02T11:30:07Z`. The notice says an unintended use of certain heroes may affect Timespace Junction records, cancels Season 5 final-ranking rewards, grants participants the listed Star Fragment and Sector 3/4 Laurel of Glory compensation after the October 8 maintenance, and changes Regular Season 6 to equal rewards without ranking-based Titles or reward differences. Added EN/ZH article pages, refreshed homepage/news/events/bugs discovery, sitemap, README, and project memory; page count is `422` with `380` indexable sitemap URLs. Do not name a specific hero or method, and do not infer a banner or broader gameplay change.
 
 October 2 official-source maintenance verified new Netmarble article `id 321`, Version 2.2 Special Livestream Schedule & Details, with API timestamp `2026-10-01T10:00:16Z`. The notice confirms an October 7, 11:00 UTC simultaneous Korean/Japanese/Global livestream, Lancelot skills and gameplay, a new main story, new content, and a replay link. Added EN/ZH article pages, refreshed homepage/news/events discovery and sitemap, and raised the page count to `420` with `378` indexable sitemap URLs. Keep Lancelot banner timing, release date, rates, pity, and the Version 2.2 maintenance window unconfirmed.
@@ -29,7 +35,7 @@ September 26 official-source maintenance found no article after `id 319`, but `i
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `422`
+- Current `index.html` count: `426`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus

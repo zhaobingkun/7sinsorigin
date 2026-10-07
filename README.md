@@ -1,5 +1,11 @@
 # 7sinsorigin.com
 
+October 7 official-source maintenance added bilingual coverage of Netmarble article `id 323`, the Version 2.2 Maintenance Schedule. It confirms the October 8 02:00–09:00 UTC maintenance, Lancelot, Elaine Pick Up, Cordin Village, Main Quest Act 17, Ranking Season 6, Timespace Extra Sectors 1–12, new events, and listed compensation. It does not confirm detailed banner rates or pity rules. Page count is now `426` and the sitemap has `384` indexable URLs.
+
+October 6 official-source maintenance added bilingual coverage of article `id 332`, Regarding Changes to Raid Entry Currency. It confirms Chaos Keys for Raid [Nightmare] and [Hell], two Weekly Reward claims per week across key types, up to 1,000 Weekly Reward Star Fragments, the pre-update Mystic Key recommendation, and a temporary 500-Star-Fragment Abyss reward through Version 2.3. It also refreshed the Raid rewards guide and current/upcoming planning routes.
+
+October 6 official-source maintenance verified article `id 321` was updated at `2026-10-06T08:26:52Z`; the existing bilingual livestream pages now show the updated timestamp and Global guest note. No Lancelot banner rates, pity rules, or other unconfirmed details were added.
+
 October 2 official-source maintenance added bilingual coverage of Netmarble article `id 324`, Regarding Leaderboard Regular Season 5 Issues. The notice confirms that unintended hero use may affect Timespace Junction records, so Season 5 final-ranking rewards will not be distributed; it lists Star Fragment x1,000 and Sector 3/4 participation compensation, with mailbox claims after the October 8 maintenance through October 28 at 14:59 UTC. Regular Season 6 will give equal rewards without ranking-based Titles or reward differences. Page count is now `422` and the sitemap has `380` indexable URLs. No specific hero, exploit, banner, or speculative gameplay claim was added.
 
 October 2 official-source maintenance added bilingual coverage of Netmarble article `id 321`, Version 2.2 Special Livestream Schedule & Details. The official notice confirms the October 7, 11:00 UTC livestream, Lancelot skills/gameplay, a new main story, and new content; it does not confirm a Lancelot banner, release date, rates, pity, or Version 2.2 maintenance window. Page count is now `420` and the sitemap has `378` indexable URLs.
@@ -36,7 +42,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `422`
+Current `index.html` count: `426`
 
 English:
 - `/`
