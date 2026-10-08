@@ -1,5 +1,7 @@
 # 7sinsorigin.com
 
+October 8 official-source maintenance verified Version 2.2 is live and added bilingual coverage of Netmarble articles `id 322`, `326`, `327`, `328`, `329`, `330`, `331`, and the updated full-details article `id 333` (`modDate` `2026-10-08T00:49:10Z`). Added Lancelot and Elaine current banner pages, hero details, livestream replay, Update Celebration Check-In, Draw Bingo, and Exciting Cube Unboxing coverage; refreshed homepage/news/events/banner routing. Lancelot and Elaine run until the October 28 maintenance; no successor after that window is confirmed. Page count is now `442` and the sitemap has `400` indexable URLs.
+
 October 7 official-source maintenance added bilingual coverage of Netmarble article `id 323`, the Version 2.2 Maintenance Schedule. It confirms the October 8 02:00–09:00 UTC maintenance, Lancelot, Elaine Pick Up, Cordin Village, Main Quest Act 17, Ranking Season 6, Timespace Extra Sectors 1–12, new events, and listed compensation. It does not confirm detailed banner rates or pity rules. Page count is now `426` and the sitemap has `384` indexable URLs.
 
 October 6 official-source maintenance added bilingual coverage of article `id 332`, Regarding Changes to Raid Entry Currency. It confirms Chaos Keys for Raid [Nightmare] and [Hell], two Weekly Reward claims per week across key types, up to 1,000 Weekly Reward Star Fragments, the pre-update Mystic Key recommendation, and a temporary 500-Star-Fragment Abyss reward through Version 2.3. It also refreshed the Raid rewards guide and current/upcoming planning routes.
