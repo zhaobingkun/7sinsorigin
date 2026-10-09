@@ -1,5 +1,7 @@
 # Project Memory
 
+- October 9 official-source maintenance verified new Netmarble articles `id 335` Version 2.2 Known Issues, `id 337` October 8 Server Patch, and `id 338` October 8 Server Patch [Completed]. It confirms the current 2.2 controller, Hawk Pass XP, Steam, party movement, and falling-under-ground issues; marks the Act 17 tutorial popup and Knighthood Headquarters entry as resolved; and adds the Ferzen Mines Raid Tag Skill fix. Article `id 312` was updated to October 8 10:00 UTC and now marks the 2.1 Khala, Hero Tag, Skip input, and controller cursor issues resolved. Added bilingual issue and patch pages, refreshed homepage/news/events/bugs discovery and current/upcoming/best-banner routing, and raised the page count to `446` with `404` indexable sitemap URLs. Do not infer a successor banner after October 28.
+
 October 8 official-source maintenance verified that Version 2.2 is live after the scheduled maintenance. The official API added articles `id 322`, `326`, `327`, `328`, `329`, `330`, `331`, and updated full details as `id 333` (`modDate` `2026-10-08T00:49:10Z`). Added EN/ZH coverage for the livestream replay, Version 2.2 update details, Lancelot skills, Lancelot and Elaine Pick Up banners, Update Celebration Check-In, Draw Bingo, and Exciting Cube Unboxing. Current routing now points to Lancelot and Elaine through the October 28 maintenance; no successor after that window is confirmed. Page count is `442` with `400` indexable sitemap URLs. Do not infer a post-October-28 banner or universal meta ranking.
 
 October 7 official-source maintenance verified new Netmarble article `id 323`, the Version 2.2 Maintenance Schedule, with API timestamp `2026-10-07T02:00:00Z`. It confirms the October 8 02:00–09:00 UTC maintenance, Lancelot, Guardian's Resolve, Main Quest Act 17, Cordin Village, Elaine Pick Up, Draco King Drake difficulties, Ranking Season 6, Timespace Extra Sectors 1–12, new events, and compensation. Added EN/ZH article pages, refreshed homepage/news/events/banner discovery, sitemap, README, and project records; page count is `426` with `384` indexable sitemap URLs. Keep Elaine's detailed rates, pity rules, and duration unconfirmed.
@@ -37,7 +39,7 @@ September 26 official-source maintenance found no article after `id 319`, but `i
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `426`
+- Current `index.html` count: `446`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus

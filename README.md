@@ -1,5 +1,7 @@
 # 7sinsorigin.com
 
+- October 9 official-source maintenance verified new Netmarble articles `id 335`, `337`, and `338`, plus the October 8 modification of `id 312`. Added bilingual Version 2.2 Known Issues and October 8 Server Patches pages, refreshed the historical Version 2.1 issue page, current/upcoming banner wording, homepage/news/events/bugs discovery, and sitemap. The remaining official 2.2 issues include controller navigation, Hawk Pass XP, Steam access, party movement, and falling beneath the ground; the Act 17 tutorial popup, Knighthood Headquarters entry, and Ferzen Mines Raid Tag Skill issues are resolved. Page count is now `446` and the sitemap has `404` indexable URLs. No successor after the October 28 maintenance is confirmed.
+
 October 8 official-source maintenance verified Version 2.2 is live and added bilingual coverage of Netmarble articles `id 322`, `326`, `327`, `328`, `329`, `330`, `331`, and the updated full-details article `id 333` (`modDate` `2026-10-08T00:49:10Z`). Added Lancelot and Elaine current banner pages, hero details, livestream replay, Update Celebration Check-In, Draw Bingo, and Exciting Cube Unboxing coverage; refreshed homepage/news/events/banner routing. Lancelot and Elaine run until the October 28 maintenance; no successor after that window is confirmed. Page count is now `442` and the sitemap has `400` indexable URLs.
 
 October 7 official-source maintenance added bilingual coverage of Netmarble article `id 323`, the Version 2.2 Maintenance Schedule. It confirms the October 8 02:00–09:00 UTC maintenance, Lancelot, Elaine Pick Up, Cordin Village, Main Quest Act 17, Ranking Season 6, Timespace Extra Sectors 1–12, new events, and listed compensation. It does not confirm detailed banner rates or pity rules. Page count is now `426` and the sitemap has `384` indexable URLs.
@@ -44,7 +46,7 @@ This structure is intentional for SEO:
 ## Current pages
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `426`
+Current `index.html` count: `446`
 
 English:
 - `/`
