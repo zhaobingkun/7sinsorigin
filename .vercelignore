@@ -1,0 +1,10 @@
+# Production is a static site. Keep operational files and local keys out of it.
+scripts/
+reports/
+*.md
+content-policy.json
+.github/
+.DS_Store
+.env*
+**/zhaobingkunny5-*.json
+**/*service-account*.json

@@ -1,5 +1,18 @@
 # 7sinsorigin.com
 
+## October 11, 2026 — substantive content remediation
+
+User authorization: after reporting the repeated AdSense low-value rejection, the user requested “还有什么要改的，一次改好”, then “继续”. This supersedes the earlier diagnostic-only status. Google approval is not guaranteed; no AdSense re-review or account setting was submitted.
+
+- Rebuilt EN/ZH home, beginner/character/system/issue hubs, codes and event/resource guides. Replaced unsupported tier placements with an explicitly non-ranking investment guide; team planning now documents failure diagnosis and upgrade stop conditions without invented team tests.
+- Added complete current Pick Up rules and six worked budgets: SSR pity, featured guarantee and each banner's separate one-time 120th Draw Bonus. Corrected Elaine's October 8 event-name revision to Whispers of the Wind. No invented conversion prices, drop rates or comparative DPS claims.
+- Reviewed manual policy: 18 route pairs merged, 42 incomplete draft pairs withdrawn, 29 historical/reference pairs preserved with archive warnings. All are noindex and excluded from sitemap; old news remains dated history. With existing utility exclusions, 446 HTML pages remain and 248 unique indexable sitemap URLs remain. This is manual editorial triage, not a character-count threshold.
+- Official new fact: article 339, Regarding Knighthood Boss Battle Ranking Issues, published/modified 2026-10-10 09:37:29 UTC (1791625049549). Integrated into existing Knighthood EN/ZH pages and home/news/bugs discovery. Measures are under review; no reset, cancellation or compensation is confirmed. Timespace article 324 is a separate issue; rechecked its October 8 API revision (1791425178816) and retained the October 28 14:59 UTC mailbox deadline.
+- Removed advertising runtime across the entire site; kept homepage AdSense ownership metadata and ads.txt. The local privacy panel controls Analytics only and is not a certified advertising CMP. Do not restore advertising before a separately reviewed consent setup.
+- Added content-policy.json, read-only validation, a mechanical --apply enforcement option, Vercel permanent redirects, deployment-file exclusions and a GitHub quality workflow. Retired the three historical page generators to prevent overwriting reviewed content. Read agents.md and use sh scripts/release_check.sh before every publication.
+- Static validation has passed all 446 pages: one H1, canonical/hreflang, OG/Twitter, JSON-LD, images, local targets/fragments, unique indexable titles/descriptions, exact sitemap inclusion and policy/redirect consistency. Diff check, XML check and JS syntax check pass. Desktop/mobile QA checked home/menu, events, budget tables and Chinese leaderboard layout; no viewport overflow at 390 px. Publication/live verification is a separate release step, not implied by these local results.
+
+
 - October 10 daily maintenance found no new Netmarble article ID or material modification after the October 8 records (`id 335`, `337`, and `338`); the official API still ends at `id 338`. Corrected stale current-entry copy in the bilingual banner hubs, homepage known-issues cards, and EN/ZH events schedule so Lancelot and Elaine are current, Version 2.2 is the active issue route, and ended Version 2.0/2.1 activities are labeled as archives. Page count remains `446` and the sitemap remains at `404` indexable URLs; no successor after October 28 is confirmed.
 
 - October 9 official-source maintenance verified new Netmarble articles `id 335`, `337`, and `338`, plus the October 8 modification of `id 312`. Added bilingual Version 2.2 Known Issues and October 8 Server Patches pages, refreshed the historical Version 2.1 issue page, current/upcoming banner wording, homepage/news/events/bugs discovery, and sitemap. The remaining official 2.2 issues include controller navigation, Hawk Pass XP, Steam access, party movement, and falling beneath the ground; the Act 17 tutorial popup, Knighthood Headquarters entry, and Ferzen Mines Raid Tag Skill issues are resolved. Page count is now `446` and the sitemap has `404` indexable URLs. No successor after the October 28 maintenance is confirmed.
@@ -45,7 +58,9 @@ This structure is intentional for SEO:
 - the seven deadly sins: origin
 - 7ds origin
 
-## Current pages
+## Known route catalog (includes archived and merged routes)
+
+The list below is historical inventory, not the current search or navigation inventory. `content-policy.json` and `sitemap.xml` are authoritative: 52 current core/hub/trust URLs and 196 dated news URLs, 248 indexable total; 198 retained HTML routes are noindex.
 
 The site has expanded far beyond the original scaffold.
 Current `index.html` count: `446`

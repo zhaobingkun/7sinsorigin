@@ -49,6 +49,8 @@
 
   function applyPrivacyChoice(choice) {
     var granted = choice === 'accepted';
+    // Also stop future GA hits if consent is withdrawn after the library loaded.
+    window['ga-disable-' + GA_ID] = !granted;
     window.gtag('consent', 'update', {
       ad_storage: 'denied',
       ad_user_data: 'denied',
@@ -61,13 +63,13 @@
   var isChinese = (document.documentElement.lang || '').toLowerCase().indexOf('zh') === 0;
   var privacyCopy = isChinese ? {
     title: '隐私选择',
-    body: '本站只在你允许后加载 Google Analytics。必要存储仅用于记住这个选择。未来启用广告时，会继续按照适用地区要求征求同意。',
+    body: '本站仅在允许后加载 Google Analytics。广告当前关闭；此面板只管理分析，不是广告 CMP。必要存储用于记住选择。',
     accept: '允许分析 Cookie',
     reject: '拒绝可选项',
     policy: '查看隐私政策'
   } : {
     title: 'Privacy choices',
-    body: 'Google Analytics loads only after you allow it. Essential storage is used only to remember this choice. Advertising consent will remain subject to applicable regional requirements.',
+    body: 'Google Analytics loads only after you allow it. Advertising is currently disabled. This panel controls Analytics only, not advertising consent. Essential storage remembers this choice.',
     accept: 'Allow analytics',
     reject: 'Reject optional',
     policy: 'Read privacy policy'
@@ -178,52 +180,4 @@
     });
   });
 
-  var homePlanner = document.querySelector('[data-home-planner]');
-  if (homePlanner) {
-    var plannerData = {
-      banner: {
-        title: 'Current Banner Worth It?',
-        copy: 'Start with the current banner page to confirm whether a Hero Pick Up is active. After the August 5 maintenance, save until Netmarble publishes the next official banner notice.',
-        href: '/banners/current/',
-        label: 'Open Current Banner Guide'
-      },
-      build: {
-        title: 'Current Tier List and Build Priorities',
-        copy: 'Open the tier list route when you need to decide which Seven Deadly Sins Origin characters, beginner teams, and raid teams deserve scarce materials first.',
-        href: '/tier-list/',
-        label: 'Open Tier List Hub'
-      },
-      growth: {
-        title: 'Daily Growth and Diamond Farming',
-        copy: 'Use the growth route when your 7DS Origin account needs a better daily checklist, weekly reset plan, diamond path, or shop-spending order.',
-        href: '/daily-checklist/',
-        label: 'Open Daily Checklist'
-      },
-      fix: {
-        title: 'Bugs, Errors, and Performance Fixes',
-        copy: 'Start with troubleshooting when login, install, update, crash, controller, or mobile performance problems block normal play.',
-        href: '/bugs-errors/',
-        label: 'Open Bugs and Errors Hub'
-      }
-    };
-    var plannerTitle = homePlanner.querySelector('[data-planner-title]');
-    var plannerCopy = homePlanner.querySelector('[data-planner-copy]');
-    var plannerLink = homePlanner.querySelector('[data-planner-link]');
-    var plannerChoices = homePlanner.querySelectorAll('input[name="home-planner"]');
-
-    function updatePlanner(value) {
-      var next = plannerData[value];
-      if (!next || !plannerTitle || !plannerCopy || !plannerLink) return;
-      plannerTitle.textContent = next.title;
-      plannerCopy.textContent = next.copy;
-      plannerLink.href = next.href;
-      plannerLink.textContent = next.label;
-    }
-
-    plannerChoices.forEach(function (choice) {
-      choice.addEventListener('change', function () {
-        updatePlanner(choice.value);
-      });
-    });
-  }
 })();

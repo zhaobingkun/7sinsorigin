@@ -1375,6 +1375,18 @@ p {
   min-height: 42px;
 }
 
+/* Long reward/budget tables scroll inside the card, not the viewport. */
+.card { min-width: 0; }
+.table-wrap { max-width: 100%; overflow-x: auto; }
+.table-wrap table { width: 100%; border-collapse: collapse; }
+.table-wrap th, .table-wrap td {
+  padding: 0.7rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--line, #ccd8d0);
+  overflow-wrap: anywhere;
+}
+
 @media (max-width: 760px) {
   .policy-layout,
   .privacy-panel-inner {

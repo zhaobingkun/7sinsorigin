@@ -539,6 +539,7 @@ def update_sitemap() -> None:
 
 
 def main() -> int:
+    raise SystemExit("Retired historical generator: do not overwrite reviewed pages. Read content-policy.json and use reviewed patches plus scripts/release_check.sh.")
     write_pages()
     update_hubs()
     update_sitemap()

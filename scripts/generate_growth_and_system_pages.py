@@ -431,6 +431,7 @@ def render_page(page: dict, lang: str) -> str:
 
 
 def main() -> None:
+    raise SystemExit("Retired historical generator: do not overwrite reviewed pages. Read content-policy.json and use reviewed patches plus scripts/release_check.sh.")
     for page in PAGES:
         for lang in ("en", "zh"):
             path = page["en_path"] if lang == "en" else page["zh_path"]

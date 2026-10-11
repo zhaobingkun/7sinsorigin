@@ -729,6 +729,7 @@ def update_memory() -> None:
 
 
 def main() -> None:
+    raise SystemExit("Retired historical generator: do not overwrite reviewed pages. Read content-policy.json and use reviewed patches plus scripts/release_check.sh.")
     update_homepage(ROOT / "index.html", zh=False)
     update_homepage(ROOT / "zh/index.html", zh=True)
     update_hub_pages()
