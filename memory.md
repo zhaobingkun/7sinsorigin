@@ -1,5 +1,9 @@
 # Project Experience
 
+## October 11, 2026 — final verification before asset-cache follow-up
+
+- All 36 permanent redirects passed live HTTP 308/target checks after `fa499ff`; initial routing failure resolved. 19 key pages and the exact 248-URL sitemap match the published remediation. Copy triage has no remaining publisher-planning-copy matches. Added versioned CSS/JS after a browser reproduced old cached privacy copy; the revised Analytics-only panel/reject path passed local browser QA. Keep this cache-busting step when changing shared consent/layout assets.
+
 ## October 11, 2026 — release verification
 
 - Content commit `c2dc12c` pushed to `origin/main`; GitHub quality check and Vercel deployment both reported success. Live GET comparisons passed for 19 key EN/ZH pages, including the withdrawn cooking draft, and the live sitemap matched all 248 URLs. Operational README/config probes returned 404.

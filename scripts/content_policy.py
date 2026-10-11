@@ -69,6 +69,9 @@ def nav(zh, route):
 def transform(path, text):
     route, base, zh = path_info(path)
     prefix = '/zh/' if zh else '/'
+    # Changed privacy/layout code must not be hidden by an older browser cache.
+    version = DATE.replace('-', '')
+    text = re.sub(r'(/assets/(?:js/site\.js|css/site\.css))(?:\?v=[^"\']*)?', lambda m: m[1] + '?v=' + version, text)
     text = AD_RE.sub('', text) if not POLICY['ads_enabled'] else text
     # Remove launch-era and other-game destinations from shared footers.
     text = text.replace('https://x.com/netmarbleglobal', 'https://x.com/7DSO_EN')
