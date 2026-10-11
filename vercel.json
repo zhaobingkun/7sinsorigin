@@ -2,189 +2,189 @@
   "trailingSlash": true,
   "redirects": [
     {
-      "source": "/best-banner-to-pull/:path*",
+      "source": "/best-banner-to-pull/",
       "destination": "/current-banner-worth-it/",
       "permanent": true
     },
     {
-      "source": "/save-summons-or-pull-now/:path*",
+      "source": "/save-summons-or-pull-now/",
       "destination": "/current-banner-worth-it/",
       "permanent": true
     },
     {
-      "source": "/next-banner-should-you-save/:path*",
+      "source": "/next-banner-should-you-save/",
       "destination": "/current-banner-worth-it/",
       "permanent": true
     },
     {
-      "source": "/best-beginner-team/:path*",
+      "source": "/best-beginner-team/",
       "destination": "/beginner-guide/best-team-comps/",
       "permanent": true
     },
     {
-      "source": "/best-team-by-element/:path*",
+      "source": "/best-team-by-element/",
       "destination": "/beginner-guide/best-team-comps/",
       "permanent": true
     },
     {
-      "source": "/beginner-guide/party-setup-tips/:path*",
+      "source": "/beginner-guide/party-setup-tips/",
       "destination": "/beginner-guide/best-team-comps/",
       "permanent": true
     },
     {
-      "source": "/weekly-checklist/:path*",
+      "source": "/weekly-checklist/",
       "destination": "/daily-checklist/",
       "permanent": true
     },
     {
-      "source": "/beginner-guide/free-rewards/:path*",
+      "source": "/beginner-guide/free-rewards/",
       "destination": "/daily-checklist/",
       "permanent": true
     },
     {
-      "source": "/how-to-farm-star-fragments/:path*",
+      "source": "/how-to-farm-star-fragments/",
       "destination": "/systems/raid-rewards-and-weekly-prep/",
       "permanent": true
     },
     {
-      "source": "/systems/raid/:path*",
+      "source": "/systems/raid/",
       "destination": "/systems/raid-rewards-and-weekly-prep/",
       "permanent": true
     },
     {
-      "source": "/how-to-farm-diamonds-fast/:path*",
+      "source": "/how-to-farm-diamonds-fast/",
       "destination": "/currency-guide/",
       "permanent": true
     },
     {
-      "source": "/how-to-get-more-diamonds/:path*",
+      "source": "/how-to-get-more-diamonds/",
       "destination": "/currency-guide/",
       "permanent": true
     },
     {
-      "source": "/best-use-of-diamonds/:path*",
+      "source": "/best-use-of-diamonds/",
       "destination": "/currency-guide/",
       "permanent": true
     },
     {
-      "source": "/current-characters/:path*",
+      "source": "/current-characters/",
       "destination": "/characters/",
       "permanent": true
     },
     {
-      "source": "/seven-deadly-sins-origin/:path*",
+      "source": "/seven-deadly-sins-origin/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/systems/time-attack-ranking/:path*",
+      "source": "/systems/time-attack-ranking/",
       "destination": "/systems/leaderboards/",
       "permanent": true
     },
     {
-      "source": "/best-settings/:path*",
+      "source": "/best-settings/",
       "destination": "/mobile-performance-settings/",
       "permanent": true
     },
     {
-      "source": "/upcoming-characters/:path*",
+      "source": "/upcoming-characters/",
       "destination": "/banners/upcoming/",
       "permanent": true
     },
     {
-      "source": "/zh/best-banner-to-pull/:path*",
+      "source": "/zh/best-banner-to-pull/",
       "destination": "/zh/current-banner-worth-it/",
       "permanent": true
     },
     {
-      "source": "/zh/save-summons-or-pull-now/:path*",
+      "source": "/zh/save-summons-or-pull-now/",
       "destination": "/zh/current-banner-worth-it/",
       "permanent": true
     },
     {
-      "source": "/zh/next-banner-should-you-save/:path*",
+      "source": "/zh/next-banner-should-you-save/",
       "destination": "/zh/current-banner-worth-it/",
       "permanent": true
     },
     {
-      "source": "/zh/best-beginner-team/:path*",
+      "source": "/zh/best-beginner-team/",
       "destination": "/zh/beginner-guide/best-team-comps/",
       "permanent": true
     },
     {
-      "source": "/zh/best-team-by-element/:path*",
+      "source": "/zh/best-team-by-element/",
       "destination": "/zh/beginner-guide/best-team-comps/",
       "permanent": true
     },
     {
-      "source": "/zh/beginner-guide/party-setup-tips/:path*",
+      "source": "/zh/beginner-guide/party-setup-tips/",
       "destination": "/zh/beginner-guide/best-team-comps/",
       "permanent": true
     },
     {
-      "source": "/zh/weekly-checklist/:path*",
+      "source": "/zh/weekly-checklist/",
       "destination": "/zh/daily-checklist/",
       "permanent": true
     },
     {
-      "source": "/zh/beginner-guide/free-rewards/:path*",
+      "source": "/zh/beginner-guide/free-rewards/",
       "destination": "/zh/daily-checklist/",
       "permanent": true
     },
     {
-      "source": "/zh/how-to-farm-star-fragments/:path*",
+      "source": "/zh/how-to-farm-star-fragments/",
       "destination": "/zh/systems/raid-rewards-and-weekly-prep/",
       "permanent": true
     },
     {
-      "source": "/zh/systems/raid/:path*",
+      "source": "/zh/systems/raid/",
       "destination": "/zh/systems/raid-rewards-and-weekly-prep/",
       "permanent": true
     },
     {
-      "source": "/zh/how-to-farm-diamonds-fast/:path*",
+      "source": "/zh/how-to-farm-diamonds-fast/",
       "destination": "/zh/currency-guide/",
       "permanent": true
     },
     {
-      "source": "/zh/how-to-get-more-diamonds/:path*",
+      "source": "/zh/how-to-get-more-diamonds/",
       "destination": "/zh/currency-guide/",
       "permanent": true
     },
     {
-      "source": "/zh/best-use-of-diamonds/:path*",
+      "source": "/zh/best-use-of-diamonds/",
       "destination": "/zh/currency-guide/",
       "permanent": true
     },
     {
-      "source": "/zh/current-characters/:path*",
+      "source": "/zh/current-characters/",
       "destination": "/zh/characters/",
       "permanent": true
     },
     {
-      "source": "/zh/seven-deadly-sins-origin/:path*",
+      "source": "/zh/seven-deadly-sins-origin/",
       "destination": "/zh/",
       "permanent": true
     },
     {
-      "source": "/zh/systems/time-attack-ranking/:path*",
+      "source": "/zh/systems/time-attack-ranking/",
       "destination": "/zh/systems/leaderboards/",
       "permanent": true
     },
     {
-      "source": "/zh/best-settings/:path*",
+      "source": "/zh/best-settings/",
       "destination": "/zh/mobile-performance-settings/",
       "permanent": true
     },
     {
-      "source": "/zh/upcoming-characters/:path*",
+      "source": "/zh/upcoming-characters/",
       "destination": "/zh/banners/upcoming/",
       "permanent": true
     }
   ],
   "headers": [
     {
-      "source": "/:path*",
+      "source": "/(.*)",
       "headers": [
         {
           "key": "X-Content-Type-Options",

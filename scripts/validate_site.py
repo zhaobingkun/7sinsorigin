@@ -130,7 +130,7 @@ def validate():
     for base, dest in POLICY['merged'].items():
         if dest in POLICY['merged']: errors.append(f'Redirect chain in policy: {base} -> {dest}')
         for prefix in ('/', '/zh/'):
-            expected_redirects.add((prefix + base + '/:path*', prefix + (dest + '/' if dest else ''), True))
+            expected_redirects.add((prefix + base + '/', prefix + (dest + '/' if dest else ''), True))
     actual_redirects = {(r.get('source'), r.get('destination'), r.get('permanent')) for r in redirects}
     if len(redirects) != len(actual_redirects) or actual_redirects != expected_redirects:
         errors.append('Vercel redirects differ from reviewed content-policy routes')

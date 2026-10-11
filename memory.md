@@ -1,5 +1,10 @@
 # Project Experience
 
+## October 11, 2026 — release verification
+
+- Content commit `c2dc12c` pushed to `origin/main`; GitHub quality check and Vercel deployment both reported success. Live GET comparisons passed for 19 key EN/ZH pages, including the withdrawn cooking draft, and the live sitemap matched all 248 URLs. Operational README/config probes returned 404.
+- Canonical merged URLs still returned 200 despite the wildcard redirect config. Replaced redirect sources with the exact canonical paths (36 EN/ZH routes) and changed the shared header match to an explicit all-path regex. A second deployment/live redirect check is required before treating redirects as complete. Static validation alone does not establish hosting behavior.
+
 ## October 11, 2026 — substantive content remediation
 
 User authorization: after reporting the repeated AdSense low-value rejection, the user requested “还有什么要改的，一次改好”, then “继续”. This supersedes the earlier diagnostic-only status. Google approval is not guaranteed; no AdSense re-review or account setting was submitted.
