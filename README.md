@@ -1,5 +1,10 @@
 # 7sinsorigin.com
 
+## October 12, 2026 — official Knighthood maintenance follow-up
+
+- Official article `id 340` confirms October 13 temporary maintenance from 05:00–07:00 UTC to fix Lancelot’s `Anchor Shot` stacking issue in Knighthood Boss Battle. Affected records are removed from the current leaderboard; ranking rewards are postponed and equalized for participants when distributed. The notice also confirms Star Fragment ×300, Knighthood Coins ×50 for the stated participants, and individual cumulative-score rewards up to 15 coins under its conditions.
+- Added bilingual article coverage and refreshed homepage/news, Knighthood, leaderboard, known-issues, events-schedule, sitemap, and project records. Article 339 remains the initial investigation; no successor banner after October 28 was inferred. Current scale is 448 HTML pages and 250 unique indexable sitemap URLs.
+
 ## October 11, 2026 — substantive content remediation
 
 User authorization: after reporting the repeated AdSense low-value rejection, the user requested “还有什么要改的，一次改好”, then “继续”. This supersedes the earlier diagnostic-only status. Google approval is not guaranteed; no AdSense re-review or account setting was submitted.
@@ -63,7 +68,7 @@ This structure is intentional for SEO:
 The list below is historical inventory, not the current search or navigation inventory. `content-policy.json` and `sitemap.xml` are authoritative: 52 current core/hub/trust URLs and 196 dated news URLs, 248 indexable total; 198 retained HTML routes are noindex.
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `446`
+Current `index.html` count: `448`
 
 English:
 - `/`

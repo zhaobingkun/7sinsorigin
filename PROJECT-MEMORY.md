@@ -1,5 +1,10 @@
 # Project Memory
 
+## October 12, 2026 — official Knighthood maintenance follow-up
+
+- Official Netmarble article `id 340`, `October 13 (Tue) Temporary Maintenance & Knighthood Boss Battle Ranking Notice`, was published and modified at `2026-10-12T09:32:36Z`. It confirms that Lancelot’s Gauntlets Special Attack `Anchor Shot` can stack across party members, schedules October 13 05:00–07:00 UTC maintenance, removes affected current-leaderboard records, postpones and equalizes ranking rewards, and lists Star Fragment ×300, Knighthood Coins ×50 for the stated participants, plus up to 15 individual cumulative-score coins under its conditions.
+- Added bilingual article coverage and refreshed homepage/news, Knighthood, leaderboard, known-issues, events-schedule, sitemap, README, and project memory. Article 339 remains the initial investigation; no successor banner after October 28 was inferred. Current scale is 448 HTML pages and 250 unique sitemap URLs.
+
 ## October 11, 2026 — substantive content remediation
 
 User authorization: after reporting the repeated AdSense low-value rejection, the user requested “还有什么要改的，一次改好”, then “继续”. This supersedes the earlier diagnostic-only status. Google approval is not guaranteed; no AdSense re-review or account setting was submitted.
@@ -54,7 +59,7 @@ September 26 official-source maintenance found no article after `id 319`, but `i
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `446`
+- Current `index.html` count: `448`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus
