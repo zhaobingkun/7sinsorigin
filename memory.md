@@ -4,7 +4,7 @@
 
 - Official Netmarble API exposed new article `id 340`, `October 13 (Tue) Temporary Maintenance & Knighthood Boss Battle Ranking Notice`, published and modified at `2026-10-12T09:32:36Z`. It confirms the Lancelot Gauntlets Special Attack `Anchor Shot` stacking issue, October 13 05:00–07:00 UTC maintenance, removal of affected current-leaderboard records, postponed/equalized ranking rewards, Star Fragment ×300, Knighthood Coins ×50 for the stated participants, and individual cumulative-score rewards up to 15 coins under its conditions.
 - Added bilingual article pages and refreshed the homepage, news indexes, Knighthood, leaderboard, known-issues, and events-schedule routes. Article 339 remains the initial investigation; no successor banner after October 28 was inferred. Current scale is 448 HTML pages and 250 unique sitemap URLs.
-- Validation and live verification are recorded after the release check and push below; do not count delayed ranking rewards before the mailbox state is visible.
+- Validation passed: `sh scripts/release_check.sh` checked 448 HTML pages with 0 errors and 0 policy drift; `git diff --check`, `xmllint --noout sitemap.xml`, one-H1/SEO/JSON-LD checks, bilingual pairing, and 250 unique sitemap URLs passed. Commit `cfd5363` pushed to `origin/main`; production key routes and sitemap returned HTTP 200, and live markers confirmed article 340 facts plus both new sitemap URLs. Do not count delayed ranking rewards before the mailbox state is visible.
 
 ## October 11, 2026 — final verification before asset-cache follow-up
 
