@@ -1,5 +1,11 @@
 # Project Memory
 
+## October 13, 2026 — additional Knighthood maintenance and current issue update
+
+- Official article `id 341`, `October 13 (Tue) Additional Temporary Maintenance [Completed]`, was modified at `2026-10-13T09:12:39Z`. It confirms an 08:30–09:10 UTC follow-up because Knighthood Boss Battle attempts and individual cumulative-score rewards did not reset after the first October 13 maintenance; the follow-up reset rankings and resumed sequential reward distribution, and lists Star Fragment ×300 maintenance compensation claimable through October 27 14:59 UTC.
+- Official article `id 335`, Version 2.2 Known Issues, was modified at `2026-10-13T10:30:50Z` and adds the Draco King Drake higher-difficulty lower-quality `Tyrant Dragon's Black Heart Top` issue and the iOS controller Timespace Junction: Extra selection issue. It marks the Knighthood attempt-reset issue resolved on October 13; the existing controller, Hawk Pass XP, Steam, party movement, and falling-beneath-ground issues remain current.
+- Updated existing bilingual maintenance and known-issues pages rather than creating a thin second news route. Refreshed homepage/news, bugs/errors, events schedule, Knighthood, sitemap, and metadata/project records. Page count remains `448`; sitemap remains `250` unique indexable URLs. No banner successor after October 28 was inferred.
+
 ## October 12, 2026 — official Knighthood maintenance follow-up
 
 - Official Netmarble article `id 340`, `October 13 (Tue) Temporary Maintenance & Knighthood Boss Battle Ranking Notice`, was published and modified at `2026-10-12T09:32:36Z`. It confirms that Lancelot’s Gauntlets Special Attack `Anchor Shot` can stack across party members, schedules October 13 05:00–07:00 UTC maintenance, removes affected current-leaderboard records, postpones and equalizes ranking rewards, and lists Star Fragment ×300, Knighthood Coins ×50 for the stated participants, plus up to 15 individual cumulative-score coins under its conditions.

@@ -1,5 +1,12 @@
 # Project Experience
 
+## October 13, 2026 — official Knighthood follow-up and Version 2.2 issue update
+
+- Official Netmarble article `id 341`, `October 13 (Tue) Additional Temporary Maintenance [Completed]`, was published at `2026-10-13T08:06:55Z` and modified at `2026-10-13T09:12:39Z`. It confirms the first maintenance did not reset Knighthood Boss Battle attempts and individual cumulative-score rewards, then records 08:30–09:10 UTC additional maintenance, a ranking reset, sequential individual-reward distribution, and Star Fragment ×300 maintenance compensation through October 27 14:59 UTC.
+- Official article `id 335` was materially updated at `2026-10-13T10:30:50Z` with the Draco King Drake higher-difficulty lower-quality `Tyrant Dragon's Black Heart Top` issue and the iOS controller Timespace Junction: Extra selection issue. The Knighthood attempt-reset issue is resolved; the other listed Version 2.2 issues remain open.
+- Updated the existing bilingual maintenance and Version 2.2 Known Issues pages, homepage/news, bugs/errors, events schedule, Knighthood guide, sitemap, README, and PROJECT-MEMORY. Kept 448 HTML pages and 250 unique sitemap URLs; no thin second article page or post-October-28 banner inference was added.
+- Local validation and live release verification remain pending for this run; before commit/push, run `sh scripts/release_check.sh`, XML/diff checks, changed-page SEO/JSON-LD/internal-link checks, then push `main` and verify updated live markers.
+
 ## October 12, 2026 — official Knighthood maintenance follow-up
 
 - Official Netmarble API exposed new article `id 340`, `October 13 (Tue) Temporary Maintenance & Knighthood Boss Battle Ranking Notice`, published and modified at `2026-10-12T09:32:36Z`. It confirms the Lancelot Gauntlets Special Attack `Anchor Shot` stacking issue, October 13 05:00–07:00 UTC maintenance, removal of affected current-leaderboard records, postponed/equalized ranking rewards, Star Fragment ×300, Knighthood Coins ×50 for the stated participants, and individual cumulative-score rewards up to 15 coins under its conditions.

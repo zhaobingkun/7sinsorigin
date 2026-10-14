@@ -1,5 +1,11 @@
 # 7sinsorigin.com
 
+## October 13, 2026 — Knighthood maintenance follow-up and Version 2.2 issues
+
+- Official article `id 341`, `October 13 (Tue) Additional Temporary Maintenance [Completed]`, records an 08:30–09:10 UTC follow-up after the first maintenance did not reset Knighthood Boss Battle attempts and individual cumulative-score rewards. It confirms another Star Fragment ×300 maintenance compensation and a further ranking reset/sequential reward distribution.
+- Official article `id 335` was updated at 10:30 UTC with a Draco King Drake higher-difficulty loot-quality issue and an iOS controller issue for the Timespace Junction: Extra tab; the Knighthood attempt-reset issue is marked resolved.
+- Merged both facts into the existing bilingual maintenance and Version 2.2 Known Issues pages, then refreshed homepage/news, bugs, events, Knighthood, sitemap, and project records. Current scale remains 448 HTML pages and 250 unique indexable sitemap URLs. No successor banner after October 28 was inferred.
+
 ## October 12, 2026 — official Knighthood maintenance follow-up
 
 - Official article `id 340` confirms October 13 temporary maintenance from 05:00–07:00 UTC to fix Lancelot’s `Anchor Shot` stacking issue in Knighthood Boss Battle. Affected records are removed from the current leaderboard; ranking rewards are postponed and equalized for participants when distributed. The notice also confirms Star Fragment ×300, Knighthood Coins ×50 for the stated participants, and individual cumulative-score rewards up to 15 coins under its conditions.
