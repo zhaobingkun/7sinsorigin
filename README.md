@@ -1,5 +1,12 @@
 # 7sinsorigin.com
 
+## October 14, 2026 — Chaos event and Version 2.2 source refresh
+
+- Official Netmarble added article `id 342`, `Hunting Event - Chaos That Devours the Desert`, published October 14 at 07:01:23 UTC. It confirms the October 14 07:00–November 4 06:59:59 UTC window, five sequential event quests, Kalbash Abyss rules, daily Desert Keeper’s Keys, first-clear weapon chest, quest/mission rewards, and Golden Sand Token exchange items.
+- Official article `id 335` was updated October 14 at 09:25 UTC with a PS5 issue where `[Party Introduction] → [Enter Manually]` may fail while `Set to Searchable` is active. Article `id 333` was updated at the same time and marks Merlin’s mobile `Electromagnetic Field` animation interruption resolved.
+- Added bilingual current-event pages, refreshed the Version 2.2 update and known-issues pages, homepage/news/events/bugs discovery, and sitemap. No banner successor or unconfirmed gameplay conclusion was inferred.
+- Current scale is 450 HTML pages and 252 unique indexable sitemap URLs after validation.
+
 ## October 13, 2026 — Knighthood maintenance follow-up and Version 2.2 issues
 
 - Official article `id 341`, `October 13 (Tue) Additional Temporary Maintenance [Completed]`, records an 08:30–09:10 UTC follow-up after the first maintenance did not reset Knighthood Boss Battle attempts and individual cumulative-score rewards. It confirms another Star Fragment ×300 maintenance compensation and a further ranking reset/sequential reward distribution.

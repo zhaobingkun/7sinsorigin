@@ -1,5 +1,12 @@
 # Project Memory
 
+## October 14, 2026 — current Hunting Event and Version 2.2 refresh
+
+- Official Netmarble article `id 342`, `Hunting Event - Chaos That Devours the Desert`, was published at `2026-10-14T07:01:23.327Z`. It confirms the October 14 07:00–November 4 06:59:59 UTC window, sequential Day 1–5 event quests through NPC Ensia, the Beings of Deep Darkness unlock, the 10–15-player Abyss dungeon The Hermit Beneath the Sand, up to two daily Desert Keeper’s Keys, first-clear Lichdragon’s Roar Weapon Selection Chest, the listed quest/mission rewards, and Golden Sand Token shop rules. Unused tokens reset after the event.
+- Official article `id 335` was updated at `2026-10-14T09:25:00Z` and adds the PS5 `[Party Introduction] → [Enter Manually]` issue while `Set to Searchable` is active. Article `id 333` has the same update timestamp and marks the mobile Merlin Wand Special Attack `Electromagnetic Field` animation interruption resolved on October 8.
+- Added EN/ZH current-event pages at `/news/2026/10/chaos-that-devours-desert/` and `/zh/news/2026/10/chaos-that-devours-desert/`; refreshed the Version 2.2 update/known-issues pages, homepage/news/events/bugs hubs, README, sitemap, and project records. Preserve the August event page as historical archive; do not infer a post-October-28 banner.
+- Page count is 450 and sitemap count is 252 before final release validation.
+
 ## October 13, 2026 — additional Knighthood maintenance and current issue update
 
 - Official article `id 341`, `October 13 (Tue) Additional Temporary Maintenance [Completed]`, was modified at `2026-10-13T09:12:39Z`. It confirms an 08:30–09:10 UTC follow-up because Knighthood Boss Battle attempts and individual cumulative-score rewards did not reset after the first October 13 maintenance; the follow-up reset rankings and resumed sequential reward distribution, and lists Star Fragment ×300 maintenance compensation claimable through October 27 14:59 UTC.

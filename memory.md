@@ -1,5 +1,12 @@
 # Project Experience
 
+## October 14, 2026 — current Chaos event and Version 2.2 issue refresh
+
+- Official Netmarble list exposed new article `id 342`, `Hunting Event - Chaos That Devours the Desert`, published `2026-10-14T07:01:23.327Z`. The official page confirms October 14 07:00–November 4 06:59:59 UTC, five sequential event quests, Act 12 Episode 15 access, Kalbash’s 10–15-player Abyss dungeon, up to two daily Desert Keeper’s Keys, first-clear Lichdragon’s Roar Weapon Selection Chest, quest/mission reward totals, and Golden Sand Token exchange rules.
+- Official `id 335` changed at `2026-10-14T09:25:00Z` with the PS5 manual party-introduction entry issue; official `id 333` changed at the same time and marks the mobile Merlin `Electromagnetic Field` animation interruption resolved. Keep open and resolved states separate.
+- Added bilingual October event pages and updated the existing Version 2.2 details, Known Issues, events schedule, bugs/errors, homepage/news indexes, sitemap, README, and PROJECT-MEMORY. The August Chaos page remains an archive; no later banner was inferred.
+- Before publishing, run `sh scripts/release_check.sh`, `git diff --check`, XML/SEO/JSON-LD/internal-link checks, commit only intended files, push `main`, and verify live 200 responses and new markers.
+
 ## October 13, 2026 — official Knighthood follow-up and Version 2.2 issue update
 
 - Official Netmarble article `id 341`, `October 13 (Tue) Additional Temporary Maintenance [Completed]`, was published at `2026-10-13T08:06:55Z` and modified at `2026-10-13T09:12:39Z`. It confirms the first maintenance did not reset Knighthood Boss Battle attempts and individual cumulative-score rewards, then records 08:30–09:10 UTC additional maintenance, a ranking reset, sequential individual-reward distribution, and Star Fragment ×300 maintenance compensation through October 27 14:59 UTC.
