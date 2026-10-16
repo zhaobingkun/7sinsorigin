@@ -78,10 +78,10 @@ This structure is intentional for SEO:
 
 ## Known route catalog (includes archived and merged routes)
 
-The list below is historical inventory, not the current search or navigation inventory. `content-policy.json` and `sitemap.xml` are authoritative: 52 current core/hub/trust URLs and 196 dated news URLs, 248 indexable total; 198 retained HTML routes are noindex.
+The list below is historical inventory, not the current search or navigation inventory. `content-policy.json` and `sitemap.xml` are authoritative: 52 current core/hub/trust URLs and 200 dated news URLs, 252 indexable total; 198 retained HTML routes are noindex.
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `448`
+Current `index.html` count: `450`
 
 English:
 - `/`
