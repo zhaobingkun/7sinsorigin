@@ -1,5 +1,11 @@
 # Project Experience
 
+## October 19, 2026 — Version 2.3 equipment bonus-lock notice
+
+- Official Netmarble API exposed new article `id 344`, `Regarding Changes to Enchantment and Engraved Equipment Bonuses`, published and modified at `2026-10-19T08:30:04.342Z`. The notice confirms the Version 2.3 update during the October 28 maintenance will add Bonus Lock for Enchantment and Engraved Equipment rerolls: up to two locked bonuses for Engraved Equipment, any number for Enchantment while at least one remains unlocked, no additional resources, and unchanged reroll cost.
+- Added bilingual EN/ZH article coverage, refreshed homepage/news and systems hubs, and added both pages to `sitemap.xml`. Keep the announced lock mechanic separate from unconfirmed stat priorities, rates, full Version 2.3 scope, or any post-October-28 banner claim.
+- Validate with `sh scripts/release_check.sh`, `git diff --check`, XML/SEO/JSON-LD/internal-link checks, then commit only intended files, push `main`, and verify live 200 responses and article markers.
+
 ## October 14, 2026 — current Chaos event and Version 2.2 issue refresh
 
 - Official Netmarble list exposed new article `id 342`, `Hunting Event - Chaos That Devours the Desert`, published `2026-10-14T07:01:23.327Z`. The official page confirms October 14 07:00–November 4 06:59:59 UTC, five sequential event quests, Act 12 Episode 15 access, Kalbash’s 10–15-player Abyss dungeon, up to two daily Desert Keeper’s Keys, first-clear Lichdragon’s Roar Weapon Selection Chest, quest/mission reward totals, and Golden Sand Token exchange rules.

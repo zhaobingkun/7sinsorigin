@@ -1,5 +1,11 @@
 # 7sinsorigin.com
 
+## October 19, 2026 — Version 2.3 equipment bonus-lock notice
+
+- Official Netmarble article `id 344` was published at `2026-10-19T08:30:04.342Z`. It confirms that the Version 2.3 update during the October 28 maintenance will add selectable Bonus Locks for Enchantment and Engraved Equipment bonus rerolls: up to two locked bonuses for Engraved Equipment, any number for Enchantment while leaving at least one unlocked, with no additional resources and unchanged reroll cost.
+- Added bilingual article coverage and refreshed the homepage, news indexes, systems hubs, sitemap, and project records. The notice does not confirm new stat priorities, rates, a full Version 2.3 content list, or a banner successor after October 28.
+- Current scale is 452 HTML pages and 254 unique indexable sitemap URLs after validation.
+
 ## October 14, 2026 — Chaos event and Version 2.2 source refresh
 
 - Official Netmarble added article `id 342`, `Hunting Event - Chaos That Devours the Desert`, published October 14 at 07:01:23 UTC. It confirms the October 14 07:00–November 4 06:59:59 UTC window, five sequential event quests, Kalbash Abyss rules, daily Desert Keeper’s Keys, first-clear weapon chest, quest/mission rewards, and Golden Sand Token exchange items.
@@ -78,10 +84,10 @@ This structure is intentional for SEO:
 
 ## Known route catalog (includes archived and merged routes)
 
-The list below is historical inventory, not the current search or navigation inventory. `content-policy.json` and `sitemap.xml` are authoritative: 52 current core/hub/trust URLs and 200 dated news URLs, 252 indexable total; 198 retained HTML routes are noindex.
+The list below is historical inventory, not the current search or navigation inventory. `content-policy.json` and `sitemap.xml` are authoritative: 52 current core/hub/trust URLs and 202 dated news URLs, 254 indexable total; 198 retained HTML routes are noindex.
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `450`
+Current `index.html` count: `452`
 
 English:
 - `/`
