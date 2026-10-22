@@ -1,5 +1,11 @@
 # Project Memory
 
+## October 20, 2026 — server patch and Version 2.2 issue refresh
+
+- Official Netmarble article `id 345`, `October 20 (Tue) Server Patch [Completed]`, was published and modified at `2026-10-20T10:16:03.669Z`. It confirms the completed 09:40–10:14 UTC patch added the `Relentless Challenger` title to the Timespace Junction: Extra Season 1 Sector 12 first-clear reward; prior claimants receive the title during the October 28 maintenance. It also lists server-stability improvements.
+- Official article `id 335` was materially updated at `2026-10-19T02:05:06.554Z` and adds a Chaos That Devours the Desert Event Mission V counting issue for SSR Equipment obtained from the Draco King Drake Boss Challenge. Updated the bilingual Known Issues pages and bugs/errors hub; no workaround or fix was invented.
+- Added bilingual patch pages, refreshed homepage/news discovery, sitemap, README, and project records. Current scale is 454 HTML pages and 256 unique indexable sitemap URLs. No banner successor or unrelated Version 2.3 claim was inferred.
+
 ## October 19, 2026 — Version 2.3 equipment bonus-lock notice
 
 - Official Netmarble article `id 344`, `Regarding Changes to Enchantment and Engraved Equipment Bonuses`, was published and modified at `2026-10-19T08:30:04.342Z`. It confirms that the Version 2.3 update during the October 28 maintenance will add selectable Bonus Locks for Enchantment and Engraved Equipment rerolls. Engraved Equipment can lock up to two bonuses; Enchantment can lock any number provided at least one remains unlocked; no additional resources are required and reroll cost remains unchanged.
@@ -78,7 +84,7 @@ September 26 official-source maintenance found no article after `id 319`, but `i
   - Chinese in subdirectory
 
 ## Current Scale
-- Current `index.html` count: `452`
+- Current `index.html` count: `454`
 - This is no longer a small scaffold; it is a fairly large bilingual topic site
 
 ## Core Keyword Focus

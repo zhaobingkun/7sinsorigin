@@ -1,5 +1,12 @@
 # 7sinsorigin.com
 
+## October 20, 2026 — server patch and Version 2.2 issue refresh
+
+- Official Netmarble article `id 345`, `October 20 (Tue) Server Patch [Completed]`, was published and modified at `2026-10-20T10:16:03.669Z`. It confirms the completed 09:40–10:14 UTC patch added the `Relentless Challenger` title to the Timespace Junction: Extra Season 1 Sector 12 first-clear reward; players who already claimed that reward receive the title during the October 28 maintenance. It also lists server-stability improvements.
+- Official article `id 335` was materially updated at `2026-10-19T02:05:06.554Z` and adds a Chaos That Devours the Desert Event Mission V counting issue for SSR Equipment obtained from the Draco King Drake Boss Challenge. Updated the bilingual Known Issues pages and bugs/errors hub; no workaround or fix was invented.
+- Added bilingual coverage at `/news/2026/10/october-20-server-patch/` and `/zh/news/2026/10/october-20-server-patch/`, refreshed homepage/news discovery, sitemap, and project records. No banner successor or unrelated Version 2.3 claim was inferred.
+- Current scale is 454 HTML pages and 256 unique indexable sitemap URLs after validation.
+
 ## October 19, 2026 — Version 2.3 equipment bonus-lock notice
 
 - Official Netmarble article `id 344` was published at `2026-10-19T08:30:04.342Z`. It confirms that the Version 2.3 update during the October 28 maintenance will add selectable Bonus Locks for Enchantment and Engraved Equipment bonus rerolls: up to two locked bonuses for Engraved Equipment, any number for Enchantment while leaving at least one unlocked, with no additional resources and unchanged reroll cost.
@@ -84,10 +91,10 @@ This structure is intentional for SEO:
 
 ## Known route catalog (includes archived and merged routes)
 
-The list below is historical inventory, not the current search or navigation inventory. `content-policy.json` and `sitemap.xml` are authoritative: 52 current core/hub/trust URLs and 202 dated news URLs, 254 indexable total; 198 retained HTML routes are noindex.
+The list below is historical inventory, not the current search or navigation inventory. `content-policy.json` and `sitemap.xml` are authoritative: 52 current core/hub/trust URLs and 204 dated news URLs, 256 indexable total; 198 retained HTML routes are noindex.
 
 The site has expanded far beyond the original scaffold.
-Current `index.html` count: `452`
+Current `index.html` count: `454`
 
 English:
 - `/`
