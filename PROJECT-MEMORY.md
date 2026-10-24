@@ -1,5 +1,11 @@
 # Project Memory
 
+## October 23, 2026 — Version 2.3 Developer Notes and reset schedule
+
+- Official Netmarble article `id 346`, `Developer Notes #21`, was published and modified at `2026-10-23T09:30:21.025Z`. It confirms Version 2.3 Bonus Locks, World Level 5, Corruption Frenzy, account-wide Star Map progression, a second Memory of Dimensions story, Taranis [Transcendence], Greed Incarnate rewards, and a Knighthood Boss Battle Season 2 revamp. Its Version 2.4 and 2027 items remain plans, not current release facts.
+- Official article `id 351`, `Regarding Upcoming Raid and Knighthood Boss Battle Changes`, was published and modified at `2026-10-23T10:12:06.711Z`. It confirms Mystic Keys, Chaos Keys, and weekly Raid reward claim counts reset during the October 28 maintenance; post-update replenishment matches the amount used before the update. Knighthood Boss Battle is unavailable after the October 26 07:00 UTC weekly reset and the new season begins after October 28 maintenance.
+- Added bilingual pages for both notices, refreshed homepage/news/events/Raid/Knighthood discovery, sitemap, README, and project memory. Current banner routes remain Lancelot/Elaine through October 28; no successor, rate, pity, or 2.4/2027 launch claim was inferred. Current scale is 458 HTML pages and 260 unique indexable sitemap URLs.
+
 ## October 20, 2026 — server patch and Version 2.2 issue refresh
 
 - Official Netmarble article `id 345`, `October 20 (Tue) Server Patch [Completed]`, was published and modified at `2026-10-20T10:16:03.669Z`. It confirms the completed 09:40–10:14 UTC patch added the `Relentless Challenger` title to the Timespace Junction: Extra Season 1 Sector 12 first-clear reward; prior claimants receive the title during the October 28 maintenance. It also lists server-stability improvements.

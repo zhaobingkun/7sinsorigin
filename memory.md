@@ -1,5 +1,12 @@
 # Project Experience
 
+## October 23, 2026 — Version 2.3 official roadmap and reset schedule
+
+- Official list/detail API exposed new articles `id 346` (`Developer Notes #21`, mod `2026-10-23T09:30:21.025Z`) and `id 351` (`Regarding Upcoming Raid and Knighthood Boss Battle Changes`, mod `2026-10-23T10:12:06.711Z`).
+- Added bilingual coverage for the confirmed Version 2.3 systems and the October 26/28 Raid and Knighthood schedule. Updated homepage/news indexes, events schedule, Raid rewards, Knighthood, sitemap, README, PROJECT-MEMORY, and current scale records.
+- Keep the distinction explicit: World Level 5, Corruption Frenzy, Star Map, Taranis [Transcendence], Greed Incarnate, and the Season 2 revamp are confirmed in the Developer Notes; Version 2.4, 2027, pet-duplicate growth, and future 15-player content are plans only. Do not infer a post-October-28 banner, rates, pity rules, or reward tables.
+- The official `/en/update` landing page still foregrounds Version 2.2/Lancelot and `/en/news` may render an empty shell; the API list/detail feed and official search result are authoritative for this run.
+
 ## October 22, 2026 — bounded next-banner SEO pass
 
 - User selected this site after the Task Bar Hero release and asked to start. Scope is the existing EN/ZH `/banners/upcoming/` pair, not resurrecting merged character pages, changing redirects/noindex, restoring ads, or rewriting the whole banner cluster. Baseline `8a2c7c1349ef4e742a7c71d6f34e99517d2962bc` was clean and matched live remote main.

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://7sinsorigin.com/</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -32,7 +32,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/news/</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -116,7 +116,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/events-schedule/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -128,7 +128,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -158,7 +158,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/news/</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -236,7 +236,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/events-schedule/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -267,7 +267,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/systems/knighthood/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/banners/</loc>
@@ -290,7 +290,7 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/systems/knighthood/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/bugs-errors/</loc>
@@ -325,13 +325,13 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/systems/raid-rewards-and-weekly-prep/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/systems/raid-rewards-and-weekly-prep/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -785,6 +785,10 @@
   <url><loc>https://7sinsorigin.com/zh/news/2026/09/september-28-aos-recommended-update/</loc><lastmod>2026-09-29</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/10/october-20-server-patch/</loc><lastmod>2026-10-20</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://7sinsorigin.com/zh/news/2026/10/october-20-server-patch/</loc><lastmod>2026-10-20</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/news/2026/10/developer-notes-21-version-2-3-roadmap/</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://7sinsorigin.com/zh/news/2026/10/developer-notes-21-version-2-3-roadmap/</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/news/2026/10/october-28-raid-knighthood-reset/</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://7sinsorigin.com/zh/news/2026/10/october-28-raid-knighthood-reset/</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/10/enchantment-bonus-locks/</loc><lastmod>2026-10-19</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://7sinsorigin.com/zh/news/2026/10/enchantment-bonus-locks/</loc><lastmod>2026-10-19</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/10/version-2-2-special-livestream/</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
