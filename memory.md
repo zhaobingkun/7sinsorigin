@@ -1,5 +1,11 @@
 # Project Experience
 
+## October 27, 2026 — AdSense precheck remediation
+
+- Reviewed the external AdSense precheck report against the clean `562a734` checkout. The report's 800–1500-word recommendation is a heuristic, not a Google word-count requirement; keep using `content-policy.json` and substantive editorial review rather than bulk expansion.
+- Strengthened bilingual privacy policies with explicit conditional disclosure that third-party vendors, including Google, may place/read cookies and use web beacons, IP addresses, device identifiers, or similar technologies if advertising is enabled. Added Google Ads Settings and partner-sites links. Advertising runtime remains disabled.
+- Expanded the EN/ZH character evidence hub and Developer Notes #13 archive with evidence boundaries, current-route guidance, historical context, and explicit non-claims. Refreshed the EN/ZH Version 1.8 and Version 2.1 archive context and current Version 2.3 routing. Updated only the touched sitemap `lastmod` values; no new URL or speculative game fact was added.
+
 ## October 23, 2026 — Version 2.3 official roadmap and reset schedule
 
 - Official list/detail API exposed new articles `id 346` (`Developer Notes #21`, mod `2026-10-23T09:30:21.025Z`) and `id 351` (`Regarding Upcoming Raid and Knighthood Boss Battle Changes`, mod `2026-10-23T10:12:06.711Z`).
