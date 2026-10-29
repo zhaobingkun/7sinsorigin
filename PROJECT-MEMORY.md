@@ -1,5 +1,12 @@
 # Project Memory
 
+## October 29, 2026 — Version 2.3 official update and banner refresh
+
+- Official Version 2.3 details confirm Estia and Clotho Pick Up announcements after the October 28 maintenance through the November 18 maintenance, plus Halloween content, Taranis [Transcendence], Star Map, World Level 5 and related systems. Added bilingual pages for the update and Estia; no numeric rates, tier rankings or successor banner were inferred.
+- Refreshed bilingual home/news/current-banner/pull-budget/events discovery, updated the Partner Creator Season 2 page with the October 26 mid-season notice, and added four URLs to the sitemap. Lancelot/Elaine remain historical Version 2.2 pages.
+- The required official API hostname did not resolve during this run; official localized Netmarble articles and web search were used as fallback evidence. Recheck live URLs after publishing.
+- Validated scale after this release: 462 HTML pages and 264 unique sitemap URLs.
+
 ## October 23, 2026 — Version 2.3 Developer Notes and reset schedule
 
 - Official Netmarble article `id 346`, `Developer Notes #21`, was published and modified at `2026-10-23T09:30:21.025Z`. It confirms Version 2.3 Bonus Locks, World Level 5, Corruption Frenzy, account-wide Star Map progression, a second Memory of Dimensions story, Taranis [Transcendence], Greed Incarnate rewards, and a Knighthood Boss Battle Season 2 revamp. Its Version 2.4 and 2027 items remain plans, not current release facts.

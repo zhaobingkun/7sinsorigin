@@ -1,5 +1,12 @@
 # 7sinsorigin.com
 
+## October 29, 2026 — Version 2.3 official update and banner refresh
+
+- Official Netmarble Version 2.3 details confirm the Estia and Clotho Pick Up window after the October 28 maintenance through the November 18 maintenance, plus Halloween events, Taranis [Transcendence], Star Map, World Level 5 and related system changes. Added bilingual update-details and Estia pages without inventing rates or tier rankings.
+- Refreshed bilingual homepage, news indexes, current-banner routes, pull-budget context, creator-program update, events discovery and sitemap. Version 2.2 Lancelot/Elaine pages remain dated archive records.
+- Official API host DNS was unavailable in this run, so the official localized article pages and search fallback were used for fact verification; live curl verification is still required after push.
+- Current scale is 462 HTML pages and 264 unique sitemap URLs after validation.
+
 ## October 23, 2026 — Version 2.3 Developer Notes and reset schedule
 
 - Official Netmarble articles `id 346` (`Developer Notes #21`, published/modified `2026-10-23T09:30:21.025Z`) and `id 351` (`Regarding Upcoming Raid and Knighthood Boss Battle Changes`, published/modified `2026-10-23T10:12:06.711Z`) are now covered in bilingual pages.

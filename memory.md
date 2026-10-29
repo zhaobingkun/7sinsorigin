@@ -1,5 +1,12 @@
 # Project Experience
 
+## October 29, 2026 — Version 2.3 official details and current routes
+
+- Official localized Netmarble sources exposed Version 2.3 details for Estia, Clotho, Halloween events, Taranis [Transcendence], Star Map and World Level 5, plus an Estia hero preview and the October 26 Partner Creator mid-season notice. Keep exact banner rates and guarantee text tied to the live in-game Rate Info panel.
+- Added bilingual `/news/2026/10/version-2-3-update-details/` and `/news/2026/10/estia-details/` pairs, refreshed homepage/news/current-banner/pull-budget/events discovery, and updated the creator-program page instead of creating a thin duplicate.
+- The required `7origin.netmarble.com` API hostname failed DNS resolution in this run. Do not claim API list completeness; use official localized article links as the recorded fallback and retry the API next run.
+- Preserve Version 2.2 Lancelot/Elaine pages as historical records. Never infer a post-November-18 successor, 2.3 numeric rates, or comparative character strength from the update summary.
+
 ## October 27, 2026 — AdSense precheck remediation
 
 - Reviewed the external AdSense precheck report against the clean `562a734` checkout. The report's 800–1500-word recommendation is a heuristic, not a Google word-count requirement; keep using `content-policy.json` and substantive editorial review rather than bulk expansion.
