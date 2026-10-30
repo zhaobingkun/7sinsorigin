@@ -1,5 +1,12 @@
 # 7sinsorigin.com
 
+## October 30, 2026 — Version 2.3 known issues and event refresh
+
+- Official Netmarble article `id 358` is updated October 29 at 05:28 UTC. It adds the Mighty Freaky Circus event-map entrance issue after leaving the maze, plus Weekly Reward recharge-screen, Estia Growth Mission Bundle label, locked Timespace ranking-label, Steam, party-movement, and falling-beneath-ground issues. The maze entrance issue is scheduled for the November 4 maintenance; only the Steam update and reconnect steps are stated workarounds.
+- Official data patch article `id 359` confirms the October 28 14:30–14:50 UTC data patch added a Leave button below the Mighty Freaky Circus minimap and resumes from the explored maze's starting point after re-entry. Official article `id 357` remains the Version 2.3 details notice updated October 28 at 01:50 UTC.
+- Added bilingual Version 2.3 Known Issues pages, refreshed the Version 2.3 update page, bugs/errors hub, homepage, news indexes, events schedule and sitemap. No separate thin data-patch page, successor banner, numeric rate, or tier claim was invented.
+- Release validation passed 464 HTML pages, 266 unique sitemap URLs, 0 errors and 0 policy drift; changed-page SEO/JSON-LD/internal-link checks passed. Live verification is still required after push.
+
 ## October 29, 2026 — Version 2.3 official update and banner refresh
 
 - Official Netmarble Version 2.3 details confirm the Estia and Clotho Pick Up window after the October 28 maintenance through the November 18 maintenance, plus Halloween events, Taranis [Transcendence], Star Map, World Level 5 and related system changes. Added bilingual update-details and Estia pages without inventing rates or tier rankings.

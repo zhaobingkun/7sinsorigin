@@ -1,5 +1,12 @@
 # Project Experience
 
+## October 30, 2026 — Version 2.3 known issues and event refresh
+
+- Official API detail `id 358` is updated October 29 at 05:27:49.149 UTC and adds the Mighty Freaky Circus maze-exit/event-map entrance issue, Weekly Reward recharge-screen issue, Estia Growth Mission Bundle label issue, locked Timespace ranking-label issue, and the current Steam, party-movement, and falling-beneath-ground entries. Netmarble schedules the maze entrance fix for the November 4 maintenance; only the latest Steam build and reconnect steps are published workarounds.
+- Official `id 359` confirms the October 28 14:30–14:50 UTC data patch added a Leave button below the Mighty Freaky Circus minimap; re-entry resumes from the explored maze's starting point. `id 357` is the Version 2.3 details notice updated October 28 at 01:50 UTC.
+- Added bilingual `version-2-3-known-issues` pages and refreshed the existing 2.3 update, bugs/errors, homepage/news discovery, events schedule and sitemap. Short data-patch facts were merged into useful current pages rather than creating another thin notice page. Do not infer a successor banner, numeric rate, or tier ranking.
+- Validation passed 464 HTML pages, 266 unique sitemap URLs, XML/diff checks, policy checks, changed-page SEO/JSON-LD/internal-link checks. Direct official API DNS resolved during this run; live verification must still follow the push.
+
 ## October 29, 2026 — Version 2.3 official details and current routes
 
 - Official localized Netmarble sources exposed Version 2.3 details for Estia, Clotho, Halloween events, Taranis [Transcendence], Star Map and World Level 5, plus an Estia hero preview and the October 26 Partner Creator mid-season notice. Keep exact banner rates and guarantee text tied to the live in-game Rate Info panel.

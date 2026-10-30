@@ -1,5 +1,12 @@
 # Project Memory
 
+## October 30, 2026 — Version 2.3 known issues and event refresh
+
+- Official article `id 358` is updated October 29 at 05:28 UTC. It adds the Mighty Freaky Circus event-map entrance issue after leaving the maze, plus Weekly Reward recharge-screen, Estia Growth Mission Bundle label, locked Timespace ranking-label, Steam, party-movement, and falling-beneath-ground issues. The maze entrance issue is scheduled for the November 4 maintenance; only the Steam update and reconnect steps are stated workarounds.
+- Official data patch `id 359` confirms the October 28 14:30–14:50 UTC patch added a Leave button below the Mighty Freaky Circus minimap and resumes from the explored maze's starting point after re-entry. Official `id 357` is the Version 2.3 details notice updated October 28 at 01:50 UTC.
+- Added bilingual Version 2.3 Known Issues pages and refreshed the bilingual Version 2.3 update, bugs/errors, homepage, news indexes, events schedule, sitemap and project records. No separate thin data-patch page, successor banner, numeric rate, or tier claim was inferred.
+- Current scale after validation is 464 HTML pages and 266 unique sitemap URLs. Direct official API access succeeded; live production verification remains a post-push step.
+
 ## October 29, 2026 — Version 2.3 official update and banner refresh
 
 - Official Version 2.3 details confirm Estia and Clotho Pick Up announcements after the October 28 maintenance through the November 18 maintenance, plus Halloween content, Taranis [Transcendence], Star Map, World Level 5 and related systems. Added bilingual pages for the update and Estia; no numeric rates, tier rankings or successor banner were inferred.
