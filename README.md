@@ -1,5 +1,12 @@
 # 7sinsorigin.com
 
+## October 31, 2026 — October 30 data patch refresh
+
+- Official Netmarble article `id 360` confirms the October 30 08:00–08:15 UTC data patch fixed the intermittent Mighty Freaky Circus event-map entrance issue after leaving the maze, improved chess-piece targeting detection in Taranis's Sanctuary, and significantly reduced chess-piece HP.
+- Merged the short patch into the bilingual Version 2.3 issue pages and refreshed the EN/ZH bugs hub, Raid rewards guide, events schedule, homepage/news discovery, and sitemap. No separate thin patch page, banner claim, rate, pity rule, or team-strength conclusion was added.
+- Direct shell DNS for `7origin.netmarble.com` failed, but the required list/detail API was verified through the official API response in Chrome; live production verification still follows the push.
+- Current tracked scale remains 464 HTML pages and 266 unique sitemap URLs after validation.
+
 ## October 30, 2026 — Version 2.3 known issues and event refresh
 
 - Official Netmarble article `id 358` is updated October 29 at 05:28 UTC. It adds the Mighty Freaky Circus event-map entrance issue after leaving the maze, plus Weekly Reward recharge-screen, Estia Growth Mission Bundle label, locked Timespace ranking-label, Steam, party-movement, and falling-beneath-ground issues. The maze entrance issue is scheduled for the November 4 maintenance; only the Steam update and reconnect steps are stated workarounds.

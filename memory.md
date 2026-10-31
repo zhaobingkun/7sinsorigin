@@ -1,5 +1,13 @@
 # Project Experience
 
+## October 31, 2026 — October 30 data patch refresh
+
+- Official API list/detail verified new article `id 360`, `October 30 (Fri) Data Patch [Completed]`, completed at `2026-10-30 08:15 UTC` after the `08:00–08:15 UTC` window. It fixes the Mighty Freaky Circus event-map entrance interaction issue after leaving the maze, improves chess-piece targeting detection in Taranis's Sanctuary, and significantly reduces chess-piece HP.
+- Merged the short notice into the existing bilingual Version 2.3 issue pages and updated the EN/ZH bugs hubs, Raid rewards guide, events schedule, homepage/news discovery and sitemap. The maze issue is now resolved; do not keep saying it is scheduled for November 4. Keep Taranis changes separate from untested clear-time, tier or team-strength conclusions.
+- Direct shell curl could not resolve `7origin.netmarble.com`; the required official list/detail API succeeded through the user's Chrome browser surface. No separate thin patch page, successor banner, rate, pity or speculative character claim was created.
+- The first release check exposed that ignored Cloudflare `dist/` output was being scanned as source; excluding generated `.git`/`dist` paths from the policy and HTML validators restored the intended 464-page check without changing deployment output.
+- Release validation passed at 464 tracked HTML pages and 266 unique sitemap URLs; the shell `find` count remains 928 because it includes the ignored 464-page `dist/` mirror.
+
 ## October 30, 2026 — Version 2.3 known issues and event refresh
 
 - Official API detail `id 358` is updated October 29 at 05:27:49.149 UTC and adds the Mighty Freaky Circus maze-exit/event-map entrance issue, Weekly Reward recharge-screen issue, Estia Growth Mission Bundle label issue, locked Timespace ranking-label issue, and the current Steam, party-movement, and falling-beneath-ground entries. Netmarble schedules the maze entrance fix for the November 4 maintenance; only the latest Steam build and reconnect steps are published workarounds.

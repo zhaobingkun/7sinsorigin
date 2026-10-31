@@ -1,5 +1,13 @@
 # Project Memory
 
+## October 31, 2026 — October 30 data patch refresh
+
+- Official Netmarble article `id 360` confirms the October 30 08:00–08:15 UTC data patch. It fixed the Mighty Freaky Circus event-map entrance interaction issue after leaving the maze, improved targeting detection for chess pieces in Taranis's Sanctuary, and significantly reduced their HP.
+- Updated the existing bilingual Version 2.3 issue coverage, bugs/errors hubs, Raid rewards guide, events schedule, homepage/news discovery and sitemap. Keep the 2.3 maze item resolved after the patch; the separate Weekly Reward, UI-label, Steam, party-movement and falling-beneath-ground items remain listed. Do not turn the HP change into a universal clear-time, tier or team claim.
+- The direct shell request to `7origin.netmarble.com` failed DNS, but the required official list/detail API was verified through the official API response in Chrome. No separate thin data-patch page or banner/rate/pity inference was added.
+- The first release check exposed that ignored Cloudflare `dist/` output was being scanned as source; excluding generated `.git`/`dist` paths from the policy and HTML validators restored the intended source-only check without changing deployment output.
+- Release validation passed at 464 tracked HTML pages and 266 unique sitemap URLs; the shell `find` count remains 928 because it includes the ignored 464-page `dist/` mirror.
+
 ## October 30, 2026 — Version 2.3 known issues and event refresh
 
 - Official article `id 358` is updated October 29 at 05:28 UTC. It adds the Mighty Freaky Circus event-map entrance issue after leaving the maze, plus Weekly Reward recharge-screen, Estia Growth Mission Bundle label, locked Timespace ranking-label, Steam, party-movement, and falling-beneath-ground issues. The maze entrance issue is scheduled for the November 4 maintenance; only the Steam update and reconnect steps are stated workarounds.

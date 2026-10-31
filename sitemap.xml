@@ -294,11 +294,11 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/bugs-errors/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/bugs-errors/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
   </url>
   <url>
     <loc>https://7sinsorigin.com/currency-guide/</loc>
@@ -325,13 +325,13 @@
   </url>
   <url>
     <loc>https://7sinsorigin.com/systems/raid-rewards-and-weekly-prep/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://7sinsorigin.com/zh/systems/raid-rewards-and-weekly-prep/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -789,8 +789,8 @@
   <url><loc>https://7sinsorigin.com/zh/news/2026/10/developer-notes-21-version-2-3-roadmap/</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/10/version-2-3-update-details/</loc><lastmod>2026-10-28</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://7sinsorigin.com/zh/news/2026/10/version-2-3-update-details/</loc><lastmod>2026-10-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://7sinsorigin.com/news/2026/10/version-2-3-known-issues/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://7sinsorigin.com/zh/news/2026/10/version-2-3-known-issues/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://7sinsorigin.com/news/2026/10/version-2-3-known-issues/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://7sinsorigin.com/zh/news/2026/10/version-2-3-known-issues/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/10/estia-details/</loc><lastmod>2026-10-27</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://7sinsorigin.com/zh/news/2026/10/estia-details/</loc><lastmod>2026-10-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://7sinsorigin.com/news/2026/10/october-28-raid-knighthood-reset/</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>

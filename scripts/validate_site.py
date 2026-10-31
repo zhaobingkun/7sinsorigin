@@ -11,6 +11,8 @@ from urllib.parse import unquote, urlsplit
 
 from content_policy import POLICY, ROOT, ORIGIN, path_info, transform
 
+GENERATED_DIRS = {'.git', 'dist'}
+
 
 class Page(HTMLParser):
     def __init__(self, source):
@@ -63,7 +65,7 @@ def validate():
     titles, descriptions = defaultdict(list), defaultdict(list)
     sources = {}
     for path in sorted(ROOT.rglob('index.html')):
-        if '.git' in path.parts: continue
+        if any(part in GENERATED_DIRS for part in path.parts): continue
         source = path.read_text()
         pages[path] = Page(source)
         sources[path] = source

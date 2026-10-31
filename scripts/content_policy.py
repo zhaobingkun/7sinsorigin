@@ -14,6 +14,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 ORIGIN = 'https://7sinsorigin.com'
 POLICY = json.loads((ROOT / 'content-policy.json').read_text())
+GENERATED_DIRS = {'.git', 'dist'}
 DATE = POLICY['reviewed']
 AD_RE = re.compile(r'<script\b[^>]*src=["\'][^"\']*(?:adsbygoogle|pagead2\.googlesyndication)[^"\']*["\'][^>]*>.*?</script>', re.I | re.S)
 ANCHOR_RE = re.compile(r'<a\b(?P<before>[^>]*?)href=["\'](?P<href>[^"\']+)["\'](?P<after>[^>]*)>(?P<label>.*?)</a>', re.I | re.S)
@@ -147,7 +148,7 @@ def main():
     args = parser.parse_args()
     changed = []
     for path in sorted(ROOT.rglob('index.html')):
-        if '.git' in path.parts:
+        if any(part in GENERATED_DIRS for part in path.parts):
             continue
         original = path.read_text()
         updated = transform(path, original)
