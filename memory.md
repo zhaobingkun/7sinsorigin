@@ -7,6 +7,7 @@
 - Direct shell curl could not resolve `7origin.netmarble.com`; the required official list/detail API succeeded through the user's Chrome browser surface. No separate thin patch page, successor banner, rate, pity or speculative character claim was created.
 - The first release check exposed that ignored Cloudflare `dist/` output was being scanned as source; excluding generated `.git`/`dist` paths from the policy and HTML validators restored the intended 464-page check without changing deployment output.
 - Release validation passed at 464 tracked HTML pages and 266 unique sitemap URLs; the shell `find` count remains 928 because it includes the ignored 464-page `dist/` mirror.
+- Live browser verification caught residual wording in the Raid examples that treated the 500-Star-Fragment Abyss bonus as active; update every EN/ZH reference when a temporary reward ends, not only the summary definition.
 
 ## October 30, 2026 — Version 2.3 known issues and event refresh
 

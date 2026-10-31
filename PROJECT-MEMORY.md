@@ -7,6 +7,7 @@
 - The direct shell request to `7origin.netmarble.com` failed DNS, but the required official list/detail API was verified through the official API response in Chrome. No separate thin data-patch page or banner/rate/pity inference was added.
 - The first release check exposed that ignored Cloudflare `dist/` output was being scanned as source; excluding generated `.git`/`dist` paths from the policy and HTML validators restored the intended source-only check without changing deployment output.
 - Release validation passed at 464 tracked HTML pages and 266 unique sitemap URLs; the shell `find` count remains 928 because it includes the ignored 464-page `dist/` mirror.
+- Live browser verification caught residual wording in the Raid examples that treated the 500-Star-Fragment Abyss bonus as active; all EN/ZH references now mark it as historical and ended with Version 2.3.
 
 ## October 30, 2026 — Version 2.3 known issues and event refresh
 
