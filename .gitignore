@@ -1,4 +1,5 @@
 .DS_Store
+dist/
 scripts/__pycache__/
 scripts/web.json
 scripts/zhaobingkunny5-*.json
