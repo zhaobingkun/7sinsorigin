@@ -2,6 +2,17 @@
   "$schema": "https://developers.cloudflare.com/workers/wrangler/config-schema.json",
   "name": "seven-sins-origin",
   "compatibility_date": "2026-10-31",
+  "workers_dev": true,
+  "routes": [
+    {
+      "pattern": "7sinsorigin.com/*",
+      "zone_name": "7sinsorigin.com"
+    },
+    {
+      "pattern": "www.7sinsorigin.com/*",
+      "zone_name": "7sinsorigin.com"
+    }
+  ],
   "assets": {
     "directory": "./dist",
     "html_handling": "auto-trailing-slash"
