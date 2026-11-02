@@ -1,5 +1,11 @@
 # Project Experience
 
+## November 2, 2026 — Version 2.3 known-issues refresh
+
+- Official list/detail API verified article `id 358` with `modDate` `2026-11-02T02:36:00.966Z`; the new issue is an intermittent error in the `The Cheeeeeese Escape` quest under `[Event Story - Mighty Freaky Circus]` that may block progression or exiting. No workaround is stated.
+- Merged the fact into the existing bilingual Version 2.3 issue pages and EN/ZH bugs hubs, refreshed homepage/news discovery and sitemap lastmods, and preserved the October 30 maze entrance fix as resolved. Do not create a thin second notice or infer a banner, rate, pity or team-strength change from this issue update.
+- The required API list succeeded only with escalated read-only network access after sandbox DNS failure; `/en/update` still surfaced stale Version 2.2/Lancelot context, so the API detail remains authoritative for this record.
+
 ## October 31, 2026 — October 30 data patch refresh
 
 - Official API list/detail verified new article `id 360`, `October 30 (Fri) Data Patch [Completed]`, completed at `2026-10-30 08:15 UTC` after the `08:00–08:15 UTC` window. It fixes the Mighty Freaky Circus event-map entrance interaction issue after leaving the maze, improves chess-piece targeting detection in Taranis's Sanctuary, and significantly reduces chess-piece HP.

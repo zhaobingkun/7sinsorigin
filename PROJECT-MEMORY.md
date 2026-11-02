@@ -1,5 +1,11 @@
 # Project Memory
 
+## November 2, 2026 — Version 2.3 known-issues refresh
+
+- Official article `id 358` now has `modDate` `2026-11-02T02:36:00Z` and adds an intermittent error during the `The Cheeeeeese Escape` quest in `[Event Story - Mighty Freaky Circus]`; it may stop progression or prevent exiting, and the notice provides no workaround.
+- Updated the existing EN/ZH Version 2.3 issue pages, bugs/errors hubs, homepage/news discovery and sitemap. Keep the October 30 maze entrance fix in the resolved list and do not create a separate thin page or infer a banner/rate/pity change.
+- Current scale remains 464 tracked HTML pages and 266 unique sitemap URLs.
+
 ## October 31, 2026 — October 30 data patch refresh
 
 - Official Netmarble article `id 360` confirms the October 30 08:00–08:15 UTC data patch. It fixed the Mighty Freaky Circus event-map entrance interaction issue after leaving the maze, improved targeting detection for chess pieces in Taranis's Sanctuary, and significantly reduced their HP.

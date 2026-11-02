@@ -1,5 +1,11 @@
 # 7sinsorigin.com
 
+## November 2, 2026 — Version 2.3 known-issues refresh
+
+- Official Netmarble article `id 358` was materially updated at `2026-11-02T02:36:00Z` and adds an intermittent error during the `The Cheeeeeese Escape` quest in `[Event Story - Mighty Freaky Circus]` that may prevent progress or exiting the quest. The notice gives no workaround for this new issue; the October 30 maze entrance fix remains resolved.
+- Updated the existing bilingual Version 2.3 issue pages and EN/ZH bugs hubs, plus homepage/news discovery and sitemap `lastmod`. No separate thin notice, banner change, rate, pity rule or gameplay-strength claim was added.
+- Current tracked scale remains 464 HTML pages and 266 unique sitemap URLs after validation.
+
 ## October 31, 2026 — October 30 data patch refresh
 
 - Official Netmarble article `id 360` confirms the October 30 08:00–08:15 UTC data patch fixed the intermittent Mighty Freaky Circus event-map entrance issue after leaving the maze, improved chess-piece targeting detection in Taranis's Sanctuary, and significantly reduced chess-piece HP.
