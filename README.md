@@ -1,5 +1,11 @@
 # 7sinsorigin.com
 
+## November 3, 2026 — daily official check and SEO metadata correction
+
+- The official Netmarble list API still ends at article `id 360`; article `id 358` remains at `modDate` `2026-11-02T02:36:00.966Z`, so no new official article or material notice modification was found today.
+- Corrected stale Article JSON-LD and breadcrumb identity in the bilingual current pull-decision pages so the structured data matches the visible Estia/Clotho Version 2.3 page; refreshed their reviewed dates to November 3. No content, banner, rate, pity, page-count, or sitemap change was needed.
+- Current tracked scale remains 464 HTML pages and 266 unique sitemap URLs after validation.
+
 ## November 2, 2026 — Version 2.3 known-issues refresh
 
 - Official Netmarble article `id 358` was materially updated at `2026-11-02T02:36:00Z` and adds an intermittent error during the `The Cheeeeeese Escape` quest in `[Event Story - Mighty Freaky Circus]` that may prevent progress or exiting the quest. The notice gives no workaround for this new issue; the October 30 maze entrance fix remains resolved.

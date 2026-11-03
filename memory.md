@@ -1,5 +1,11 @@
 # Project Experience
 
+## November 3, 2026 — daily official check and SEO metadata correction
+
+- Official Netmarble API list/detail checks through the browser show the newest article remains `id 360`; `id 358` remains `modDate` `2026-11-02T02:36:00.966Z`. No new official fact or material official article modification was found.
+- Necessary maintenance only: fixed the bilingual `/current-banner-worth-it/` JSON-LD Article names, headlines, descriptions, breadcrumbs, and review dates so they match the visible Estia/Clotho Version 2.3 route instead of stale Lancelot/Elaine metadata. No new page or sitemap entry was created.
+- Current scale remains 464 tracked HTML pages and 266 unique sitemap URLs; release and publication results are recorded in this run's final report.
+
 ## November 2, 2026 — Version 2.3 known-issues refresh
 
 - Official list/detail API verified article `id 358` with `modDate` `2026-11-02T02:36:00.966Z`; the new issue is an intermittent error in the `The Cheeeeeese Escape` quest under `[Event Story - Mighty Freaky Circus]` that may block progression or exiting. No workaround is stated.

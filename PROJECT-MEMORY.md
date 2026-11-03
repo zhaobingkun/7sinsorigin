@@ -1,5 +1,11 @@
 # Project Memory
 
+## November 3, 2026 — daily official check and SEO metadata correction
+
+- The official Netmarble list API still ends at article `id 360`; article `id 358` remains at `modDate` `2026-11-02T02:36:00.966Z`. No new official article, current-banner change, or material notice modification was found.
+- Corrected the bilingual current pull-decision pages' stale Article JSON-LD and breadcrumb labels, which still named historical Lancelot/Elaine despite visible Estia/Clotho Version 2.3 content. Updated their visible review dates and `dateModified` to November 3, with no sitemap or page-count change.
+- Current scale remains 464 tracked HTML pages and 266 unique sitemap URLs. Keep the historical 2.2 draw examples explicitly labeled as historical until the live 2.3 Rate Info confirms equivalent mechanics.
+
 ## November 2, 2026 — Version 2.3 known-issues refresh
 
 - Official article `id 358` now has `modDate` `2026-11-02T02:36:00Z` and adds an intermittent error during the `The Cheeeeeese Escape` quest in `[Event Story - Mighty Freaky Circus]`; it may stop progression or prevent exiting, and the notice provides no workaround.
