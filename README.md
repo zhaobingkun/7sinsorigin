@@ -1,5 +1,11 @@
 # 7sinsorigin.com
 
+## November 5, 2026 — Version 2.3 event and maintenance refresh
+
+- Official Netmarble API verified new articles `id 361` Update Eve Check-In, `id 362` Penguin Smash, `id 363` Swiftest Showdown, `id 364` November 5 Temporary Maintenance, and `id 365` Exciting Cube Unboxing. Article 364 moved maintenance to November 5, 02:00–09:00 UTC, while the listed events and Timespace Season 2 Sector 7 open November 4 at 07:00 UTC.
+- Added bilingual November event/maintenance pages, refreshed the Version 2.3 update details, events schedule, homepage, news indexes, and sitemap. Current Estia/Clotho banner routing is unchanged; no banner successor, rate, pity or tier claim was inferred.
+- Current tracked scale is 474 HTML pages and 276 unique sitemap URLs after validation. The raw `find . -name index.html` count remains 948 because ignored Cloudflare `dist/` mirrors are present.
+
 ## November 3, 2026 — daily official check and SEO metadata correction
 
 - The official Netmarble list API still ends at article `id 360`; article `id 358` remains at `modDate` `2026-11-02T02:36:00.966Z`, so no new official article or material notice modification was found today.

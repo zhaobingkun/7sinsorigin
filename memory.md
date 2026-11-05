@@ -1,5 +1,11 @@
 # Project Experience
 
+## November 5, 2026 — Version 2.3 event and maintenance refresh
+
+- Official Netmarble API list/detail checks through the browser verified new articles `id 361` Update Eve Check-In, `id 362` Penguin Smash, `id 363` Swiftest Showdown, `id 364` November 5 Temporary Maintenance, and `id 365` Exciting Cube Unboxing. Article 364 was updated November 3 at 10:58 UTC and moved maintenance from November 4 to November 5, 02:00–09:00 UTC; the listed events and Timespace Season 2 Sector 7 open November 4 at 07:00 UTC.
+- Added bilingual pages for the four events and maintenance, refreshed Version 2.3 update details, events schedule, homepage/news indexes and sitemap. Do not merge the new 2.3 Update Eve Check-In with the older 2.2 check-in archive; keep the four event reward limits tied to their own official notices.
+- Current Estia/Clotho banner routing is unchanged. No successor banner, numeric rate, pity change, tier ranking or gameplay-strength conclusion was inferred. Current scale after the edit is 474 tracked HTML pages and 276 unique sitemap URLs; raw `find` includes the ignored `dist/` mirror.
+
 ## November 3, 2026 — daily official check and SEO metadata correction
 
 - Official Netmarble API list/detail checks through the browser show the newest article remains `id 360`; `id 358` remains `modDate` `2026-11-02T02:36:00.966Z`. No new official fact or material official article modification was found.
