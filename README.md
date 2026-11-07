@@ -1,5 +1,13 @@
 # 7sinsorigin.com
 
+## November 6, 2026 — World Level 5 guide and maintenance correction
+
+- Official Netmarble article `id 366`, `World Level 5 Content Guide & FAQ`, was published November 6. It confirms the Book of Stars Lv. 50 unlock path, Corruption Frenzy and Massive Corruption Frenzy rules/schedule, 62-tier permanent Star Map progression, Hero Points, Star Clusters, Apastrons and the related FAQ.
+- Official article `id 364` was updated November 6 at 02:25 UTC. The completed maintenance notice confirms Gray Demon and Red Demon are included in Massive Corruption Frenzy and adds fixes for Corrupted Ancient Dragon HP restoration from Estia's Tidal Grove, Personal Boat, Timespace labels, Estia bundle labels, Tioreh's Fire Ejection and related UI issues.
+- Added bilingual World Level 5 guide pages, refreshed the bilingual maintenance pages, events schedule, homepage/news indexes, Version 2.3 update timestamps and sitemap. No banner successor, rate, pity or tier claim was inferred.
+- The required API hostname was not resolvable from the shell/browser approval surface in this run; official indexed Netmarble article pages were used as the fallback evidence. Retry the list/detail API next run.
+- Current tracked scale is 476 HTML pages and 278 unique sitemap URLs after validation. The raw `find` count includes ignored Cloudflare `dist/` mirrors.
+
 ## November 5, 2026 — Version 2.3 event and maintenance refresh
 
 - Official Netmarble API verified new articles `id 361` Update Eve Check-In, `id 362` Penguin Smash, `id 363` Swiftest Showdown, `id 364` November 5 Temporary Maintenance, and `id 365` Exciting Cube Unboxing. Article 364 moved maintenance to November 5, 02:00–09:00 UTC, while the listed events and Timespace Season 2 Sector 7 open November 4 at 07:00 UTC.

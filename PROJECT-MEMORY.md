@@ -1,5 +1,13 @@
 # Project Memory
 
+## November 6, 2026 — World Level 5 guide and maintenance correction
+
+- Official Netmarble article `id 366`, `World Level 5 Content Guide & FAQ`, published November 6. Confirmed facts include Book of Stars Lv. 50 plus dungeon unlock, 8-hour offline-filling personal Corruption Frenzy gauges, three-boss cap, 30 Cube Keys for personal Reward Cubes, the nine weekly three-hour Massive Corruption Frenzy windows, 10–15-player matchmaking, three daily Massive rewards, and 62 permanent Star Map tiers with 3×15 Star Seeds, Hero Points, 8 Star Clusters and 5 Apastrons per cluster.
+- Official `id 364` was updated at `2026-11-06T02:25:00Z`; the November 5 maintenance is complete, Gray Demon and Red Demon are included in Massive Corruption Frenzy, and the notice adds fixes including Estia's Tidal Grove restoring Corrupted Ancient Dragon HP, Personal Boat, Timespace ranking labels, Estia bundle labels, Tioreh's Fire Ejection and UI issues.
+- Added bilingual `/news/2026/11/world-level-5-content-guide/` pages and refreshed the bilingual maintenance page, events schedule, homepage/news discovery, Version 2.3 update timestamps, sitemap, README and project memory. Current banner routing remains Estia/Clotho; no successor, rate, pity, tier or team-strength claim was inferred.
+- Shell DNS and Chrome origin approval blocked the required API hostname in this run; official indexed Netmarble article pages were used as fallback evidence. Retry the API list/detail endpoints before the next publication decision.
+- Current scale is 476 tracked HTML pages and 278 unique sitemap URLs; ignored `dist/` mirrors are not source pages.
+
 ## November 5, 2026 — Version 2.3 event and maintenance refresh
 
 - The official API added articles `id 361`–`365`: Update Eve Check-In, Penguin Smash, Swiftest Showdown, November 5 Temporary Maintenance and Exciting Cube Unboxing. The maintenance notice was updated November 3 at 10:58 UTC and rescheduled the window to November 5, 02:00–09:00 UTC; the four events and Timespace Season 2 Sector 7 open November 4 at 07:00 UTC instead.

@@ -1,5 +1,13 @@
 # Project Experience
 
+## November 6, 2026 — World Level 5 guide and maintenance correction
+
+- Official indexed Netmarble article `id 366` is a real new notice: `World Level 5 Content Guide & FAQ`, published November 6. It confirms Book of Stars Lv. 50 plus dungeon access, personal Corruption Frenzy gauges filling every 8 hours even offline, up to three Corrupted Field Bosses, 30 Cube Keys for personal Reward Cubes, the Friday-to-Monday nine-window Massive Frenzy schedule, 10–15-player matching, three daily Massive rewards, and 62 permanent Star Map tiers with Hero Points, Star Clusters and Apastrons.
+- Official `id 364` material update at `2026-11-06T02:25:00Z` replaces the temporary Gray Demon/Red Demon exclusion with inclusion after maintenance and adds fixes including Estia's Tidal Grove/Corrupted Ancient Dragon HP issue, Personal Boat, Timespace ranking labels, Estia bundle labels, Tioreh's Fire Ejection and UI items. Update the existing maintenance page instead of making a duplicate patch notice.
+- Added EN/ZH World Level 5 pages, updated maintenance/events/home/news routes, version timestamps and sitemap. Keep the new guide factual; do not turn Star Map mechanics into an untested best-build or banner recommendation.
+- Shell DNS and Chrome origin approval blocked direct API access during this run; official indexed Netmarble article pages were used as fallback evidence. Retry the required list/detail API next run and do not claim API completeness from this run.
+- Validation target after this edit is 476 tracked HTML pages and 278 unique sitemap URLs; raw `find` includes ignored `dist/` output.
+
 ## November 5, 2026 — Version 2.3 event and maintenance refresh
 
 - Official Netmarble API list/detail checks through the browser verified new articles `id 361` Update Eve Check-In, `id 362` Penguin Smash, `id 363` Swiftest Showdown, `id 364` November 5 Temporary Maintenance, and `id 365` Exciting Cube Unboxing. Article 364 was updated November 3 at 10:58 UTC and moved maintenance from November 4 to November 5, 02:00–09:00 UTC; the listed events and Timespace Season 2 Sector 7 open November 4 at 07:00 UTC.
