@@ -1,5 +1,12 @@
 # 7sinsorigin.com
 
+## November 8, 2026 — Version 2.3 official notice refresh
+
+- The official Netmarble API list still has article `id 366` as the newest record. Material updates were verified for `id 357` at `2026-11-06T08:54:14Z` and `id 358` at `2026-11-06T09:43:30Z`; `id 364` remains the November 6 maintenance correction already covered locally.
+- Article `id 357` now clarifies that personal Corruption Frenzy has no separate daily reward limit, Massive Corruption Frenzy rewards are limited to three per day, Star Map has 62 tiers, the Book of Stars cap expands to Lv. 59, and Akumu's elemental Defense reduction lasts 3 seconds. Article `id 358` adds two Akumu combat issues and a post-Massive Corruption Frenzy graphics/swimming issue; its Swiftest Showdown Gold note says missing Gold will be distributed sequentially after maintenance.
+- Updated the bilingual Version 2.3 details, Known Issues pages, troubleshooting hubs, homepage/news discovery and current events wording. No banner successor, rate, pity, tier or team-strength claim was inferred; no new thin news page was created.
+- Current tracked scale remains 476 HTML pages and 278 unique sitemap URLs after validation. The raw `find` count includes ignored Cloudflare `dist/` mirrors.
+
 ## November 6, 2026 — World Level 5 guide and maintenance correction
 
 - Official Netmarble article `id 366`, `World Level 5 Content Guide & FAQ`, was published November 6. It confirms the Book of Stars Lv. 50 unlock path, Corruption Frenzy and Massive Corruption Frenzy rules/schedule, 62-tier permanent Star Map progression, Hero Points, Star Clusters, Apastrons and the related FAQ.

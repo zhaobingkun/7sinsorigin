@@ -1,5 +1,12 @@
 # Project Experience
 
+## November 8, 2026 — Version 2.3 official notice refresh
+
+- The official API list/detail check succeeded after a transient shell DNS failure. The newest record remains `id 366`; material modifications were verified for `id 357` at `2026-11-06T08:54:14Z` and `id 358` at `2026-11-06T09:43:30Z`.
+- `id 357` corrects the World Level 5 details: personal Corruption Frenzy has no separate daily reward cap, Massive Corruption Frenzy allows three daily rewards, Star Map has 62 tiers, Book of Stars expands to Lv. 59, and Akumu's elemental Defense reduction lasts 3 seconds. `id 358` adds two Akumu issues scheduled for a patch after the November 9 boss battle plus a post-Massive Frenzy gliding/swimming issue whose stated temporary workaround is reconnecting.
+- Merged the facts into existing bilingual Version 2.3 update/known-issues pages and troubleshooting hubs, plus homepage/news/current events discovery. Do not create a duplicate thin notice or infer a banner, rate, pity, tier or team-strength change.
+- Use the exact API detail timestamps for `dateModified` when the title rounds to a minute; keep the visible date readable in UTC. Retry the official list/detail endpoints when DNS is transient before relying on indexed fallback pages.
+
 ## November 6, 2026 — World Level 5 guide and maintenance correction
 
 - Official indexed Netmarble article `id 366` is a real new notice: `World Level 5 Content Guide & FAQ`, published November 6. It confirms Book of Stars Lv. 50 plus dungeon access, personal Corruption Frenzy gauges filling every 8 hours even offline, up to three Corrupted Field Bosses, 30 Cube Keys for personal Reward Cubes, the Friday-to-Monday nine-window Massive Frenzy schedule, 10–15-player matching, three daily Massive rewards, and 62 permanent Star Map tiers with Hero Points, Star Clusters and Apastrons.

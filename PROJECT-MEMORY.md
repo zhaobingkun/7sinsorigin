@@ -1,5 +1,12 @@
 # Project Memory
 
+# November 8, 2026 — Version 2.3 official notice refresh
+
+- The official API list still ends at article `id 366`. Detail checks verified material modifications to `id 357` (`2026-11-06T08:54:14Z`) and `id 358` (`2026-11-06T09:43:30Z`); `id 364` remains at the November 6 maintenance correction already integrated.
+- `id 357` clarifies the personal-versus-Massive Corruption Frenzy reward limits, updates Star Map to 62 tiers, expands the Book of Stars cap to Lv. 59, and changes Akumu's elemental Defense reduction duration to 3 seconds. `id 358` adds two Akumu combat issues scheduled for a post-November 9 boss-battle patch, a post-Massive Frenzy graphics/swimming issue with reconnect as the temporary workaround, and the sequential missing-Gold distribution note.
+- Updated both-language Version 2.3 details and Known Issues pages, bugs/errors hubs, homepage/news discovery and current events wording. Preserve the existing Estia/Clotho routing and do not infer banner, rate, pity, tier or team-strength changes.
+- Current tracked scale remains 476 HTML pages and 278 unique sitemap URLs; raw `find` includes ignored `dist/` mirrors.
+
 ## November 6, 2026 — World Level 5 guide and maintenance correction
 
 - Official Netmarble article `id 366`, `World Level 5 Content Guide & FAQ`, published November 6. Confirmed facts include Book of Stars Lv. 50 plus dungeon unlock, 8-hour offline-filling personal Corruption Frenzy gauges, three-boss cap, 30 Cube Keys for personal Reward Cubes, the nine weekly three-hour Massive Corruption Frenzy windows, 10–15-player matchmaking, three daily Massive rewards, and 62 permanent Star Map tiers with 3×15 Star Seeds, Hero Points, 8 Star Clusters and 5 Apastrons per cluster.
