@@ -1,5 +1,12 @@
 # 7sinsorigin.com
 
+## November 25, 2026 — Version 2.4 official update and current routing
+
+- The official Netmarble API now reaches article `id 386`. New records `id 369`–`386` cover the Version 2.4 details, Melascula and Gowther Pick Ups, Version 2.4 known issues, recommended update, server merger notice and November 24 data patch. Detail checks verified `id 372` modified `2026-11-19T08:47:12Z`, `id 373` modified `2026-11-20T08:32:46Z`, `id 381` updated November 23, `id 383` published November 23 and `id 386` modified November 24.
+- Added bilingual pages for the Version 2.4 update details, Melascula details, known issues and server merger. Refreshed homepage/news indexes, events schedule, bugs/errors, current/upcoming banner routes, current-banner-worth-it and sitemap.
+- The confirmed current banners are Melascula and Gowther after the November 19 maintenance through the December 9 maintenance UTC. No successor after December 9, tier ranking, strength conclusion or unsupported rate claim was added; the official Pick Up rules are recorded only where confirmed.
+- Current tracked scale is 484 HTML pages and 286 unique sitemap URLs after validation. The raw `find` count includes ignored Cloudflare `dist/` mirrors.
+
 ## November 8, 2026 — Version 2.3 official notice refresh
 
 - The official Netmarble API list still has article `id 366` as the newest record. Material updates were verified for `id 357` at `2026-11-06T08:54:14Z` and `id 358` at `2026-11-06T09:43:30Z`; `id 364` remains the November 6 maintenance correction already covered locally.

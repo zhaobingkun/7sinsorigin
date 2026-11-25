@@ -1,5 +1,12 @@
 # Project Memory
 
+## November 25, 2026 — Version 2.4 official update and current routing
+
+- The official Netmarble API now reaches article `id 386`; records `id 369`–`386` include Version 2.4 details, Melascula/Gowther Pick Ups, known issues, the server merger and the November 24 data patch. Exact detail timestamps used for page metadata include `id 372` at `2026-11-19T08:47:12Z` and `id 373` at `2026-11-20T08:32:46Z`; `id 381`, `id 383` and `id 386` were checked against their November updates.
+- Added bilingual pages for the 2.4 update details, Melascula, known issues and server merger. Refreshed homepage/news/events/bugs discovery, current and upcoming banner routes, current-banner-worth-it and sitemap.
+- Current routing is Melascula and Gowther through the December 9 maintenance UTC. Preserve the boundary: the official notices confirm Pick Up rules, event dates and server-merger behavior, but do not confirm a post-December-9 successor, tier list or universal strength claim.
+- Current scale is 484 tracked HTML pages and 286 unique sitemap URLs; ignored `dist/` mirrors are not source pages.
+
 # November 8, 2026 — Version 2.3 official notice refresh
 
 - The official API list still ends at article `id 366`. Detail checks verified material modifications to `id 357` (`2026-11-06T08:54:14Z`) and `id 358` (`2026-11-06T09:43:30Z`); `id 364` remains at the November 6 maintenance correction already integrated.

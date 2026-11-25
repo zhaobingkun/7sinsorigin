@@ -1,5 +1,12 @@
 # Project Experience
 
+## November 25, 2026 — Version 2.4 official update and current routing
+
+- The official Netmarble list/detail API reached new records through `id 386` after a transient shell DNS failure. Records `id 369`–`386` supplied the Version 2.4 details, Melascula/Gowther Pick Ups, known-issues changes, server-merger notice and November 24 data patch. Use exact API timestamps for `dateModified`, including `id 372` at `2026-11-19T08:47:12Z` and `id 373` at `2026-11-20T08:32:46Z`.
+- Added bilingual coverage for the four material notices and refreshed current routing, homepage/news/events/bugs discovery, current-banner-worth-it and sitemap. The confirmed current banners are Melascula and Gowther through the December 9 maintenance UTC.
+- Keep the official boundary explicit: do not infer a post-December-9 successor, tier ranking, universal strength conclusion or unsupported rates. The Pick Up page records only the official 80-draw SSR, 50% featured, guarantee carryover and 120th-draw bonus rules.
+- Validation target after this edit is 484 tracked HTML pages and 286 unique sitemap URLs; raw `find` includes ignored `dist/` output.
+
 ## November 8, 2026 — Version 2.3 official notice refresh
 
 - The official API list/detail check succeeded after a transient shell DNS failure. The newest record remains `id 366`; material modifications were verified for `id 357` at `2026-11-06T08:54:14Z` and `id 358` at `2026-11-06T09:43:30Z`.
