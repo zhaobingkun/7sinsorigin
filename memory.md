@@ -1,5 +1,12 @@
 # Project Experience
 
+## November 26, 2026 — Version 2.4 event and issue refresh
+
+- Official API detail checks verified `id 384` Wheit & Kern, `id 385` Ultimate Fishing Tournament, and `id 387` November 25 data patch after the previous run. `id 381` has exact `modDate` `2026-11-26T02:13:16Z` and adds intermittent `Set the Hook` failure during the fishing event without a workaround.
+- Existing events-schedule coverage was too thin for the two new event notices, so added bilingual guides and linked them from the homepage, news indexes, events schedule and sitemap. Merged the short server-stabilization patch into the known-issues/troubleshooting routes instead of creating a thin patch page.
+- Keep the boundary explicit: no fishing workaround, drop rate, banner successor, tier ranking or universal strength conclusion is confirmed. Current Melascula/Gowther routing still ends at the December 9 maintenance UTC.
+- Validation passed 488 HTML pages, 290 unique sitemap URLs, zero release/policy errors, XML/diff checks, bilingual metadata/JSON-LD/internal-link checks and banner-status tests. Raw `find` count is 952 because ignored `dist/` mirrors are present.
+
 ## November 25, 2026 — Version 2.4 official update and current routing
 
 - The official Netmarble list/detail API reached new records through `id 386` after a transient shell DNS failure. Records `id 369`–`386` supplied the Version 2.4 details, Melascula/Gowther Pick Ups, known-issues changes, server-merger notice and November 24 data patch. Use exact API timestamps for `dateModified`, including `id 372` at `2026-11-19T08:47:12Z` and `id 373` at `2026-11-20T08:32:46Z`.

@@ -1,5 +1,11 @@
 # Project Memory
 
+## November 26, 2026 — Version 2.4 event and issue refresh
+
+- Official API records `id 384` and `385` introduced the Two as One! Wheit & Kern Event Boss and Ultimate Fishing Tournament on November 25. The event pages record only confirmed requirements, windows, reward categories, ranking/reset rules and the official no-rate boundary.
+- Article `id 381` changed at exact API time `2026-11-26T02:13:16Z`, adding an intermittent inability to use `Set the Hook` during the fishing event with no official workaround. Article `id 387` confirms the November 25 05:00–05:20 UTC data patch only performed server stabilization work.
+- Added EN/ZH event guides, updated 2.4 known-issues and troubleshooting routes, refreshed event/home/news discovery and sitemap, and corrected stale Chinese current-banner JSON-LD. Current banner routing remains Melascula/Gowther through December 9 maintenance UTC. Current scale is 488 tracked HTML pages and 290 unique sitemap URLs.
+
 ## November 25, 2026 — Version 2.4 official update and current routing
 
 - The official Netmarble API now reaches article `id 386`; records `id 369`–`386` include Version 2.4 details, Melascula/Gowther Pick Ups, known issues, the server merger and the November 24 data patch. Exact detail timestamps used for page metadata include `id 372` at `2026-11-19T08:47:12Z` and `id 373` at `2026-11-20T08:32:46Z`; `id 381`, `id 383` and `id 386` were checked against their November updates.

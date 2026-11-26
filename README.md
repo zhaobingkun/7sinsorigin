@@ -1,5 +1,11 @@
 # 7sinsorigin.com
 
+## November 26, 2026 — Version 2.4 event and known-issues refresh
+
+- The official Netmarble API now reaches article `id 387`; new Version 2.4 records `id 384`, `385`, and `387` add the Wheit & Kern Event Boss, Ultimate Fishing Tournament, and November 25 server-stabilization data patch. Article `id 381` was materially updated at `2026-11-26T02:13:16Z` with an intermittent fishing `Set the Hook` issue and no published workaround; article `id 385` was updated at `2026-11-25T08:16:39Z` with tie-ranking details.
+- Added bilingual event guides for the fishing tournament and Wheit & Kern, refreshed the bilingual 2.4 Known Issues pages, events schedule, bugs/errors hubs, homepage/news indexes, current-banner metadata, and sitemap. No drop rate, banner successor, tier ranking, or unsupported workaround was inferred.
+- Current Melascula/Gowther routing remains through the December 9 maintenance UTC. Validated scale is 488 HTML pages and 290 unique sitemap URLs; raw `find` includes ignored Cloudflare `dist/` mirrors.
+
 ## November 25, 2026 — Version 2.4 official update and current routing
 
 - The official Netmarble API now reaches article `id 386`. New records `id 369`–`386` cover the Version 2.4 details, Melascula and Gowther Pick Ups, Version 2.4 known issues, recommended update, server merger notice and November 24 data patch. Detail checks verified `id 372` modified `2026-11-19T08:47:12Z`, `id 373` modified `2026-11-20T08:32:46Z`, `id 381` updated November 23, `id 383` published November 23 and `id 386` modified November 24.
